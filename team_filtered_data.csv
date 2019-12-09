@@ -1,0 +1,259 @@
+,data,dayname,somma_polli,t_media,t_min,umidità_percentuale,fenomeni,juventus,feste,team1,team2,score,championship
+1,2015-01-02,venerdì,9,0,-4,85,sole,0,0,Udinese,Juventus,0-0,A
+10,2015-01-11,domenica,6,1,-2,91,nebbia ,0,0,Lazio,Milan,1-3,A
+16,2015-01-18,domenica,18,5,1,80,sole,0,0,Juventus,Verona,4-0,A
+21,2015-01-24,sabato,28,5,2,75,sole,0,0,Lazio,Milan,3-1,A
+22,2015-01-25,domenica,26,5,2,73,sole,0,0,Juventus,Chievo,2-0,A
+29,2015-02-03,martedì,17,3,-2,68,sole,0,0,Roma,Juventus,1-1,A
+31,2015-02-05,giovedì,11,5,4,84,sole,0,0,Sampdoria,Juventus,0-1,A
+40,2015-02-15,domenica,28,8,6,83,sole,0,Carnevale,Cesena,Juventus,2-2,A
+44,2015-02-20,venerdì,17,4,-1,84,sole,0,0,Juventus,Atalanta,2-1,A
+51,2015-02-28,sabato,33,8,1,71,sole,0,0,Chievo,Milan,0-0,A
+55,2015-03-05,giovedì,10,8,3,43,sole,0,0,Napoli,Milan,3-0,A
+63,2015-03-14,sabato,41,8,3,62,sole,0,0,Palermo,Juventus,0-1,A
+70,2015-03-22,domenica,37,9,7,79,pioggia ,0,0,Juventus,Genoa,1-0,A
+81,2015-04-04,sabato,17,10,8,53,sole,0,0,Palermo,Milan,1-2,A
+81,2015-04-04,sabato,17,10,8,53,sole,0,0,Juventus,Empoli,2-0,A
+86,2015-04-10,venerdì,19,14,7,62,sole,0,0,Juventus,Bologna,3-1,A
+88,2015-04-12,domenica,28,15,8,67,nebbia ,serie A,0,Lazio,Juventus,0-2,A
+93,2015-04-18,sabato,40,13,8,77,pioggia temporale nebbia ,0,0,Juventus,Lazio,2-0,A
+94,2015-04-19,domenica,25,11,7,51,sole,serie A,0,Inter,Milan,0-0,A
+99,2015-04-25,sabato,36,15,9,77,pioggia ,0,Anniversario della Liberazione,Udinese,Milan,2-1,A
+100,2015-04-26,domenica,27,16,11,81,pioggia ,0,0,Torino,Juventus,2-1,A
+102,2015-04-29,mercoledì,15,15,11,71,sole,0,0,Juventus,Fiorentina,3-2,A
+117,2015-05-16,sabato,27,20,15,74,pioggia temporale ,0,0,Inter,Juventus,1-2,A
+118,2015-05-17,domenica,23,23,16,56,sole,serie A,0,Sassuolo,Milan,3-2,A
+123,2015-05-23,sabato,33,14,12,87,pioggia ,0,0,Juventus,Napoli,3-1,A
+129,2015-05-30,sabato,32,21,15,65,sole,0,0,Atalanta,Milan,1-3,A
+129,2015-05-30,sabato,32,21,15,65,sole,0,0,Verona,Juventus,2-2,A
+131,2015-06-01,lunedì,15,22,16,65,sole,0,0,Juventus,Inter,1-1,A
+141,2015-06-12,venerdì,18,25,20,64,sole,0,0,Carpi,Milan,0-0,A
+158,2015-07-02,giovedì,17,27,21,54,sole,0,0,Juventus,Milan,3-1,A
+192,2015-08-11,martedì,27,26,18,55,sole,0,0,Empoli,Juventus,1-3,A
+203,2015-08-23,domenica,38,21,16,65,pioggia ,0,0,Juventus,Udinese,0-1,A
+203,2015-08-23,domenica,38,21,16,65,pioggia ,0,0,Fiorentina,Milan,2-0,A
+209,2015-08-30,domenica,35,27,19,55,sole,0,0,Roma,Juventus,2-1,A
+212,2015-09-03,giovedì,26,23,19,63,sole,0,0,Juventus,Sassuolo,1-0,A
+214,2015-09-05,sabato,36,20,16,66,sole,0,0,Juventus,Cagliari,1-1,A
+221,2015-09-13,domenica,36,20,16,78,sole,serie A,0,Inter,Milan,1-0,A
+227,2015-09-20,domenica,41,20,14,64,sole,0,0,Genoa,Juventus,0-2,A
+228,2015-09-22,martedì,33,18,13,59,sole,0,0,Udinese,Milan,2-3,A
+231,2015-09-26,sabato,46,18,13,75,sole,0,0,Napoli,Juventus,2-1,A
+232,2015-09-27,domenica,43,17,14,71,sole,serie A,0,Genoa,Milan,1-0,A
+235,2015-10-01,giovedì,34,14,9,56,pioggia ,champions,0,Torino,Milan,1-1,A
+249,2015-10-17,sabato,47,11,6,80,sole,0,0,Torino,Milan,1-1,A
+250,2015-10-18,domenica,36,12,11,90,pioggia ,0,0,Inter,Juventus,0-0,A
+256,2015-10-25,domenica,36,11,5,83,sole,0,0,Juventus,Atalanta,2-0,A
+258,2015-10-28,mercoledì,25,13,12,92,pioggia ,0,0,Sassuolo,Juventus,1-0,A
+261,2015-10-31,sabato,52,12,6,73,sole,0,0,Juventus,Torino,2-1,A
+262,2015-11-01,domenica,32,10,5,74,sole,serie A,Ognissanti,Napoli,Juventus,1-3,A
+264,2015-11-04,mercoledì,25,11,6,88,sole,champions,0,Parma,Juventus,1-0,A
+279,2015-11-21,sabato,44,9,5,93,sole,0,0,Juventus,Milan,1-0,A
+286,2015-11-29,domenica,42,2,-2,84,sole,0,0,Palermo,Juventus,0-3,A
+294,2015-12-09,mercoledì,32,3,0,99,sole,champions,0,Juventus,Chievo,1-1,A
+298,2015-12-13,domenica,39,3,0,92,sole,0,0,Juventus,Fiorentina,3-1,A
+304,2015-12-20,domenica,32,3,-2,90,sole,0,0,Carpi,Juventus,2-3,A
+304,2015-12-20,domenica,32,3,-2,90,sole,0,0,Frosinone,Milan,2-4,A
+315,2016-01-05,martedì,26,3,1,94,neve ,0,0,Juventus,Carpi,2-0,A
+326,2016-01-17,domenica,33,3,-5,43,sole,0,0,Udinese,Juventus,0-4,A
+331,2016-01-23,sabato,55,1,-3,80,sole,0,0,Empoli,Milan,2-2,A
+332,2016-01-24,domenica,41,0,-5,87,sole,0,0,Juventus,Roma,1-0,A
+338,2016-01-31,domenica,32,6,5,99,nebbia ,0,0,Chievo,Juventus,0-4,A
+341,2016-02-04,giovedì,25,5,0,78,nebbia ,serie A,Giovedì Grasso,Juventus,Empoli,1-0,A
+346,2016-02-10,mercoledì,15,8,1,61,pioggia ,0,0,Empoli,Juventus,0-3,A
+349,2016-02-13,sabato,43,5,2,84,sole,0,0,Juventus,Napoli,1-0,A
+354,2016-02-19,venerdì,34,9,2,69,sole,0,0,Bologna,Juventus,0-0,A
+362,2016-02-28,domenica,34,12,10,77,pioggia ,serie A,0,Juventus,Inter,2-0,A
+364,2016-03-02,mercoledì,35,9,4,75,pioggia ,0,0,Palermo,Milan,0-2,A
+364,2016-03-02,mercoledì,35,9,4,75,pioggia ,0,0,Juventus,Genoa,1-0,A
+366,2016-03-04,venerdì,23,7,2,66,sole,0,0,Atalanta,Milan,2-1,A
+373,2016-03-12,sabato,41,11,7,64,sole,serie A,0,Juventus,Atalanta,3-1,A
+374,2016-03-13,domenica,26,11,8,56,sole,0,0,Chievo,Milan,0-0,A
+380,2016-03-20,domenica,27,10,3,70,sole,0,Domenica delle Palme,Torino,Juventus,1-4,A
+403,2016-04-17,domenica,29,16,10,70,sole,0,0,Sampdoria,Milan,0-1,A
+403,2016-04-17,domenica,29,16,10,70,sole,0,0,Juventus,Palermo,4-0,A
+405,2016-04-20,mercoledì,19,15,9,66,sole,0,0,Juventus,Lazio,3-0,A
+408,2016-04-24,domenica,37,12,9,85,sole,0,0,Fiorentina,Juventus,1-2,A
+425,2016-05-14,sabato,46,17,12,79,pioggia temporale ,0,0,Juventus,Sampdoria,5-0,A
+440,2016-06-01,mercoledì,23,18,13,78,pioggia ,0,0,Juventus,Verona,3-0,A
+442,2016-06-03,venerdì,19,19,16,80,sole,0,0,Atalanta,Juventus,0-2,A
+442,2016-06-03,venerdì,19,19,16,80,sole,0,0,Sassuolo,Milan,2-0,A
+449,2016-06-11,sabato,26,21,16,77,pioggia ,0,0,Chievo,Juventus,1-2,A
+449,2016-06-11,sabato,26,21,16,77,pioggia ,0,0,Palermo,Milan,1-2,A
+467,2016-07-02,sabato,41,26,20,66,sole,0,0,Frosinone,Juventus,0-2,A
+469,2016-07-05,martedì,25,25,18,63,sole,0,0,Bologna,Milan,0-1,A
+496,2016-08-05,venerdì,19,22,18,73,pioggia temporale ,0,0,Verona,Juventus,2-1,A
+508,2016-08-20,sabato,31,24,20,79,pioggia temporale ,0,0,Juventus,Fiorentina,2-1,A
+514,2016-08-27,sabato,22,24,4,65,sole,0,0,Lazio,Juventus,0-1,A
+514,2016-08-27,sabato,22,24,4,65,sole,0,0,Napoli,Milan,4-2,A
+518,2016-09-01,giovedì,27,24,18,64,sole,0,0,Roma,Milan,1-1,A
+521,2016-09-04,domenica,32,25,19,60,sole,0,0,Milan,Juventus,1-2,A
+531,2016-09-16,venerdì,34,19,17,88,sole,0,0,Sampdoria,Milan,0-1,A
+533,2016-09-18,domenica,37,19,13,75,sole,0,0,Inter,Juventus,2-1,A
+535,2016-09-21,mercoledì,22,17,14,76,sole,0,0,Juventus,Cagliari,4-0,A
+538,2016-09-24,sabato,31,18,12,67,sole,0,0,Palermo,Juventus,0-1,A
+539,2016-09-25,domenica,32,18,11,68,sole,serie A,0,Fiorentina,Milan,0-0,A
+544,2016-10-01,sabato,31,18,11,74,pioggia ,0,0,Sampdoria,Juventus,1-2,A
+551,2016-10-09,domenica,33,13,11,66,pioggia ,0,0,Juventus,Sassuolo,3-1,A
+557,2016-10-15,sabato,31,15,13,90,pioggia ,0,0,Juventus,Udinese,2-1,A
+558,2016-10-16,domenica,33,14,10,91,nebbia ,serie A,0,Chievo,Milan,1-3,A
+563,2016-10-22,sabato,49,11,6,85,pioggia nebbia ,0,0,Milan,Juventus,1-0,A
+565,2016-10-25,martedì,15,14,13,98,pioggia ,0,0,Genoa,Milan,3-0,A
+566,2016-10-26,mercoledì,17,15,13,97,nebbia ,0,0,Juventus,Sampdoria,4-1,A
+569,2016-10-29,sabato,33,11,5,84,sole,0,0,Juventus,Napoli,2-1,A
+574,2016-11-03,giovedì,14,12,8,77,sole,champions,0,Juventus,Sassuolo,1-0,A
+582,2016-11-12,sabato,26,6,0,82,nebbia ,0,0,Torino,Juventus,1-3,A
+588,2016-11-19,sabato,42,9,8,99,pioggia nebbia ,0,0,Juventus,Pescara,3-0,A
+594,2016-11-26,sabato,37,12,9,91,pioggia nebbia ,0,0,Empoli,Milan,1-4,A
+595,2016-11-27,domenica,30,9,7,99,nebbia ,0,0,Genoa,Juventus,3-1,A
+612,2016-12-17,sabato,40,0,-4,92,sole,0,0,Juventus,Roma,1-0,A
+632,2017-01-10,martedì,9,0,-7,74,sole,0,0,Atalanta,Juventus,2-2,A
+634,2017-01-12,giovedì,20,0,-3,67,pioggia neve ,0,0,Napoli,Juventus,0-1,A
+637,2017-01-15,domenica,22,2,-2,63,sole,0,0,Fiorentina,Juventus,2-1,A
+643,2017-01-22,domenica,32,1,-4,58,sole,0,0,Juventus,Lazio,2-0,A
+649,2017-01-29,domenica,30,-1,-6,79,sole,0,0,Sassuolo,Juventus,0-2,A
+649,2017-01-29,domenica,30,-1,-6,79,sole,0,0,Udinese,Milan,2-1,A
+654,2017-02-04,sabato,32,7,6,97,pioggia nebbia ,0,0,Napoli,Juventus,1-1,A
+654,2017-02-04,sabato,32,7,6,97,pioggia nebbia ,0,0,Pescara,Milan,1-1,A
+665,2017-02-17,venerdì,25,6,0,75,sole,0,0,Juventus,Palermo,4-1,A
+672,2017-02-25,sabato,43,8,2,59,sole,0,0,Juventus,Empoli,2-0,A
+673,2017-02-26,domenica,39,7,0,61,sole,serie A,Carnevale,Sassuolo,Milan,0-1,A
+685,2017-03-12,domenica,38,9,4,51,sole,0,0,Benevento,Milan,2-2,A
+691,2017-03-19,domenica,29,11,5,74,sole,0,Festa di San Giuseppe,Sampdoria,Juventus,0-1,A
+714,2017-04-15,sabato,35,16,12,76,sole,0,0,Pescara,Juventus,0-2,A
+714,2017-04-15,sabato,35,16,12,76,sole,0,0,Inter,Milan,2-2,A
+720,2017-04-23,domenica,40,13,5,57,sole,0,0,Juventus,Genoa,4-0,A
+725,2017-04-28,venerdì,34,12,7,69,sole,0,0,Atalanta,Juventus,2-2,A
+727,2017-04-30,domenica,40,13,5,57,sole,0,0,Crotone,Milan,1-1,A
+729,2017-05-02,martedì,19,13,6,68,pioggia ,0,0,Juventus,Inter,1-0,A
+730,2017-05-03,mercoledì,36,13,10,79,pioggia ,0,0,Udinese,Juventus,1-1,A
+737,2017-05-11,giovedì,44,16,10,73,sole,0,0,Sassuolo,Milan,0-2,A
+737,2017-05-11,giovedì,44,16,10,73,sole,0,0,Juventus,Benevento,2-1,A
+739,2017-05-13,sabato,53,19,13,71,pioggia temporale ,0,0,Atalanta,Milan,1-1,A
+740,2017-05-14,domenica,43,20,14,68,pioggia temporale ,0,Festa della Mamma,Roma,Juventus,3-1,A
+746,2017-05-21,domenica,34,20,12,57,sole,0,0,Juventus,Crotone,3-0,A
+751,2017-05-27,sabato,27,22,14,54,sole,0,0,Bologna,Juventus,1-2,A
+752,2017-05-28,domenica,32,27,22,40,sole,serie A,0,Cagliari,Milan,2-1,A
+807,2017-08-01,martedì,23,29,22,64,sole,0,0,Juventus,Bologna,3-0,A
+808,2017-08-02,mercoledì,19,30,23,58,sole,0,0,Bologna,Milan,0-1,A
+808,2017-08-02,mercoledì,19,30,23,58,sole,0,0,Crotone,Juventus,0-2,A
+810,2017-08-04,venerdì,27,30,23,57,sole,0,0,Juventus,Chievo,2-0,A
+822,2017-08-19,sabato,28,26,18,57,sole,0,0,Juventus,Cagliari,3-0,A
+823,2017-08-20,domenica,28,22,16,58,sole,serie A,0,Crotone,Milan,0-3,A
+828,2017-08-26,sabato,28,27,21,57,sole,0,0,Genoa,Juventus,2-4,A
+840,2017-09-09,sabato,40,20,15,72,pioggia temporale ,0,0,Juventus,Chievo,3-0,A
+842,2017-09-12,martedì,26,18,14,81,pioggia temporale ,0,0,Juventus,Inter,0-0,A
+847,2017-09-17,domenica,31,17,12,68,pioggia temporale ,0,0,Sassuolo,Juventus,1-3,A
+849,2017-09-20,mercoledì,20,17,10,56,sole,0,0,Juventus,Fiorentina,1-0,A
+852,2017-09-23,sabato,5,17,12,73,sole,0,0,Juventus,Torino,4-0,A
+853,2017-09-24,domenica,30,16,13,81,pioggia temporale ,serie A,0,Sampdoria,Milan,2-0,A
+860,2017-10-03,martedì,22,16,13,81,sole,0,0,Juventus,Milan,2-1,A
+870,2017-10-14,sabato,38,15,9,76,sole,0,0,Juventus,Lazio,1-2,A
+871,2017-10-15,domenica,32,16,8,72,sole,serie A,0,Inter,Milan,3-2,A
+877,2017-10-22,domenica,38,14,11,86,pioggia temporale ,0,0,Udinese,Juventus,2-6,A
+879,2017-10-25,mercoledì,31,11,6,69,sole,0,0,Chievo,Milan,1-4,A
+879,2017-10-25,mercoledì,31,11,6,69,sole,0,0,Juventus,Spal,4-1,A
+882,2017-10-28,sabato,45,9,4,79,sole,0,0,Milan,Juventus,0-2,A
+900,2017-11-18,sabato,49,7,1,80,sole,0,0,Napoli,Milan,2-1,A
+901,2017-11-19,domenica,25,5,1,86,sole,0,0,Sampdoria,Juventus,3-2,A
+907,2017-11-26,domenica,32,7,2,86,sole,0,0,Juventus,Crotone,3-0,A
+912,2017-12-02,sabato,49,5,0,51,sole,serie A,0,Cagliari,Juventus,0-2,A
+925,2017-12-17,domenica,32,1,-4,88,nebbia ,0,0,Bologna,Juventus,0-3,A
+925,2017-12-17,domenica,32,1,-4,88,nebbia ,0,0,Verona,Milan,3-0,A
+930,2017-12-23,sabato,29,1,-4,87,nebbia ,0,0,Juventus,Roma,1-0,A
+936,2017-12-30,sabato,31,2,-1,76,sole,0,0,Fiorentina,Milan,1-1,A
+936,2017-12-30,sabato,31,2,-1,76,sole,0,0,Verona,Juventus,1-3,A
+944,2018-01-09,martedì,18,12,8,85,sole,0,0,Parma,Juventus,1-2,A
+947,2018-01-12,venerdì,41,7,0,69,sole,0,0,Fiorentina,Juventus,0-3,A
+955,2018-01-21,domenica,43,5,1,79,sole,0,0,Cagliari,Milan,1-2,A
+960,2018-01-27,sabato,38,8,5,83,sole,0,0,Chievo,Juventus,0-2,A
+979,2018-02-18,domenica,39,5,4,82,pioggia nebbia ,0,0,Torino,Juventus,0-1,A
+985,2018-02-25,domenica,38,2,0,58,sole,0,0,Roma,Milan,0-2,A
+989,2018-03-03,sabato,51,1,-1,95,pioggia neve nebbia ,0,0,Lazio,Juventus,0-1,A
+996,2018-03-11,domenica,31,9,8,93,pioggia ,0,0,Juventus,Cagliari,3-1,A
+998,2018-03-14,mercoledì,21,9,4,85,nebbia ,0,0,Juventus,Atalanta,2-0,A
+1001,2018-03-17,sabato,51,9,8,86,pioggia ,0,0,Spal,Juventus,0-0,A
+1013,2018-03-31,sabato,31,10,8,80,pioggia ,0,0,Juventus,Milan,3-1,A
+1021,2018-04-11,mercoledì,27,11,6,87,sole,0,0,Udinese,Milan,0-1,A
+1025,2018-04-15,domenica,39,15,10,74,sole,0,0,Juventus,Sampdoria,3-0,A
+1027,2018-04-18,mercoledì,17,19,12,60,sole,0,0,Crotone,Juventus,1-1,A
+1027,2018-04-18,mercoledì,17,19,12,60,sole,0,0,Torino,Milan,1-1,A
+1031,2018-04-22,domenica,30,20,12,52,sole,0,0,Juventus,Napoli,0-1,A
+1036,2018-04-28,sabato,34,19,11,61,sole,0,0,Inter,Juventus,2-3,A
+1037,2018-04-29,domenica,43,20,14,62,sole,0,0,Bologna,Milan,1-2,A
+1043,2018-05-05,sabato,47,19,13,74,sole,0,0,Juventus,Bologna,3-1,A
+1050,2018-05-13,domenica,40,19,15,77,pioggia temporale ,0,Festa della Mamma,Roma,Juventus,0-0,A
+1050,2018-05-13,domenica,40,19,15,77,pioggia temporale ,0,Festa della Mamma,Atalanta,Milan,1-1,A
+1055,2018-05-19,sabato,34,20,13,61,sole,0,0,Juventus,Verona,2-1,A
+1066,2018-06-01,venerdì,23,25,20,56,sole,0,0,Cagliari,Juventus,0-1,A
+1074,2018-06-10,domenica,33,25,18,68,sole,0,0,Udinese,Juventus,0-2,A
+1094,2018-07-04,mercoledì,25,24,19,67,sole,0,0,Benevento,Juventus,2-4,A
+1101,2018-07-12,giovedì,24,24,19,71,sole,0,0,Juventus,Inter,1-0,A
+1132,2018-08-18,sabato,17,26,19,56,sole,0,0,Chievo,Juventus,2-3,A
+1138,2018-08-25,sabato,38,21,18,81,sole,0,0,Juventus,Lazio,2-0,A
+1138,2018-08-25,sabato,38,21,18,81,sole,0,0,Napoli,Milan,3-2,A
+1145,2018-09-02,domenica,42,18,16,86,pioggia ,serie A,0,Fiorentina,Juventus,0-2,A
+1157,2018-09-16,domenica,40,22,17,74,sole,0,0,Cagliari,Milan,1-1,A
+1157,2018-09-16,domenica,40,22,17,74,sole,0,0,Juventus,Sassuolo,2-1,A
+1163,2018-09-23,domenica,40,21,15,74,sole,0,0,Frosinone,Juventus,0-2,A
+1165,2018-09-26,mercoledì,29,14,10,49,sole,0,0,Juventus,Bologna,2-0,A
+1166,2018-09-27,giovedì,33,14,6,65,sole,serie A,0,Empoli,Milan,1-1,A
+1168,2018-09-29,sabato,36,20,12,50,sole,0,0,Juventus,Napoli,3-1,A
+1169,2018-09-30,domenica,46,17,14,50,sole,serie A,0,Sassuolo,Milan,1-4,A
+1170,2018-10-02,martedì,24,14,11,74,pioggia ,0,0,Spal,Milan,0-4,A
+1186,2018-10-20,sabato,37,16,11,73,sole,0,0,Juventus,Genoa,1-1,A
+1187,2018-10-21,domenica,47,14,10,76,pioggia ,serie A,0,Inter,Milan,1-0,A
+1192,2018-10-27,sabato,51,15,12,92,pioggia ,0,0,Empoli,Juventus,1-2,A
+1198,2018-11-03,sabato,51,15,13,91,sole,0,0,Genoa,Milan,0-1,A
+1198,2018-11-03,sabato,51,15,13,91,sole,0,0,Juventus,Udinese,2-0,A
+1205,2018-11-11,domenica,42,13,12,89,pioggia ,0,0,Milan,Juventus,0-2,A
+1216,2018-11-24,sabato,40,10,8,93,pioggia nebbia ,0,0,Juventus,Spal,2-0,A
+1217,2018-11-25,domenica,42,10,9,88,pioggia ,serie A,0,Lazio,Milan,1-1,A
+1234,2018-12-15,sabato,52,-3,-5,82,sole,0,0,Torino,Juventus,0-1,A
+1236,2018-12-18,martedì,27,-2,-5,90,nebbia ,0,0,Bologna,Milan,0-0,A
+1240,2018-12-22,sabato,41,3,0,94,nebbia ,0,0,Juventus,Roma,1-0,A
+1242,2018-12-26,mercoledì,19,0,-1,100,nebbia ,0,Santo Stefano,Frosinone,Milan,0-0,A
+1242,2018-12-26,mercoledì,19,0,-1,100,nebbia ,0,Santo Stefano,Atalanta,Juventus,2-2,A
+1245,2018-12-29,sabato,32,2,-3,91,nebbia ,0,0,Juventus,Sampdoria,2-1,A
+1257,2019-01-12,sabato,55,0,-4,85,sole,0,0,Parma,Milan,0-1,A
+1257,2019-01-12,sabato,55,0,-4,85,sole,0,0,Juventus,Sassuolo,2-2,A
+1269,2019-01-27,domenica,41,1,-4,89,pioggia ,0,0,Lazio,Juventus,1-2,A
+1274,2019-02-02,sabato,61,4,3,98,pioggia nebbia ,0,0,Juventus,Parma,3-3,A
+1285,2019-02-15,venerdì,42,6,-1,69,sole,0,0,Juventus,Frosinone,3-0,A
+1286,2019-02-16,sabato,49,7,-1,67,sole,serie A,0,Atalanta,Milan,1-3,A
+1293,2019-02-24,domenica,42,3,-3,54,sole,0,0,Bologna,Juventus,0-1,A
+1298,2019-03-02,sabato,58,9,1,69,sole,0,0,Roma,Milan,1-1,A
+1299,2019-03-03,domenica,44,10,1,65,sole,0,Carnevale,Napoli,Juventus,1-2,A
+1300,2019-03-05,martedì,35,8,4,79,sole,0,Martedì Grasso,Juventus,Torino,1-1,A
+1311,2019-03-17,domenica,47,11,4,72,sole,0,0,Genoa,Juventus,2-0,A
+1322,2019-03-30,sabato,58,13,6,53,sole,0,0,Juventus,Empoli,1-0,A
+1322,2019-03-30,sabato,58,13,6,53,sole,0,0,Sampdoria,Milan,1-0,A
+1335,2019-04-13,sabato,49,11,9,74,sole,0,0,Spal,Juventus,2-1,A
+1341,2019-04-20,sabato,33,16,8,50,sole,0,0,Parma,Milan,1-1,A
+1341,2019-04-20,sabato,33,16,8,50,sole,0,0,Juventus,Fiorentina,2-1,A
+1346,2019-04-27,sabato,33,15,6,61,sole,0,0,Inter,Juventus,1-1,A
+1347,2019-04-28,domenica,38,12,9,68,sole,serie A,0,Torino,Milan,2-0,A
+1357,2019-05-10,venerdì,40,16,9,72,sole,0,0,Genoa,Milan,1-2,A
+1365,2019-05-19,domenica,34,14,12,89,sole,0,0,Juventus,Atalanta,1-1,A
+1371,2019-05-26,domenica,45,19,15,76,sole,0,0,Sampdoria,Juventus,2-0,A
+1371,2019-05-26,domenica,45,19,15,76,sole,0,0,Spal,Milan,2-3,A
+1377,2019-06-04,martedì,26,25,18,60,sole,0,0,Juventus,Milan,2-1,A
+1410,2019-07-12,venerdì,38,24,17,59,sole,0,0,Lazio,Juventus,,A
+1429,2019-08-03,sabato,23,23,16,64,sole,0,0,Juventus,Udinese,4-1,A
+1446,2019-08-24,sabato,46,25,21,66,sole,0,0,Parma,Juventus,0-1,A
+1447,2019-08-25,domenica,35,25,19,65,sole,serie A,0,Udinese,Milan,1-0,A
+1452,2019-08-31,sabato,41,26,22,64,sole,0,0,Juventus,Napoli,4-3,A
+1454,2019-09-03,martedì,32,23,19,60,sole,0,0,Chievo,Milan,1-2,A
+1464,2019-09-14,sabato,42,22,16,67,sole,0,0,Fiorentina,Juventus,0-0,A
+1465,2019-09-15,domenica,50,23,17,68,sole,serie A,0,Verona,Milan,0-1,A
+1470,2019-09-21,sabato,38,15,8,63,sole,0,0,Juventus,Verona,2-1,A
+1472,2019-09-24,martedì,32,18,10,76,sole,0,0,Brescia,Juventus,1-2,A
+1474,2019-09-26,giovedì,33,19,14,77,sole,0,0,Torino,Milan,2-1,A
+1476,2019-09-28,sabato,50,20,16,78,sole,0,0,Juventus,Spal,2-0,A
+1479,2019-10-02,mercoledì,35,19,17,83,sole,champions,0,Sassuolo,Juventus,0-3,A
+1487,2019-10-11,venerdì,48,15,11,79,sole,0,0,Juventus,Milan,1-0,A
+1494,2019-10-19,sabato,53,16,14,88,sole,0,0,Juventus,Bologna,2-1,A
+1500,2019-10-26,sabato,57,15,9,80,sole,0,0,Lecce,Juventus,1-1,A
+1501,2019-10-27,domenica,48,14,8,84,sole,serie A,0,Roma,Milan,2-1,A
+1503,2019-10-30,mercoledì,37,13,12,69,sole,0,0,Juventus,Genoa,2-1,A
+1508,2019-11-05,martedì,44,13,8,92,sole,0,0,Fiorentina,Milan,0-1,A
