@@ -1,0 +1,2039 @@
+,data,dayname,somma_polli,t_media,fenomeni,feste,team1,team2,championship,avversario,Italia
+0,2015-01-01,giovedì,6,0,sole,Primo dell'Anno,-,-,-,-,-
+1,2015-01-02,venerdì,9,0,sole,0,Udinese,Juventus,A,-,-
+1,2015-01-02,venerdì,9,0,sole,0,Chievo,Napoli,A,-,-
+1,2015-01-02,venerdì,9,0,sole,0,Cesena,Lazio,A,-,-
+1,2015-01-02,venerdì,9,0,sole,0,Milan,Parma,A,-,-
+1,2015-01-02,venerdì,9,0,sole,0,Sassuolo,Inter,A,-,-
+2,2015-01-03,sabato,14,4,sole,0,Sassuolo,Lazio,A,-,-
+2,2015-01-03,sabato,14,4,sole,0,Inter,Fiorentina,A,-,-
+2,2015-01-03,sabato,14,4,sole,0,Torino,Napoli,A,-,-
+3,2015-01-04,domenica,10,3,sole,0,-,-,-,-,-
+4,2015-01-05,lunedì,14,4,sole,0,-,-,-,-,-
+5,2015-01-06,martedì,13,2,sole,Epifania,-,-,-,-,-
+6,2015-01-07,mercoledì,4,3,sole,0,-,-,-,-,-
+7,2015-01-08,giovedì,10,4,sole,0,-,-,-,-,-
+8,2015-01-09,venerdì,13,2,nebbia ,0,-,-,-,-,-
+9,2015-01-10,sabato,14,2,nebbia ,0,-,-,-,-,-
+10,2015-01-11,domenica,6,1,nebbia ,0,Genoa,Napoli,A,-,-
+10,2015-01-11,domenica,6,1,nebbia ,0,Lazio,Milan,A,-,-
+11,2015-01-13,martedì,13,3,sole,0,-,-,-,-,-
+12,2015-01-14,mercoledì,13,4,nebbia ,0,-,-,-,-,-
+13,2015-01-15,giovedì,8,4,pioggia nebbia ,0,-,-,-,-,-
+14,2015-01-16,venerdì,15,7,pioggia ,0,-,-,-,-,-
+15,2015-01-17,sabato,20,9,pioggia ,0,Empoli,Inter,A,-,-
+16,2015-01-18,domenica,18,5,sole,0,Lazio,Napoli,A,-,-
+16,2015-01-18,domenica,18,5,sole,0,Milan,Atalanta,A,-,-
+16,2015-01-18,domenica,18,5,sole,0,Chievo,Fiorentina,A,-,-
+16,2015-01-18,domenica,18,5,sole,0,Juventus,Verona,A,-,-
+17,2015-01-20,martedì,16,2,nebbia ,0,-,-,-,-,-
+18,2015-01-21,mercoledì,12,4,pioggia ,0,-,-,-,-,-
+19,2015-01-22,giovedì,7,6,pioggia ,0,-,-,-,-,-
+20,2015-01-23,venerdì,11,6,sole,0,-,-,-,-,-
+21,2015-01-24,sabato,28,5,sole,0,Lazio,Milan,A,-,-
+22,2015-01-25,domenica,26,5,sole,0,Inter,Torino,A,-,-
+22,2015-01-25,domenica,26,5,sole,0,Juventus,Chievo,A,-,-
+23,2015-01-27,martedì,11,1,sole,0,-,-,-,-,-
+24,2015-01-28,mercoledì,18,2,sole,0,-,-,-,-,-
+25,2015-01-29,giovedì,18,1,pioggia ,0,-,-,-,-,-
+26,2015-01-30,venerdì,24,2,pioggia ,0,-,-,-,-,-
+27,2015-01-31,sabato,32,2,sole,0,-,-,-,-,-
+28,2015-02-01,domenica,29,3,sole,0,-,-,-,-,-
+29,2015-02-03,martedì,17,3,sole,0,Roma,Juventus,A,-,-
+30,2015-02-04,mercoledì,16,6,sole,0,-,-,-,-,-
+31,2015-02-05,giovedì,11,5,sole,0,Sampdoria,Juventus,A,-,-
+32,2015-02-06,venerdì,25,3,sole,0,-,-,-,-,-
+33,2015-02-07,sabato,28,4,sole,0,-,-,-,-,-
+34,2015-02-08,domenica,19,1,sole,0,-,-,-,-,-
+35,2015-02-10,martedì,22,2,sole,0,-,-,-,-,-
+36,2015-02-11,mercoledì,19,4,sole,0,Chievo,Sampdoria,A,-,-
+37,2015-02-12,giovedì,19,5,sole,Giovedì Grasso,-,-,-,-,-
+38,2015-02-13,venerdì,22,6,sole,0,-,-,-,-,-
+39,2015-02-14,sabato,33,6,sole,San Valentino,Palermo,Napoli,A,-,-
+40,2015-02-15,domenica,28,8,sole,Carnevale,Udinese,Lazio,A,-,-
+40,2015-02-15,domenica,28,8,sole,Carnevale,Milan,Empoli,A,-,-
+40,2015-02-15,domenica,28,8,sole,Carnevale,Atalanta,Inter,A,-,-
+40,2015-02-15,domenica,28,8,sole,Carnevale,Cesena,Juventus,A,-,-
+40,2015-02-15,domenica,28,8,sole,Carnevale,Chievo,Sampdoria,A,-,-
+41,2015-02-17,martedì,21,9,sole,Martedì Grasso,-,-,-,-,-
+42,2015-02-18,mercoledì,10,6,sole,0,-,-,-,-,-
+43,2015-02-19,giovedì,20,4,sole,0,-,-,-,-,-
+44,2015-02-20,venerdì,17,4,sole,0,Juventus,Atalanta,A,-,-
+45,2015-02-21,sabato,30,5,sole,0,-,-,-,-,-
+46,2015-02-22,domenica,36,7,sole,0,Milan,Cesena,A,-,-
+46,2015-02-22,domenica,36,7,sole,0,Lazio,Palermo,A,-,-
+46,2015-02-22,domenica,36,7,sole,0,Empoli,Chievo,A,-,-
+47,2015-02-24,martedì,19,7,sole,0,-,-,-,-,-
+48,2015-02-25,mercoledì,13,7,sole,0,-,-,-,-,-
+49,2015-02-26,giovedì,19,8,sole,0,-,-,-,-,-
+50,2015-02-27,venerdì,18,8,sole,0,-,-,-,-,-
+51,2015-02-28,sabato,33,8,sole,0,Chievo,Milan,A,-,-
+52,2015-03-01,domenica,22,7,sole,0,-,-,-,-,-
+53,2015-03-03,martedì,20,8,nebbia ,0,-,-,-,-,-
+54,2015-03-04,mercoledì,23,8,pioggia ,0,-,-,-,-,-
+55,2015-03-05,giovedì,10,8,sole,0,Inter,Chievo,A,-,-
+55,2015-03-05,giovedì,10,8,sole,0,Atalanta,Lazio,A,-,-
+55,2015-03-05,giovedì,10,8,sole,0,Napoli,Milan,A,-,-
+56,2015-03-06,venerdì,20,7,sole,0,-,-,-,-,-
+57,2015-03-07,sabato,37,7,sole,0,-,-,-,-,-
+58,2015-03-08,domenica,27,7,sole,0,-,-,-,-,-
+59,2015-03-10,martedì,20,8,sole,0,Chievo,Verona,A,-,-
+60,2015-03-11,mercoledì,16,10,sole,0,-,-,-,-,-
+61,2015-03-12,giovedì,18,9,sole,0,-,-,-,-,-
+62,2015-03-13,venerdì,22,8,sole,0,-,-,-,-,-
+63,2015-03-14,sabato,41,8,sole,0,Palermo,Juventus,A,-,-
+64,2015-03-15,domenica,34,9,pioggia ,0,Genoa,Chievo,A,-,-
+64,2015-03-15,domenica,34,9,pioggia ,0,Inter,Cesena,A,-,-
+64,2015-03-15,domenica,34,9,pioggia ,0,Verona,Napoli,A,-,-
+65,2015-03-17,martedì,15,12,pioggia ,0,-,-,-,-,-
+66,2015-03-18,mercoledì,18,10,sole,0,-,-,-,-,-
+67,2015-03-19,giovedì,19,10,sole,Festa di San Giuseppe,-,-,-,-,-
+68,2015-03-20,venerdì,17,10,sole,0,-,-,-,-,-
+69,2015-03-21,sabato,31,10,pioggia ,0,Chievo,Palermo,A,-,-
+69,2015-03-21,sabato,31,10,pioggia ,0,Milan,Cagliari,A,-,-
+70,2015-03-22,domenica,37,9,pioggia ,0,Sampdoria,Inter,A,-,-
+70,2015-03-22,domenica,37,9,pioggia ,0,Napoli,Atalanta,A,-,-
+70,2015-03-22,domenica,37,9,pioggia ,0,Juventus,Genoa,A,-,-
+70,2015-03-22,domenica,37,9,pioggia ,0,Lazio,Verona,A,-,-
+71,2015-03-24,martedì,21,12,sole,0,-,-,-,-,-
+72,2015-03-25,mercoledì,23,12,pioggia ,0,-,-,-,-,-
+73,2015-03-26,giovedì,19,11,pioggia ,0,-,-,-,-,-
+74,2015-03-27,venerdì,16,12,sole,0,-,-,-,-,-
+75,2015-03-28,sabato,39,13,sole,0,-,-,-,Bulgaria,Italia
+76,2015-03-29,domenica,20,12,sole,Domenica delle Palme,-,-,-,-,-
+77,2015-03-31,martedì,16,14,sole,0,-,-,-,Inghilterra,Italia
+78,2015-04-01,mercoledì,15,13,nebbia ,0,-,-,-,-,-
+79,2015-04-02,giovedì,16,12,sole,0,-,-,-,-,-
+80,2015-04-03,venerdì,14,11,sole,0,-,-,-,-,-
+81,2015-04-04,sabato,17,10,sole,0,Sassuolo,Chievo,A,-,-
+81,2015-04-04,sabato,17,10,sole,0,Roma,Napoli,A,-,-
+81,2015-04-04,sabato,17,10,sole,0,Cagliari,Lazio,A,-,-
+81,2015-04-04,sabato,17,10,sole,0,Inter,Parma,A,-,-
+81,2015-04-04,sabato,17,10,sole,0,Palermo,Milan,A,-,-
+81,2015-04-04,sabato,17,10,sole,0,Juventus,Empoli,A,-,-
+82,2015-04-05,domenica,5,9,pioggia ,Pasqua,-,-,-,-,-
+83,2015-04-07,martedì,8,10,sole,0,-,-,-,-,-
+84,2015-04-08,mercoledì,15,11,sole,0,-,-,-,-,-
+85,2015-04-09,giovedì,12,13,sole,0,-,-,-,-,-
+86,2015-04-10,venerdì,19,14,sole,0,Milan,Napoli,A,-,-
+86,2015-04-10,venerdì,19,14,sole,0,Sampdoria,Inter,A,-,-
+86,2015-04-10,venerdì,19,14,sole,0,Lazio,Frosinone,A,-,-
+86,2015-04-10,venerdì,19,14,sole,0,Juventus,Bologna,A,-,-
+87,2015-04-11,sabato,27,13,sole,0,-,-,-,-,-
+88,2015-04-12,domenica,28,15,nebbia ,0,Lazio,Juventus,A,-,-
+89,2015-04-14,martedì,17,17,sole,0,-,-,-,-,-
+90,2015-04-15,mercoledì,17,18,sole,0,-,-,-,-,-
+91,2015-04-16,giovedì,18,17,pioggia ,0,-,-,-,-,-
+92,2015-04-17,venerdì,25,15,pioggia ,0,-,-,-,-,-
+93,2015-04-18,sabato,40,13,pioggia temporale nebbia ,0,Juventus,Lazio,A,-,-
+94,2015-04-19,domenica,25,11,sole,0,Inter,Milan,A,-,-
+94,2015-04-19,domenica,25,11,sole,0,Cagliari,Napoli,A,-,-
+94,2015-04-19,domenica,25,11,sole,0,Chievo,Udinese,A,-,-
+95,2015-04-21,martedì,21,16,sole,0,-,-,-,-,-
+96,2015-04-22,mercoledì,17,18,sole,0,-,-,-,-,-
+97,2015-04-23,giovedì,19,17,sole,0,-,-,-,-,-
+98,2015-04-24,venerdì,29,16,sole,0,-,-,-,-,-
+99,2015-04-25,sabato,36,15,pioggia ,Anniversario della Liberazione,Inter,Roma,A,-,-
+99,2015-04-25,sabato,36,15,pioggia ,Anniversario della Liberazione,Udinese,Milan,A,-,-
+100,2015-04-26,domenica,27,16,pioggia ,0,Lazio,Chievo,A,-,-
+100,2015-04-26,domenica,27,16,pioggia ,0,Torino,Juventus,A,-,-
+100,2015-04-26,domenica,27,16,pioggia ,0,Napoli,Sampdoria,A,-,-
+101,2015-04-28,martedì,26,16,pioggia ,0,Udinese,Inter,A,-,-
+102,2015-04-29,mercoledì,15,15,sole,0,Chievo,Cagliari,A,-,-
+102,2015-04-29,mercoledì,15,15,sole,0,Milan,Genoa,A,-,-
+102,2015-04-29,mercoledì,15,15,sole,0,Juventus,Fiorentina,A,-,-
+102,2015-04-29,mercoledì,15,15,sole,0,Lazio,Parma,A,-,-
+103,2015-04-30,giovedì,18,15,pioggia ,0,Empoli,Napoli,A,-,-
+104,2015-05-01,venerdì,29,13,pioggia ,Festa dei Lavoratori,Lazio,Sampdoria,A,-,-
+105,2015-05-02,sabato,22,17,pioggia nebbia ,0,-,-,-,-,-
+106,2015-05-03,domenica,29,18,pioggia ,0,-,-,-,-,-
+107,2015-05-05,martedì,23,20,nebbia ,0,-,-,-,-,-
+108,2015-05-06,mercoledì,25,20,sole,0,-,-,-,-,-
+109,2015-05-07,giovedì,24,21,sole,0,-,-,-,-,-
+110,2015-05-08,venerdì,27,21,pioggia temporale ,0,-,-,-,-,-
+111,2015-05-09,sabato,38,20,sole,0,-,-,-,-,-
+112,2015-05-10,domenica,29,22,sole,Festa della Mamma,-,-,-,-,-
+113,2015-05-12,martedì,16,22,sole,0,Inter,Genoa,A,-,-
+114,2015-05-13,mercoledì,16,21,sole,0,-,-,-,-,-
+115,2015-05-14,giovedì,10,22,sole,0,-,-,-,-,-
+116,2015-05-15,venerdì,17,19,pioggia temporale ,0,-,-,-,-,-
+117,2015-05-16,sabato,27,20,pioggia temporale ,0,Sampdoria,Lazio,A,-,-
+117,2015-05-16,sabato,27,20,pioggia temporale ,0,Inter,Juventus,A,-,-
+118,2015-05-17,domenica,23,23,sole,0,Torino,Chievo,A,-,-
+118,2015-05-17,domenica,23,23,sole,0,Sassuolo,Milan,A,-,-
+119,2015-05-19,martedì,16,23,pioggia temporale ,0,-,-,-,-,-
+120,2015-05-20,mercoledì,24,19,pioggia ,0,-,-,-,-,-
+121,2015-05-21,giovedì,24,14,pioggia temporale ,0,-,-,-,-,-
+122,2015-05-22,venerdì,17,14,pioggia ,0,-,-,-,-,-
+123,2015-05-23,sabato,33,14,pioggia ,0,Juventus,Napoli,A,-,-
+123,2015-05-23,sabato,33,14,pioggia ,0,Genoa,Inter,A,-,-
+124,2015-05-24,domenica,29,17,pioggia ,Pentecoste,Chievo,Atalanta,A,-,-
+124,2015-05-24,domenica,29,17,pioggia ,Pentecoste,Milan,Torino,A,-,-
+125,2015-05-26,martedì,22,18,pioggia temporale ,0,-,-,-,-,-
+126,2015-05-27,mercoledì,22,18,pioggia ,0,-,-,-,-,-
+127,2015-05-28,giovedì,23,19,sole,0,-,-,-,-,-
+128,2015-05-29,venerdì,17,19,sole,0,-,-,-,-,-
+129,2015-05-30,sabato,32,21,sole,0,Atalanta,Milan,A,-,-
+129,2015-05-30,sabato,32,21,sole,0,Verona,Juventus,A,-,-
+130,2015-05-31,domenica,20,21,sole,0,Napoli,Lazio,A,-,-
+130,2015-05-31,domenica,20,21,sole,0,Fiorentina,Chievo,A,-,-
+130,2015-05-31,domenica,20,21,sole,0,Inter,Empoli,A,-,-
+131,2015-06-01,lunedì,15,22,sole,0,Chievo,Torino,A,-,-
+131,2015-06-01,lunedì,15,22,sole,0,Cesena,Napoli,A,-,-
+131,2015-06-01,lunedì,15,22,sole,0,Milan,Sassuolo,A,-,-
+131,2015-06-01,lunedì,15,22,sole,0,Juventus,Inter,A,-,-
+132,2015-06-02,martedì,24,24,sole,Festa della Repubblica,-,-,-,-,-
+133,2015-06-03,mercoledì,17,25,sole,0,-,-,-,-,-
+134,2015-06-04,giovedì,24,27,sole,0,-,-,-,-,-
+135,2015-06-05,venerdì,22,27,sole,0,-,-,-,-,-
+136,2015-06-06,sabato,31,28,sole,0,-,-,-,-,-
+137,2015-06-07,domenica,25,28,sole,0,-,-,-,-,-
+138,2015-06-09,martedì,25,24,sole,0,-,-,-,Bulgaria,Italia
+139,2015-06-10,mercoledì,22,25,sole,0,-,-,-,-,-
+140,2015-06-11,giovedì,21,25,sole,0,-,-,-,-,-
+141,2015-06-12,venerdì,18,25,sole,0,Carpi,Milan,A,-,-
+141,2015-06-12,venerdì,18,25,sole,0,Frosinone,Chievo,A,-,-
+141,2015-06-12,venerdì,18,25,sole,0,Bologna,Napoli,A,-,-
+142,2015-06-13,sabato,20,25,sole,0,-,-,-,-,-
+143,2015-06-14,domenica,25,23,sole,0,-,-,-,-,-
+144,2015-06-16,martedì,20,21,sole,0,-,-,-,Portogallo,Italia
+145,2015-06-17,mercoledì,22,21,sole,0,-,-,-,-,-
+146,2015-06-18,giovedì,24,22,sole,0,-,-,-,-,-
+147,2015-06-19,venerdì,21,22,sole,0,-,-,-,-,-
+148,2015-06-20,sabato,29,20,sole,0,-,-,-,-,-
+149,2015-06-21,domenica,24,21,sole,0,-,-,-,-,-
+150,2015-06-23,martedì,19,23,sole,0,-,-,-,-,-
+151,2015-06-24,mercoledì,20,20,sole,0,-,-,-,-,-
+152,2015-06-25,giovedì,23,22,sole,0,-,-,-,-,-
+153,2015-06-26,venerdì,30,24,sole,0,-,-,-,-,-
+154,2015-06-27,sabato,26,25,sole,0,-,-,-,-,-
+155,2015-06-28,domenica,24,25,sole,0,-,-,-,-,-
+156,2015-06-30,martedì,19,25,sole,0,-,-,-,-,-
+157,2015-07-01,mercoledì,23,26,sole,0,-,-,-,-,-
+158,2015-07-02,giovedì,17,27,sole,0,Juventus,Milan,A,-,-
+159,2015-07-03,venerdì,32,27,sole,0,Milan,Verona,A,-,-
+160,2015-07-04,sabato,23,27,sole,0,-,-,-,-,-
+161,2015-07-05,domenica,25,29,sole,0,-,-,-,-,-
+162,2015-07-07,martedì,28,31,sole,0,-,-,-,-,-
+163,2015-07-08,mercoledì,29,29,sole,0,-,-,-,-,-
+164,2015-07-09,giovedì,24,25,sole,0,-,-,-,-,-
+165,2015-07-10,venerdì,27,25,sole,0,-,-,-,-,-
+166,2015-07-11,sabato,30,25,sole,0,Milan,Atalanta,A,-,-
+167,2015-07-12,domenica,29,27,sole,0,-,-,-,-,-
+168,2015-07-14,martedì,33,28,sole,0,-,-,-,-,-
+169,2015-07-15,mercoledì,22,28,sole,0,-,-,-,-,-
+170,2015-07-16,giovedì,29,29,sole,0,-,-,-,-,-
+171,2015-07-17,venerdì,19,30,sole,0,-,-,-,-,-
+172,2015-07-18,sabato,33,29,sole,0,-,-,-,-,-
+173,2015-07-19,domenica,23,30,sole,0,-,-,-,-,-
+174,2015-07-21,martedì,21,30,sole,0,-,-,-,-,-
+175,2015-07-22,mercoledì,32,31,sole,0,-,-,-,-,-
+176,2015-07-23,giovedì,30,29,sole,0,-,-,-,-,-
+177,2015-07-24,venerdì,26,29,sole,0,-,-,-,-,-
+178,2015-07-25,sabato,31,28,sole,0,-,-,-,-,-
+179,2015-07-26,domenica,40,26,sole,0,-,-,-,-,-
+180,2015-07-28,martedì,24,27,sole,0,-,-,-,-,-
+181,2015-07-29,mercoledì,31,26,sole,0,-,-,-,-,-
+182,2015-07-30,giovedì,32,24,sole,0,-,-,-,-,-
+183,2015-07-31,venerdì,34,23,sole,0,-,-,-,-,-
+184,2015-08-01,sabato,44,21,pioggia ,0,-,-,-,-,-
+185,2015-08-02,domenica,34,22,pioggia ,0,Inter,Palermo,A,-,-
+185,2015-08-02,domenica,34,22,pioggia ,0,Napoli,Udinese,A,-,-
+186,2015-08-04,martedì,29,27,sole,0,-,-,-,-,-
+187,2015-08-05,mercoledì,27,28,sole,0,-,-,-,-,-
+188,2015-08-06,giovedì,29,29,sole,0,-,-,-,-,-
+189,2015-08-07,venerdì,26,29,sole,0,-,-,-,-,-
+190,2015-08-08,sabato,27,30,sole,0,-,-,-,-,-
+191,2015-08-09,domenica,30,29,sole,0,-,-,-,-,-
+192,2015-08-11,martedì,27,26,sole,0,Torino,Inter,A,-,-
+192,2015-08-11,martedì,27,26,sole,0,Empoli,Juventus,A,-,-
+192,2015-08-11,martedì,27,26,sole,0,Napoli,Udinese,A,-,-
+192,2015-08-11,martedì,27,26,sole,0,Palermo,Chievo,A,-,-
+192,2015-08-11,martedì,27,26,sole,0,Roma,Lazio,A,-,-
+193,2015-08-12,mercoledì,27,28,sole,0,-,-,-,-,-
+194,2015-08-13,giovedì,31,28,sole,0,-,-,-,-,-
+195,2015-08-14,venerdì,26,27,temporale ,0,-,-,-,-,-
+196,2015-08-15,sabato,26,25,pioggia ,Ferragosto,-,-,-,-,-
+197,2015-08-16,domenica,29,21,pioggia temporale ,0,-,-,-,-,-
+198,2015-08-18,martedì,31,23,temporale ,0,-,-,-,-,-
+199,2015-08-19,mercoledì,33,19,pioggia ,0,-,-,-,-,-
+200,2015-08-20,giovedì,34,23,sole,0,-,-,-,-,-
+201,2015-08-21,venerdì,26,21,pioggia temporale ,0,-,-,-,-,-
+202,2015-08-22,sabato,34,20,sole,0,Lazio,Bologna,A,-,-
+203,2015-08-23,domenica,38,21,pioggia ,0,Juventus,Udinese,A,-,-
+203,2015-08-23,domenica,38,21,pioggia ,0,Empoli,Chievo,A,-,-
+203,2015-08-23,domenica,38,21,pioggia ,0,Inter,Atalanta,A,-,-
+203,2015-08-23,domenica,38,21,pioggia ,0,Fiorentina,Milan,A,-,-
+203,2015-08-23,domenica,38,21,pioggia ,0,Sassuolo,Napoli,A,-,-
+204,2015-08-25,martedì,38,23,pioggia nebbia ,0,-,-,-,-,-
+205,2015-08-26,mercoledì,31,23,sole,0,-,-,-,-,-
+206,2015-08-27,giovedì,27,24,sole,0,-,-,-,-,-
+207,2015-08-28,venerdì,30,25,sole,0,-,-,-,-,-
+208,2015-08-29,sabato,41,26,sole,0,Milan,Empoli,A,-,-
+209,2015-08-30,domenica,35,27,sole,0,Carpi,Inter,A,-,-
+209,2015-08-30,domenica,35,27,sole,0,Roma,Juventus,A,-,-
+209,2015-08-30,domenica,35,27,sole,0,Napoli,Sampdoria,A,-,-
+209,2015-08-30,domenica,35,27,sole,0,Chievo,Lazio,A,-,-
+210,2015-09-01,martedì,33,24,sole,0,-,-,-,-,-
+211,2015-09-02,mercoledì,26,23,sole,0,Lazio,Genoa,A,-,-
+212,2015-09-03,giovedì,26,23,sole,0,Juventus,Sassuolo,A,-,-
+212,2015-09-03,giovedì,26,23,sole,0,Lazio,Fiorentina,A,-,-
+213,2015-09-04,venerdì,30,22,sole,0,-,-,-,-,-
+214,2015-09-05,sabato,36,20,sole,0,Juventus,Cagliari,A,-,-
+214,2015-09-05,sabato,36,20,sole,0,Milan,Roma,A,-,-
+215,2015-09-06,domenica,31,18,sole,0,-,-,-,-,-
+216,2015-09-08,martedì,29,19,sole,0,-,-,-,-,-
+217,2015-09-09,mercoledì,30,18,sole,0,-,-,-,-,-
+218,2015-09-10,giovedì,36,20,sole,0,-,-,-,-,-
+219,2015-09-11,venerdì,33,19,sole,0,-,-,-,-,-
+220,2015-09-12,sabato,47,20,sole,0,-,-,-,-,-
+221,2015-09-13,domenica,36,20,sole,0,Inter,Milan,A,-,-
+221,2015-09-13,domenica,36,20,sole,0,Empoli,Napoli,A,-,-
+221,2015-09-13,domenica,36,20,sole,0,Lazio,Udinese,A,-,-
+222,2015-09-15,martedì,34,21,sole,0,-,-,-,-,-
+223,2015-09-16,mercoledì,29,22,sole,0,-,-,-,-,-
+224,2015-09-17,giovedì,29,23,sole,0,-,-,-,-,-
+225,2015-09-18,venerdì,32,23,sole,0,-,-,-,-,-
+226,2015-09-19,sabato,42,20,sole,0,Milan,Palermo,A,-,-
+227,2015-09-20,domenica,41,20,sole,0,Chievo,Inter,A,-,-
+227,2015-09-20,domenica,41,20,sole,0,Genoa,Juventus,A,-,-
+227,2015-09-20,domenica,41,20,sole,0,Napoli,Lazio,A,-,-
+228,2015-09-22,martedì,33,18,sole,0,Udinese,Milan,A,-,-
+229,2015-09-24,giovedì,38,15,sole,0,-,-,-,-,-
+230,2015-09-25,venerdì,37,17,sole,0,-,-,-,-,-
+231,2015-09-26,sabato,46,18,sole,0,Napoli,Juventus,A,-,-
+232,2015-09-27,domenica,43,17,sole,0,Genoa,Milan,A,-,-
+232,2015-09-27,domenica,43,17,sole,0,Inter,Fiorentina,A,-,-
+232,2015-09-27,domenica,43,17,sole,0,Sassuolo,Chievo,A,-,-
+232,2015-09-27,domenica,43,17,sole,0,Verona,Lazio,A,-,-
+233,2015-09-29,martedì,28,17,sole,0,-,-,-,-,-
+234,2015-09-30,mercoledì,23,15,sole,0,-,-,-,-,-
+235,2015-10-01,giovedì,34,14,pioggia ,0,Torino,Milan,A,-,-
+236,2015-10-02,venerdì,32,16,pioggia ,0,-,-,-,-,-
+237,2015-10-03,sabato,40,17,pioggia ,0,-,-,-,-,-
+238,2015-10-04,domenica,31,17,pioggia temporale ,0,-,-,-,-,-
+239,2015-10-06,martedì,26,17,pioggia ,0,-,-,-,-,-
+240,2015-10-07,mercoledì,23,18,pioggia temporale nebbia ,0,-,-,-,-,-
+241,2015-10-08,giovedì,22,18,pioggia ,0,-,-,-,-,-
+242,2015-10-09,venerdì,29,17,sole,0,-,-,-,-,-
+243,2015-10-10,sabato,44,16,sole,0,-,-,-,Azerbaijan,Italia
+244,2015-10-11,domenica,38,16,sole,0,-,-,-,-,-
+245,2015-10-13,martedì,25,14,pioggia ,0,-,-,-,Norvegia,Italia
+246,2015-10-14,mercoledì,30,15,pioggia ,0,-,-,-,-,-
+247,2015-10-15,giovedì,26,14,pioggia ,0,-,-,-,-,-
+248,2015-10-16,venerdì,35,11,pioggia temporale ,0,-,-,-,-,-
+249,2015-10-17,sabato,47,11,sole,0,Torino,Milan,A,-,-
+250,2015-10-18,domenica,36,12,pioggia ,0,Inter,Juventus,A,-,-
+250,2015-10-18,domenica,36,12,pioggia ,0,Napoli,Fiorentina,A,-,-
+250,2015-10-18,domenica,36,12,pioggia ,0,Sassuolo,Lazio,A,-,-
+250,2015-10-18,domenica,36,12,pioggia ,0,Genoa,Chievo,A,-,-
+251,2015-10-20,martedì,24,11,sole,0,-,-,-,-,-
+252,2015-10-21,mercoledì,21,10,sole,0,-,-,-,-,-
+253,2015-10-22,giovedì,27,10,sole,0,-,-,-,-,-
+254,2015-10-23,venerdì,30,10,sole,0,-,-,-,-,-
+255,2015-10-24,sabato,46,11,sole,0,Palermo,Inter,A,-,-
+256,2015-10-25,domenica,36,11,sole,0,Chievo,Napoli,A,-,-
+256,2015-10-25,domenica,36,11,sole,0,Milan,Sassuolo,A,-,-
+256,2015-10-25,domenica,36,11,sole,0,Juventus,Atalanta,A,-,-
+256,2015-10-25,domenica,36,11,sole,0,Lazio,Torino,A,-,-
+257,2015-10-27,martedì,27,12,sole,0,Bologna,Inter,A,-,-
+258,2015-10-28,mercoledì,25,13,pioggia ,0,Milan,Chievo,A,-,-
+258,2015-10-28,mercoledì,25,13,pioggia ,0,Sassuolo,Juventus,A,-,-
+258,2015-10-28,mercoledì,25,13,pioggia ,0,Atalanta,Lazio,A,-,-
+258,2015-10-28,mercoledì,25,13,pioggia ,0,Napoli,Palermo,A,-,-
+259,2015-10-29,giovedì,24,13,pioggia ,0,-,-,-,-,-
+260,2015-10-30,venerdì,33,14,nebbia ,0,-,-,-,-,-
+261,2015-10-31,sabato,52,12,sole,0,Inter,Roma,A,-,-
+261,2015-10-31,sabato,52,12,sole,0,Juventus,Torino,A,-,-
+262,2015-11-01,domenica,32,10,sole,Ognissanti,Napoli,Juventus,A,-,-
+262,2015-11-01,domenica,32,10,sole,Ognissanti,Atalanta,Chievo,A,-,-
+262,2015-11-01,domenica,32,10,sole,Ognissanti,Roma,Lazio,A,-,-
+262,2015-11-01,domenica,32,10,sole,Ognissanti,Inter,Genoa,A,-,-
+263,2015-11-03,martedì,25,9,sole,0,-,-,-,-,-
+264,2015-11-04,mercoledì,25,11,sole,0,Verona,Inter,A,-,-
+264,2015-11-04,mercoledì,25,11,sole,0,Parma,Juventus,A,-,-
+265,2015-11-05,giovedì,26,11,sole,0,-,-,-,-,-
+266,2015-11-06,venerdì,32,12,sole,0,-,-,-,-,-
+267,2015-11-07,sabato,56,12,sole,0,-,-,-,-,-
+268,2015-11-08,domenica,28,12,sole,0,-,-,-,-,-
+269,2015-11-10,martedì,30,9,sole,0,-,-,-,-,-
+270,2015-11-11,mercoledì,30,7,sole,0,-,-,-,-,-
+271,2015-11-12,giovedì,33,9,sole,0,-,-,-,-,-
+272,2015-11-13,venerdì,36,8,sole,0,-,-,-,Belgio,Italia
+273,2015-11-14,sabato,49,9,sole,0,-,-,-,-,-
+274,2015-11-15,domenica,33,8,sole,0,-,-,-,-,-
+275,2015-11-17,martedì,28,9,sole,0,-,-,-,Romania,Italia
+276,2015-11-18,mercoledì,37,10,sole,0,-,-,-,-,-
+277,2015-11-19,giovedì,34,11,sole,0,-,-,-,-,-
+278,2015-11-20,venerdì,41,11,sole,0,-,-,-,-,-
+279,2015-11-21,sabato,44,9,sole,0,Juventus,Milan,A,-,-
+280,2015-11-22,domenica,33,5,sole,0,Verona,Napoli,A,-,-
+280,2015-11-22,domenica,33,5,sole,0,Carpi,Chievo,A,-,-
+280,2015-11-22,domenica,33,5,sole,0,Lazio,Palermo,A,-,-
+280,2015-11-22,domenica,33,5,sole,0,Inter,Frosinone,A,-,-
+281,2015-11-24,martedì,22,4,sole,0,-,-,-,-,-
+282,2015-11-25,mercoledì,25,2,sole,0,-,-,-,-,-
+283,2015-11-26,giovedì,30,4,sole,0,-,-,-,-,-
+284,2015-11-27,venerdì,34,3,sole,0,-,-,-,-,-
+285,2015-11-28,sabato,55,2,sole,0,Milan,Sampdoria,A,-,-
+286,2015-11-29,domenica,42,2,sole,0,Palermo,Juventus,A,-,-
+286,2015-11-29,domenica,42,2,sole,0,Empoli,Lazio,A,-,-
+286,2015-11-29,domenica,42,2,sole,0,Chievo,Udinese,A,-,-
+287,2015-12-02,mercoledì,30,5,sole,0,-,-,-,-,-
+288,2015-12-03,giovedì,38,2,sole,0,-,-,-,-,-
+289,2015-12-04,venerdì,33,4,sole,0,Cesena,Chievo,A,-,-
+289,2015-12-04,venerdì,33,4,sole,0,Milan,Sampdoria,A,-,-
+289,2015-12-04,venerdì,33,4,sole,0,Napoli,Fiorentina,A,-,-
+289,2015-12-04,venerdì,33,4,sole,0,Lazio,Empoli,A,-,-
+290,2015-12-05,sabato,55,6,sole,0,-,-,-,-,-
+291,2015-12-06,domenica,38,5,sole,0,-,-,-,Croazia,Italia
+292,2015-12-07,lunedì,28,4,sole,0,-,-,-,-,-
+293,2015-12-08,martedì,30,5,sole,Immacolata Concezione,-,-,-,-,-
+294,2015-12-09,mercoledì,32,3,sole,0,Juventus,Chievo,A,-,-
+295,2015-12-10,giovedì,27,2,sole,0,-,-,-,-,-
+296,2015-12-11,venerdì,42,0,sole,0,-,-,-,-,-
+297,2015-12-12,sabato,50,1,sole,0,Udinese,Inter,A,-,-
+298,2015-12-13,domenica,39,3,sole,0,Napoli,Roma,A,-,-
+298,2015-12-13,domenica,39,3,sole,0,Milan,Verona,A,-,-
+298,2015-12-13,domenica,39,3,sole,0,Chievo,Atalanta,A,-,-
+298,2015-12-13,domenica,39,3,sole,0,Juventus,Fiorentina,A,-,-
+299,2015-12-15,martedì,26,2,sole,0,-,-,-,-,-
+300,2015-12-16,mercoledì,30,5,sole,0,-,-,-,-,-
+301,2015-12-17,giovedì,30,5,sole,0,-,-,-,-,-
+302,2015-12-18,venerdì,30,4,sole,0,-,-,-,-,-
+303,2015-12-19,sabato,42,4,sole,0,-,-,-,-,-
+304,2015-12-20,domenica,32,3,sole,0,Atalanta,Napoli,A,-,-
+304,2015-12-20,domenica,32,3,sole,0,Inter,Lazio,A,-,-
+304,2015-12-20,domenica,32,3,sole,0,Carpi,Juventus,A,-,-
+304,2015-12-20,domenica,32,3,sole,0,Fiorentina,Chievo,A,-,-
+304,2015-12-20,domenica,32,3,sole,0,Frosinone,Milan,A,-,-
+305,2015-12-22,martedì,25,5,sole,0,-,-,-,-,-
+306,2015-12-23,mercoledì,26,5,sole,0,-,-,-,-,-
+307,2015-12-24,giovedì,19,7,sole,0,-,-,-,-,-
+308,2015-12-26,sabato,19,4,sole,Santo Stefano,-,-,-,-,-
+309,2015-12-27,domenica,24,2,sole,0,-,-,-,-,-
+310,2015-12-29,martedì,28,2,sole,0,-,-,-,-,-
+311,2015-12-30,mercoledì,20,7,sole,0,-,-,-,-,-
+312,2015-12-31,giovedì,11,4,sole,Ultimo dell'Anno,-,-,-,-,-
+313,2016-01-02,sabato,26,0,pioggia neve nebbia ,0,-,-,-,-,-
+314,2016-01-03,domenica,30,2,pioggia nebbia ,0,-,-,-,-,-
+315,2016-01-05,martedì,26,3,neve ,0,Juventus,Carpi,A,-,-
+315,2016-01-05,martedì,26,3,neve ,0,Lazio,Inter,A,-,-
+315,2016-01-05,martedì,26,3,neve ,0,Milan,Frosinone,A,-,-
+316,2016-01-06,mercoledì,25,4,pioggia nebbia ,Epifania,-,-,-,-,-
+317,2016-01-07,giovedì,18,0,nebbia ,0,-,-,-,-,-
+318,2016-01-08,venerdì,27,3,sole,0,-,-,-,-,-
+319,2016-01-09,sabato,43,5,pioggia nebbia ,0,-,-,-,Francia,Italia
+320,2016-01-10,domenica,39,6,nebbia ,0,Pescara,Chievo,A,-,-
+320,2016-01-10,domenica,39,6,nebbia ,0,Udinese,Lazio,A,-,-
+321,2016-01-12,martedì,15,7,sole,0,-,-,-,-,-
+322,2016-01-13,mercoledì,25,5,sole,0,-,-,-,-,-
+323,2016-01-14,giovedì,27,2,pioggia ,0,-,-,-,-,-
+324,2016-01-15,venerdì,33,3,sole,0,-,-,-,-,-
+325,2016-01-16,sabato,48,4,sole,0,Atalanta,Inter,A,-,-
+325,2016-01-16,sabato,48,4,sole,0,Napoli,Sassuolo,A,-,-
+326,2016-01-17,domenica,33,3,sole,0,Udinese,Juventus,A,-,-
+326,2016-01-17,domenica,33,3,sole,0,Chievo,Empoli,A,-,-
+326,2016-01-17,domenica,33,3,sole,0,Milan,Fiorentina,A,-,-
+326,2016-01-17,domenica,33,3,sole,0,Bologna,Lazio,A,-,-
+327,2016-01-19,martedì,25,-2,sole,0,-,-,-,-,-
+328,2016-01-20,mercoledì,29,-1,sole,0,-,-,-,-,-
+329,2016-01-21,giovedì,31,-1,sole,0,-,-,-,-,-
+330,2016-01-22,venerdì,39,1,sole,0,-,-,-,-,-
+331,2016-01-23,sabato,55,1,sole,0,Empoli,Milan,A,-,-
+332,2016-01-24,domenica,41,0,sole,0,Inter,Carpi,A,-,-
+332,2016-01-24,domenica,41,0,sole,0,Juventus,Roma,A,-,-
+332,2016-01-24,domenica,41,0,sole,0,Sampdoria,Napoli,A,-,-
+332,2016-01-24,domenica,41,0,sole,0,Lazio,Chievo,A,-,-
+333,2016-01-26,martedì,33,3,sole,0,-,-,-,-,-
+334,2016-01-27,mercoledì,30,4,sole,0,-,-,-,-,-
+335,2016-01-28,giovedì,23,7,sole,0,-,-,-,-,-
+336,2016-01-29,venerdì,39,8,sole,0,-,-,-,-,-
+337,2016-01-30,sabato,45,7,pioggia nebbia ,0,-,-,-,-,-
+338,2016-01-31,domenica,32,6,nebbia ,0,Chievo,Juventus,A,-,-
+338,2016-01-31,domenica,32,6,nebbia ,0,Udinese,Lazio,A,-,-
+338,2016-01-31,domenica,32,6,nebbia ,0,Milan,Inter,A,-,-
+338,2016-01-31,domenica,32,6,nebbia ,0,Napoli,Empoli,A,-,-
+339,2016-02-02,martedì,24,7,nebbia ,0,-,-,-,-,-
+340,2016-02-03,mercoledì,20,8,pioggia nebbia ,0,-,-,-,-,-
+341,2016-02-04,giovedì,25,5,nebbia ,Giovedì Grasso,Juventus,Empoli,A,-,-
+342,2016-02-05,venerdì,32,5,sole,0,Napoli,Atalanta,A,-,-
+343,2016-02-06,sabato,41,5,sole,0,-,-,-,-,-
+344,2016-02-07,domenica,34,10,pioggia ,Carnevale,-,-,-,Germania,Italia
+345,2016-02-09,martedì,22,8,pioggia ,Martedì Grasso,-,-,-,-,-
+346,2016-02-10,mercoledì,15,8,pioggia ,0,Empoli,Juventus,A,-,-
+346,2016-02-10,mercoledì,15,8,pioggia ,0,Atalanta,Napoli,A,-,-
+346,2016-02-10,mercoledì,15,8,pioggia ,0,Roma,Inter,A,-,-
+346,2016-02-10,mercoledì,15,8,pioggia ,0,Milan,Sassuolo,A,-,-
+347,2016-02-11,giovedì,20,4,sole,0,-,-,-,-,-
+348,2016-02-12,venerdì,22,6,pioggia ,0,Napoli,Inter,A,-,-
+349,2016-02-13,sabato,43,5,sole,0,Chievo,Sassuolo,A,-,-
+349,2016-02-13,sabato,43,5,sole,0,Juventus,Napoli,A,-,-
+350,2016-02-14,domenica,42,5,pioggia ,San Valentino,Milan,Genoa,A,-,-
+350,2016-02-14,domenica,42,5,pioggia ,San Valentino,Fiorentina,Inter,A,-,-
+351,2016-02-16,martedì,27,9,pioggia ,0,-,-,-,-,-
+352,2016-02-17,mercoledì,19,7,pioggia ,0,-,-,-,-,-
+353,2016-02-18,giovedì,24,8,sole,0,-,-,-,-,-
+354,2016-02-19,venerdì,34,9,sole,0,Bologna,Juventus,A,-,-
+355,2016-02-20,sabato,47,7,sole,0,Inter,Sampdoria,A,-,-
+355,2016-02-20,sabato,47,7,sole,0,Verona,Chievo,A,-,-
+356,2016-02-21,domenica,33,7,sole,0,Frosinone,Lazio,A,-,-
+357,2016-02-23,martedì,24,10,nebbia ,0,-,-,-,-,-
+358,2016-02-24,mercoledì,32,8,pioggia nebbia ,0,-,-,-,-,-
+359,2016-02-25,giovedì,26,7,sole,0,-,-,-,-,-
+360,2016-02-26,venerdì,23,5,pioggia nebbia ,0,-,-,-,-,-
+361,2016-02-27,sabato,44,7,pioggia ,0,Milan,Torino,A,-,-
+362,2016-02-28,domenica,34,12,pioggia ,0,Chievo,Genoa,A,-,-
+362,2016-02-28,domenica,34,12,pioggia ,0,Juventus,Inter,A,-,-
+363,2016-03-01,martedì,24,10,nebbia ,0,-,-,-,-,-
+364,2016-03-02,mercoledì,35,9,pioggia ,0,Lazio,Napoli,A,-,-
+364,2016-03-02,mercoledì,35,9,pioggia ,0,Palermo,Milan,A,-,-
+364,2016-03-02,mercoledì,35,9,pioggia ,0,Inter,Chievo,A,-,-
+364,2016-03-02,mercoledì,35,9,pioggia ,0,Juventus,Genoa,A,-,-
+365,2016-03-03,giovedì,18,7,pioggia ,0,-,-,-,-,-
+366,2016-03-04,venerdì,23,7,sole,0,Inter,Torino,A,-,-
+366,2016-03-04,venerdì,23,7,sole,0,Lazio,Roma,A,-,-
+366,2016-03-04,venerdì,23,7,sole,0,Atalanta,Milan,A,-,-
+366,2016-03-04,venerdì,23,7,sole,0,Chievo,Palermo,A,-,-
+366,2016-03-04,venerdì,23,7,sole,0,Udinese,Napoli,A,-,-
+367,2016-03-05,sabato,46,8,pioggia ,0,-,-,-,-,-
+368,2016-03-06,domenica,35,5,nebbia ,0,-,-,-,-,-
+369,2016-03-08,martedì,25,5,pioggia ,0,-,-,-,-,-
+370,2016-03-09,mercoledì,20,7,pioggia ,0,-,-,-,-,-
+371,2016-03-10,giovedì,22,9,sole,0,-,-,-,-,-
+372,2016-03-11,venerdì,31,10,sole,0,-,-,-,-,-
+373,2016-03-12,sabato,41,11,sole,0,Juventus,Atalanta,A,-,-
+374,2016-03-13,domenica,26,11,sole,0,Chievo,Milan,A,-,-
+374,2016-03-13,domenica,26,11,sole,0,Palermo,Napoli,A,-,-
+374,2016-03-13,domenica,26,11,sole,0,Lazio,Atalanta,A,-,-
+375,2016-03-15,martedì,12,7,pioggia ,0,-,-,-,-,-
+376,2016-03-16,mercoledì,20,8,pioggia ,0,-,-,-,-,-
+377,2016-03-17,giovedì,19,10,sole,0,-,-,-,-,-
+378,2016-03-18,venerdì,27,9,sole,0,-,-,-,-,-
+379,2016-03-19,sabato,37,10,sole,Festa di San Giuseppe,Roma,Inter,A,-,-
+380,2016-03-20,domenica,27,10,sole,Domenica delle Palme,Sampdoria,Chievo,A,-,-
+380,2016-03-20,domenica,27,10,sole,Domenica delle Palme,Milan,Lazio,A,-,-
+380,2016-03-20,domenica,27,10,sole,Domenica delle Palme,Torino,Juventus,A,-,-
+380,2016-03-20,domenica,27,10,sole,Domenica delle Palme,Napoli,Genoa,A,-,-
+381,2016-03-22,martedì,13,12,nebbia ,0,-,-,-,-,-
+382,2016-03-23,mercoledì,22,11,sole,0,-,-,-,-,-
+383,2016-03-24,giovedì,25,9,sole,0,-,-,-,Spagna,Italia
+384,2016-03-25,venerdì,10,10,sole,0,-,-,-,-,-
+385,2016-03-26,sabato,26,11,sole,0,-,-,-,-,-
+386,2016-03-29,martedì,11,13,nebbia ,0,-,-,-,Germania,Italia
+387,2016-03-30,mercoledì,24,13,sole,0,-,-,-,-,-
+388,2016-03-31,giovedì,26,14,sole,0,-,-,-,-,-
+389,2016-04-01,venerdì,25,15,sole,0,-,-,-,-,-
+390,2016-04-02,sabato,45,14,sole,0,-,-,-,-,-
+391,2016-04-03,domenica,37,14,sole,0,-,-,-,-,-
+392,2016-04-05,martedì,17,14,sole,0,-,-,-,-,-
+393,2016-04-06,mercoledì,25,15,sole,0,-,-,-,-,-
+394,2016-04-07,giovedì,21,15,sole,0,-,-,-,-,-
+395,2016-04-08,venerdì,23,13,sole,0,-,-,-,-,-
+396,2016-04-09,sabato,40,13,sole,0,-,-,-,-,-
+397,2016-04-10,domenica,30,15,sole,0,-,-,-,-,-
+398,2016-04-12,martedì,28,15,sole,0,Lazio,Roma,A,-,-
+398,2016-04-12,martedì,28,15,sole,0,Milan,Crotone,A,-,-
+399,2016-04-13,mercoledì,25,16,sole,0,-,-,-,-,-
+400,2016-04-14,giovedì,24,16,sole,0,-,-,-,-,-
+401,2016-04-15,venerdì,28,15,sole,0,-,-,-,-,-
+402,2016-04-16,sabato,37,16,sole,0,Inter,Napoli,A,-,-
+403,2016-04-17,domenica,29,16,sole,0,Sampdoria,Milan,A,-,-
+403,2016-04-17,domenica,29,16,sole,0,Udinese,Chievo,A,-,-
+403,2016-04-17,domenica,29,16,sole,0,Lazio,Empoli,A,-,-
+403,2016-04-17,domenica,29,16,sole,0,Juventus,Palermo,A,-,-
+404,2016-04-19,martedì,24,14,sole,0,Napoli,Bologna,A,-,-
+405,2016-04-20,mercoledì,19,15,sole,0,Genoa,Inter,A,-,-
+405,2016-04-20,mercoledì,19,15,sole,0,Juventus,Lazio,A,-,-
+405,2016-04-20,mercoledì,19,15,sole,0,Chievo,Frosinone,A,-,-
+406,2016-04-22,venerdì,27,16,sole,0,-,-,-,-,-
+407,2016-04-23,sabato,41,15,sole,0,Inter,Udinese,A,-,-
+408,2016-04-24,domenica,37,12,sole,0,Atalanta,Chievo,A,-,-
+408,2016-04-24,domenica,37,12,sole,0,Fiorentina,Juventus,A,-,-
+408,2016-04-24,domenica,37,12,sole,0,Sampdoria,Lazio,A,-,-
+409,2016-04-26,martedì,12,11,sole,0,-,-,-,-,-
+410,2016-04-27,mercoledì,18,13,sole,0,-,-,-,-,-
+411,2016-04-28,giovedì,21,12,sole,0,-,-,-,-,-
+412,2016-04-29,venerdì,22,14,sole,0,-,-,-,-,-
+413,2016-04-30,sabato,30,14,sole,0,Chievo,Fiorentina,A,-,-
+414,2016-05-01,domenica,30,12,pioggia ,Festa dei Lavoratori,-,-,-,-,-
+415,2016-05-03,martedì,23,16,temporale ,0,Napoli,Chievo,A,-,-
+416,2016-05-04,mercoledì,25,18,sole,0,-,-,-,-,-
+417,2016-05-05,giovedì,27,17,sole,0,-,-,-,-,-
+418,2016-05-06,venerdì,27,17,sole,0,-,-,-,-,-
+419,2016-05-07,sabato,30,18,sole,0,-,-,-,-,-
+420,2016-05-08,domenica,27,18,sole,Festa della Mamma,-,-,-,-,-
+421,2016-05-10,martedì,23,17,pioggia ,0,-,-,-,-,-
+422,2016-05-11,mercoledì,28,15,pioggia ,0,Napoli,Lazio,A,-,-
+423,2016-05-12,giovedì,23,16,pioggia temporale ,0,Chievo,Genoa,A,-,-
+424,2016-05-13,venerdì,32,15,pioggia ,0,-,-,-,-,-
+425,2016-05-14,sabato,46,17,pioggia temporale ,0,Milan,Roma,A,-,-
+425,2016-05-14,sabato,46,17,pioggia temporale ,0,Sassuolo,Inter,A,-,-
+425,2016-05-14,sabato,46,17,pioggia temporale ,0,Napoli,Frosinone,A,-,-
+425,2016-05-14,sabato,46,17,pioggia temporale ,0,Juventus,Sampdoria,A,-,-
+426,2016-05-15,domenica,28,15,pioggia temporale nebbia ,Pentecoste,Chievo,Bologna,A,-,-
+426,2016-05-15,domenica,28,15,pioggia temporale nebbia ,Pentecoste,Lazio,Fiorentina,A,-,-
+427,2016-05-17,martedì,26,14,pioggia ,0,-,-,-,-,-
+428,2016-05-18,mercoledì,25,16,pioggia ,0,-,-,-,-,-
+429,2016-05-19,giovedì,17,13,pioggia ,0,-,-,-,-,-
+430,2016-05-20,venerdì,23,17,sole,0,-,-,-,-,-
+431,2016-05-21,sabato,36,19,sole,0,-,-,-,-,-
+432,2016-05-22,domenica,34,21,sole,0,-,-,-,-,-
+433,2016-05-24,martedì,18,17,pioggia ,0,-,-,-,-,-
+434,2016-05-25,mercoledì,23,19,sole,0,-,-,-,-,-
+435,2016-05-26,giovedì,25,20,sole,0,-,-,-,-,-
+436,2016-05-27,venerdì,32,22,sole,0,-,-,-,-,-
+437,2016-05-28,sabato,25,22,sole,0,-,-,-,-,-
+438,2016-05-29,domenica,31,18,pioggia temporale ,0,-,-,-,Scozia,Italia
+439,2016-05-31,martedì,9,19,sole,0,-,-,-,-,-
+440,2016-06-01,mercoledì,23,18,pioggia ,0,Milan,Bologna,A,-,-
+440,2016-06-01,mercoledì,23,18,pioggia ,0,Empoli,Inter,A,-,-
+440,2016-06-01,mercoledì,23,18,pioggia ,0,Lazio,Carpi,A,-,-
+440,2016-06-01,mercoledì,23,18,pioggia ,0,Napoli,Torino,A,-,-
+440,2016-06-01,mercoledì,23,18,pioggia ,0,Chievo,Roma,A,-,-
+440,2016-06-01,mercoledì,23,18,pioggia ,0,Juventus,Verona,A,-,-
+441,2016-06-02,giovedì,32,18,pioggia temporale ,Festa della Repubblica,Genoa,Lazio,A,-,-
+442,2016-06-03,venerdì,19,19,sole,0,Atalanta,Juventus,A,-,-
+442,2016-06-03,venerdì,19,19,sole,0,Torino,Lazio,A,-,-
+442,2016-06-03,venerdì,19,19,sole,0,Sassuolo,Milan,A,-,-
+442,2016-06-03,venerdì,19,19,sole,0,Inter,Palermo,A,-,-
+443,2016-06-04,sabato,30,18,pioggia temporale ,0,-,-,-,-,-
+444,2016-06-05,domenica,23,19,pioggia temporale ,0,-,-,-,-,-
+445,2016-06-07,martedì,11,22,sole,0,-,-,-,-,-
+446,2016-06-08,mercoledì,25,21,pioggia temporale ,0,-,-,-,-,-
+447,2016-06-09,giovedì,20,19,pioggia ,0,-,-,-,-,-
+448,2016-06-10,venerdì,15,21,pioggia ,0,-,-,-,Spagna,Italia
+449,2016-06-11,sabato,26,21,pioggia ,0,Chievo,Juventus,A,-,-
+449,2016-06-11,sabato,26,21,pioggia ,0,Palermo,Milan,A,-,-
+449,2016-06-11,sabato,26,21,pioggia ,0,Inter,Crotone,A,-,-
+450,2016-06-12,domenica,40,19,pioggia temporale ,0,-,-,-,-,-
+451,2016-06-14,martedì,18,19,pioggia temporale ,0,-,-,-,-,-
+452,2016-06-15,mercoledì,21,20,pioggia temporale ,0,-,-,-,-,-
+453,2016-06-16,giovedì,20,22,sole,0,-,-,-,-,-
+454,2016-06-17,venerdì,28,21,pioggia temporale ,0,-,-,-,Svezia,Italia
+455,2016-06-18,sabato,23,19,pioggia temporale ,0,-,-,-,-,-
+456,2016-06-19,domenica,36,17,pioggia temporale ,0,-,-,-,-,-
+457,2016-06-21,martedì,23,23,sole,0,-,-,-,-,-
+458,2016-06-22,mercoledì,32,25,sole,0,-,-,-,Irlanda,Italia
+459,2016-06-23,giovedì,12,27,sole,0,-,-,-,-,-
+460,2016-06-24,venerdì,12,28,sole,0,-,-,-,-,-
+461,2016-06-25,sabato,26,27,pioggia temporale ,0,-,-,-,-,-
+462,2016-06-26,domenica,33,24,pioggia temporale ,0,-,-,-,-,-
+463,2016-06-28,martedì,19,24,sole,0,-,-,-,-,-
+464,2016-06-29,mercoledì,24,25,sole,0,-,-,-,-,-
+465,2016-06-30,giovedì,23,26,sole,0,-,-,-,-,-
+466,2016-07-01,venerdì,25,26,sole,0,-,-,-,-,-
+467,2016-07-02,sabato,41,26,sole,0,Frosinone,Juventus,A,-,-
+467,2016-07-02,sabato,41,26,sole,0,Milan,Udinese,A,-,-
+467,2016-07-02,sabato,41,26,sole,0,Napoli,Carpi,A,-,-
+467,2016-07-02,sabato,41,26,sole,0,Torino,Chievo,A,-,-
+467,2016-07-02,sabato,41,26,sole,0,Verona,Inter,A,-,-
+468,2016-07-03,domenica,40,25,sole,0,-,-,-,-,-
+469,2016-07-05,martedì,25,25,sole,0,Bologna,Milan,A,-,-
+469,2016-07-05,martedì,25,25,sole,0,Inter,Empoli,A,-,-
+470,2016-07-06,mercoledì,24,26,sole,0,-,-,-,-,-
+471,2016-07-07,giovedì,19,26,sole,0,-,-,-,-,-
+472,2016-07-08,venerdì,22,26,sole,0,-,-,-,-,-
+473,2016-07-09,sabato,15,27,sole,0,-,-,-,-,-
+474,2016-07-10,domenica,27,29,sole,0,-,-,-,-,-
+475,2016-07-12,martedì,23,27,sole,0,-,-,-,-,-
+476,2016-07-13,mercoledì,20,26,sole,0,-,-,-,-,-
+477,2016-07-14,giovedì,19,23,sole,0,-,-,-,-,-
+478,2016-07-15,venerdì,14,21,sole,0,-,-,-,-,-
+479,2016-07-16,sabato,19,21,sole,0,-,-,-,-,-
+480,2016-07-17,domenica,26,23,sole,0,-,-,-,-,-
+481,2016-07-19,martedì,23,27,sole,0,-,-,-,-,-
+482,2016-07-20,mercoledì,19,28,sole,0,-,-,-,-,-
+483,2016-07-21,giovedì,14,26,sole,0,-,-,-,-,-
+484,2016-07-22,venerdì,14,27,sole,0,-,-,-,-,-
+485,2016-07-23,sabato,24,25,sole,0,-,-,-,-,-
+486,2016-07-24,domenica,31,25,sole,0,-,-,-,-,-
+487,2016-07-26,martedì,21,27,sole,0,-,-,-,-,-
+488,2016-07-27,mercoledì,16,26,sole,0,-,-,-,-,-
+489,2016-07-28,giovedì,16,25,sole,0,-,-,-,-,-
+490,2016-07-29,venerdì,17,26,sole,0,-,-,-,-,-
+491,2016-07-30,sabato,23,28,sole,0,-,-,-,-,-
+492,2016-07-31,domenica,24,25,sole,0,-,-,-,-,-
+493,2016-08-02,martedì,18,24,sole,0,-,-,-,-,-
+494,2016-08-03,mercoledì,22,25,sole,0,-,-,-,-,-
+495,2016-08-04,giovedì,21,26,sole,0,-,-,-,-,-
+496,2016-08-05,venerdì,19,22,pioggia temporale ,0,Carpi,Lazio,A,-,-
+496,2016-08-05,venerdì,19,22,pioggia temporale ,0,Torino,Napoli,A,-,-
+496,2016-08-05,venerdì,19,22,pioggia temporale ,0,Verona,Juventus,A,-,-
+496,2016-08-05,venerdì,19,22,pioggia temporale ,0,Roma,Chievo,A,-,-
+497,2016-08-06,sabato,23,23,pioggia ,0,-,-,-,-,-
+498,2016-08-07,domenica,21,24,sole,0,-,-,-,-,-
+499,2016-08-09,martedì,26,24,pioggia temporale ,0,-,-,-,-,-
+500,2016-08-10,mercoledì,20,20,pioggia temporale ,0,-,-,-,-,-
+501,2016-08-11,giovedì,19,20,pioggia ,0,-,-,-,-,-
+502,2016-08-12,venerdì,19,20,sole,0,-,-,-,-,-
+503,2016-08-13,sabato,23,21,sole,0,-,-,-,-,-
+504,2016-08-16,martedì,20,25,temporale ,0,-,-,-,-,-
+505,2016-08-17,mercoledì,22,25,temporale ,0,-,-,-,-,-
+506,2016-08-18,giovedì,25,23,pioggia temporale ,0,-,-,-,-,-
+507,2016-08-19,venerdì,22,23,pioggia temporale ,0,-,-,-,-,-
+508,2016-08-20,sabato,31,24,pioggia temporale ,0,Juventus,Fiorentina,A,-,-
+509,2016-08-21,domenica,29,24,pioggia temporale nebbia ,0,Chievo,Inter,A,-,-
+509,2016-08-21,domenica,29,24,pioggia temporale nebbia ,0,Pescara,Napoli,A,-,-
+509,2016-08-21,domenica,29,24,pioggia temporale nebbia ,0,Milan,Torino,A,-,-
+509,2016-08-21,domenica,29,24,pioggia temporale nebbia ,0,Atalanta,Lazio,A,-,-
+510,2016-08-23,martedì,20,22,sole,0,-,-,-,-,-
+511,2016-08-24,mercoledì,24,23,sole,0,-,-,-,-,-
+512,2016-08-25,giovedì,23,24,sole,0,-,-,-,-,-
+513,2016-08-26,venerdì,27,23,sole,0,-,-,-,-,-
+514,2016-08-27,sabato,22,24,sole,0,Lazio,Juventus,A,-,-
+514,2016-08-27,sabato,22,24,sole,0,Napoli,Milan,A,-,-
+515,2016-08-28,domenica,19,25,sole,0,Inter,Palermo,A,-,-
+515,2016-08-28,domenica,19,25,sole,0,Fiorentina,Chievo,A,-,-
+516,2016-08-30,martedì,19,24,pioggia temporale ,0,-,-,-,-,-
+517,2016-08-31,mercoledì,24,25,sole,0,-,-,-,-,-
+518,2016-09-01,giovedì,27,24,sole,0,Roma,Milan,A,-,-
+518,2016-09-01,giovedì,27,24,sole,0,Fiorentina,Lazio,A,-,-
+519,2016-09-02,venerdì,30,25,sole,0,-,-,-,-,-
+520,2016-09-03,sabato,28,25,sole,0,-,-,-,-,-
+521,2016-09-04,domenica,32,25,sole,0,Frosinone,Inter,A,-,-
+521,2016-09-04,domenica,32,25,sole,0,Milan,Juventus,A,-,-
+521,2016-09-04,domenica,32,25,sole,0,Chievo,Carpi,A,-,-
+522,2016-09-06,martedì,25,22,sole,0,-,-,-,-,-
+523,2016-09-07,mercoledì,19,22,sole,0,-,-,-,-,-
+524,2016-09-08,giovedì,27,23,sole,0,-,-,-,-,-
+525,2016-09-09,venerdì,26,24,sole,0,-,-,-,-,-
+526,2016-09-10,sabato,34,25,sole,0,-,-,-,Macedonia del Nord,Italia
+527,2016-09-11,domenica,38,24,sole,0,-,-,-,-,-
+528,2016-09-13,martedì,27,24,sole,0,-,-,-,-,-
+529,2016-09-14,mercoledì,26,24,sole,0,-,-,-,-,-
+530,2016-09-15,giovedì,40,22,sole,0,-,-,-,-,-
+531,2016-09-16,venerdì,34,19,sole,0,Sampdoria,Milan,A,-,-
+532,2016-09-17,sabato,34,20,sole,0,Lazio,Pescara,A,-,-
+532,2016-09-17,sabato,34,20,sole,0,Napoli,Bologna,A,-,-
+533,2016-09-18,domenica,37,19,sole,0,Udinese,Chievo,A,-,-
+533,2016-09-18,domenica,37,19,sole,0,Inter,Juventus,A,-,-
+534,2016-09-20,martedì,23,20,sole,0,Milan,Lazio,A,-,-
+535,2016-09-21,mercoledì,22,17,sole,0,Empoli,Inter,A,-,-
+535,2016-09-21,mercoledì,22,17,sole,0,Genoa,Napoli,A,-,-
+535,2016-09-21,mercoledì,22,17,sole,0,Chievo,Sassuolo,A,-,-
+535,2016-09-21,mercoledì,22,17,sole,0,Juventus,Cagliari,A,-,-
+536,2016-09-22,giovedì,25,18,sole,0,-,-,-,-,-
+537,2016-09-23,venerdì,25,17,sole,0,-,-,-,-,-
+538,2016-09-24,sabato,31,18,sole,0,Palermo,Juventus,A,-,-
+538,2016-09-24,sabato,31,18,sole,0,Napoli,Chievo,A,-,-
+539,2016-09-25,domenica,32,18,sole,0,Fiorentina,Milan,A,-,-
+539,2016-09-25,domenica,32,18,sole,0,Inter,Bologna,A,-,-
+539,2016-09-25,domenica,32,18,sole,0,Lazio,Empoli,A,-,-
+540,2016-09-27,martedì,25,19,sole,0,-,-,-,-,-
+541,2016-09-28,mercoledì,18,18,sole,0,-,-,-,-,-
+542,2016-09-29,giovedì,29,18,sole,0,-,-,-,-,-
+543,2016-09-30,venerdì,31,18,sole,0,-,-,-,-,-
+544,2016-10-01,sabato,31,18,pioggia ,0,Bologna,Chievo,A,-,-
+544,2016-10-01,sabato,31,18,pioggia ,0,Inter,Sassuolo,A,-,-
+544,2016-10-01,sabato,31,18,pioggia ,0,Frosinone,Napoli,A,-,-
+544,2016-10-01,sabato,31,18,pioggia ,0,Sampdoria,Juventus,A,-,-
+545,2016-10-02,domenica,26,18,pioggia ,0,-,-,-,-,-
+546,2016-10-04,martedì,15,16,sole,0,Palermo,Lazio,A,-,-
+546,2016-10-04,martedì,15,16,sole,0,Napoli,Verona,A,-,-
+547,2016-10-05,mercoledì,21,13,pioggia ,0,-,-,-,-,-
+548,2016-10-06,giovedì,25,13,sole,0,-,-,-,-,-
+549,2016-10-07,venerdì,29,13,sole,0,-,-,-,-,-
+550,2016-10-08,sabato,29,12,sole,0,-,-,-,-,-
+551,2016-10-09,domenica,33,13,pioggia ,0,Palermo,Napoli,A,-,-
+551,2016-10-09,domenica,33,13,pioggia ,0,Juventus,Sassuolo,A,-,-
+552,2016-10-10,lunedì,1,14,sole,0,-,-,-,-,-
+553,2016-10-11,martedì,18,11,sole,0,-,-,-,-,-
+554,2016-10-12,mercoledì,19,9,sole,0,Sampdoria,Lazio,A,-,-
+555,2016-10-13,giovedì,24,10,pioggia ,0,-,-,-,-,-
+556,2016-10-14,venerdì,31,13,pioggia temporale ,0,-,-,-,-,-
+557,2016-10-15,sabato,31,15,pioggia ,0,Napoli,Roma,A,-,-
+557,2016-10-15,sabato,31,15,pioggia ,0,Juventus,Udinese,A,-,-
+558,2016-10-16,domenica,33,14,nebbia ,0,Chievo,Milan,A,-,-
+558,2016-10-16,domenica,33,14,nebbia ,0,Inter,Cagliari,A,-,-
+558,2016-10-16,domenica,33,14,nebbia ,0,Lazio,Bologna,A,-,-
+559,2016-10-18,martedì,17,14,nebbia ,0,-,-,-,-,-
+560,2016-10-19,mercoledì,21,13,pioggia ,0,-,-,-,-,-
+561,2016-10-20,giovedì,28,12,pioggia ,0,-,-,-,-,-
+562,2016-10-21,venerdì,27,10,sole,0,-,-,-,-,-
+563,2016-10-22,sabato,49,11,pioggia nebbia ,0,Milan,Juventus,A,-,-
+564,2016-10-23,domenica,26,12,sole,0,Empoli,Chievo,A,-,-
+564,2016-10-23,domenica,26,12,sole,0,Crotone,Napoli,A,-,-
+564,2016-10-23,domenica,26,12,sole,0,Atalanta,Inter,A,-,-
+564,2016-10-23,domenica,26,12,sole,0,Torino,Lazio,A,-,-
+565,2016-10-25,martedì,15,14,pioggia ,0,Genoa,Milan,A,-,-
+566,2016-10-26,mercoledì,17,15,nebbia ,0,Chievo,Bologna,A,-,-
+566,2016-10-26,mercoledì,17,15,nebbia ,0,Inter,Torino,A,-,-
+566,2016-10-26,mercoledì,17,15,nebbia ,0,Napoli,Empoli,A,-,-
+566,2016-10-26,mercoledì,17,15,nebbia ,0,Juventus,Sampdoria,A,-,-
+566,2016-10-26,mercoledì,17,15,nebbia ,0,Lazio,Cagliari,A,-,-
+567,2016-10-27,giovedì,22,16,pioggia ,0,-,-,-,-,-
+568,2016-10-28,venerdì,26,13,sole,0,-,-,-,-,-
+569,2016-10-29,sabato,33,11,sole,0,Juventus,Napoli,A,-,-
+570,2016-10-30,domenica,19,11,nebbia ,0,Milan,Pescara,A,-,-
+570,2016-10-30,domenica,19,11,nebbia ,0,Sampdoria,Inter,A,-,-
+570,2016-10-30,domenica,19,11,nebbia ,0,Crotone,Chievo,A,-,-
+570,2016-10-30,domenica,19,11,nebbia ,0,Lazio,Sassuolo,A,-,-
+571,2016-10-31,lunedì,17,12,nebbia ,0,-,-,-,-,-
+572,2016-11-01,martedì,24,10,nebbia ,Ognissanti,-,-,-,-,-
+573,2016-11-02,mercoledì,10,12,sole,Giorno dei Morti,Lazio,Verona,A,-,-
+574,2016-11-03,giovedì,14,12,sole,0,Juventus,Sassuolo,A,-,-
+575,2016-11-04,venerdì,18,10,sole,0,-,-,-,-,-
+576,2016-11-05,sabato,36,10,pioggia ,0,-,-,-,-,-
+577,2016-11-06,domenica,26,11,pioggia nebbia ,0,-,-,-,-,-
+578,2016-11-08,martedì,18,6,sole,0,-,-,-,-,-
+579,2016-11-09,mercoledì,19,6,sole,0,Milan,Udinese,A,-,-
+579,2016-11-09,mercoledì,19,6,sole,0,Chievo,Lazio,A,-,-
+579,2016-11-09,mercoledì,19,6,sole,0,Pescara,Inter,A,-,-
+580,2016-11-10,giovedì,10,6,sole,0,-,-,-,-,-
+581,2016-11-11,venerdì,26,6,sole,0,-,-,-,-,-
+582,2016-11-12,sabato,26,6,nebbia ,0,Cagliari,Napoli,A,-,-
+582,2016-11-12,sabato,26,6,nebbia ,0,Palermo,Chievo,A,-,-
+582,2016-11-12,sabato,26,6,nebbia ,0,Torino,Juventus,A,-,-
+582,2016-11-12,sabato,26,6,nebbia ,0,Inter,Genoa,A,-,-
+583,2016-11-13,domenica,19,6,sole,0,-,-,-,-,-
+584,2016-11-15,martedì,19,4,sole,0,-,-,-,Germania,Italia
+585,2016-11-16,mercoledì,14,4,sole,0,-,-,-,-,-
+586,2016-11-17,giovedì,17,6,sole,0,-,-,-,-,-
+587,2016-11-18,venerdì,28,8,pioggia ,0,-,-,-,-,-
+588,2016-11-19,sabato,42,9,pioggia nebbia ,0,Chievo,Cagliari,A,-,-
+588,2016-11-19,sabato,42,9,pioggia nebbia ,0,Udinese,Napoli,A,-,-
+588,2016-11-19,sabato,42,9,pioggia nebbia ,0,Juventus,Pescara,A,-,-
+589,2016-11-20,domenica,20,10,nebbia ,0,Milan,Inter,A,-,-
+589,2016-11-20,domenica,20,10,nebbia ,0,Lazio,Genoa,A,-,-
+590,2016-11-22,martedì,15,14,sole,0,-,-,-,-,-
+591,2016-11-23,mercoledì,21,14,pioggia ,0,-,-,-,-,-
+592,2016-11-24,giovedì,17,14,sole,0,-,-,-,-,-
+593,2016-11-25,venerdì,24,15,pioggia ,0,-,-,-,-,-
+594,2016-11-26,sabato,37,12,pioggia nebbia ,0,Empoli,Milan,A,-,-
+594,2016-11-26,sabato,37,12,pioggia nebbia ,0,Torino,Chievo,A,-,-
+595,2016-11-27,domenica,30,9,nebbia ,0,Palermo,Lazio,A,-,-
+595,2016-11-27,domenica,30,9,nebbia ,0,Genoa,Juventus,A,-,-
+596,2016-11-29,martedì,20,4,sole,0,-,-,-,-,-
+597,2016-11-30,mercoledì,21,2,sole,0,-,-,-,-,-
+598,2016-12-01,giovedì,21,2,sole,0,-,-,-,-,-
+599,2016-12-02,venerdì,24,3,sole,0,-,-,-,-,-
+600,2016-12-03,sabato,26,6,sole,0,Inter,Bologna,A,-,-
+601,2016-12-04,domenica,28,7,sole,0,-,-,-,-,-
+602,2016-12-06,martedì,16,4,sole,0,-,-,-,-,-
+603,2016-12-07,mercoledì,26,0,sole,0,-,-,-,-,-
+604,2016-12-08,giovedì,26,0,sole,Immacolata Concezione,-,-,-,-,-
+605,2016-12-09,venerdì,31,-1,sole,0,-,-,-,-,-
+606,2016-12-10,sabato,26,-1,sole,0,-,-,-,-,-
+607,2016-12-11,domenica,22,0,sole,0,-,-,-,Liechtenstein,Italia
+608,2016-12-13,martedì,15,1,sole,0,-,-,-,-,-
+609,2016-12-14,mercoledì,20,2,sole,0,-,-,-,-,-
+610,2016-12-15,giovedì,17,3,sole,0,-,-,-,-,-
+611,2016-12-16,venerdì,15,3,sole,0,-,-,-,-,-
+612,2016-12-17,sabato,40,0,sole,0,Milan,Atalanta,A,-,-
+612,2016-12-17,sabato,40,0,sole,0,Juventus,Roma,A,-,-
+613,2016-12-18,domenica,27,-2,sole,0,Sassuolo,Inter,A,-,-
+613,2016-12-18,domenica,27,-2,sole,0,Chievo,Sampdoria,A,-,-
+613,2016-12-18,domenica,27,-2,sole,0,Lazio,Fiorentina,A,-,-
+613,2016-12-18,domenica,27,-2,sole,0,Napoli,Torino,A,-,-
+614,2016-12-20,martedì,16,8,sole,0,-,-,-,-,-
+615,2016-12-21,mercoledì,16,8,sole,0,Inter,Lazio,A,-,-
+616,2016-12-22,giovedì,9,4,sole,0,Roma,Chievo,A,-,-
+616,2016-12-22,giovedì,9,4,sole,0,Fiorentina,Napoli,A,-,-
+617,2016-12-23,venerdì,22,4,sole,0,-,-,-,-,-
+618,2016-12-24,sabato,12,2,sole,0,-,-,-,-,-
+619,2016-12-26,lunedì,15,4,sole,Santo Stefano,-,-,-,-,-
+620,2016-12-27,martedì,14,5,sole,0,-,-,-,-,-
+621,2016-12-28,mercoledì,16,5,sole,0,-,-,-,-,-
+622,2016-12-29,giovedì,20,6,sole,0,-,-,-,-,-
+623,2016-12-30,venerdì,23,2,sole,0,-,-,-,-,-
+624,2016-12-31,sabato,19,-1,sole,Ultimo dell'Anno,-,-,-,-,-
+625,2017-01-01,domenica,16,-1,nebbia ,Primo dell'Anno,-,-,-,-,-
+626,2017-01-03,martedì,21,4,sole,0,-,-,-,-,-
+627,2017-01-04,mercoledì,22,0,sole,0,Sassuolo,Lazio,A,-,-
+628,2017-01-05,giovedì,20,3,sole,0,-,-,-,-,-
+629,2017-01-06,venerdì,22,1,sole,Epifania,-,-,-,-,-
+630,2017-01-07,sabato,29,-3,sole,0,-,-,-,-,-
+631,2017-01-08,domenica,34,-3,sole,0,-,-,-,-,-
+632,2017-01-10,martedì,9,0,sole,0,Milan,Roma,A,-,-
+632,2017-01-10,martedì,9,0,sole,0,Benevento,Inter,A,-,-
+632,2017-01-10,martedì,9,0,sole,0,Atalanta,Juventus,A,-,-
+632,2017-01-10,martedì,9,0,sole,0,Chievo,Fiorentina,A,-,-
+632,2017-01-10,martedì,9,0,sole,0,Napoli,Cagliari,A,-,-
+632,2017-01-10,martedì,9,0,sole,0,Lazio,Sassuolo,A,-,-
+633,2017-01-11,mercoledì,22,-2,sole,0,-,-,-,-,-
+634,2017-01-12,giovedì,20,0,pioggia neve ,0,Napoli,Juventus,A,-,-
+635,2017-01-13,venerdì,21,1,pioggia neve nebbia ,0,-,-,-,-,-
+636,2017-01-14,sabato,35,1,sole,0,Inter,Chievo,A,-,-
+637,2017-01-15,domenica,22,2,sole,0,Fiorentina,Juventus,A,-,-
+637,2017-01-15,domenica,22,2,sole,0,Lazio,Atalanta,A,-,-
+637,2017-01-15,domenica,22,2,sole,0,Napoli,Pescara,A,-,-
+638,2017-01-17,martedì,14,3,sole,0,-,-,-,-,-
+639,2017-01-18,mercoledì,18,2,sole,0,-,-,-,-,-
+640,2017-01-19,giovedì,15,2,sole,0,-,-,-,-,-
+641,2017-01-20,venerdì,14,1,sole,0,-,-,-,-,-
+642,2017-01-21,sabato,32,0,sole,0,Chievo,Fiorentina,A,-,-
+642,2017-01-21,sabato,32,0,sole,0,Milan,Napoli,A,-,-
+643,2017-01-22,domenica,32,1,sole,0,Palermo,Inter,A,-,-
+643,2017-01-22,domenica,32,1,sole,0,Juventus,Lazio,A,-,-
+644,2017-01-24,martedì,15,3,sole,0,-,-,-,-,-
+645,2017-01-25,mercoledì,13,1,sole,0,-,-,-,-,-
+646,2017-01-26,giovedì,17,0,sole,0,-,-,-,-,-
+647,2017-01-27,venerdì,30,0,sole,0,-,-,-,-,-
+648,2017-01-28,sabato,40,0,sole,0,Lazio,Chievo,A,-,-
+648,2017-01-28,sabato,40,0,sole,0,Inter,Pescara,A,-,-
+649,2017-01-29,domenica,30,-1,sole,0,Sassuolo,Juventus,A,-,-
+649,2017-01-29,domenica,30,-1,sole,0,Napoli,Palermo,A,-,-
+649,2017-01-29,domenica,30,-1,sole,0,Udinese,Milan,A,-,-
+650,2017-01-31,martedì,13,3,pioggia nebbia ,0,-,-,-,-,-
+651,2017-02-01,mercoledì,18,4,pioggia nebbia ,0,-,-,-,-,-
+652,2017-02-02,giovedì,18,6,pioggia nebbia ,0,-,-,-,-,-
+653,2017-02-03,venerdì,30,7,pioggia nebbia ,0,-,-,-,-,-
+654,2017-02-04,sabato,32,7,pioggia nebbia ,0,Chievo,Crotone,A,-,-
+654,2017-02-04,sabato,32,7,pioggia nebbia ,0,Napoli,Juventus,A,-,-
+654,2017-02-04,sabato,32,7,pioggia nebbia ,0,Pescara,Milan,A,-,-
+655,2017-02-05,domenica,33,5,pioggia nebbia ,0,-,-,-,-,-
+656,2017-02-07,martedì,15,8,sole,0,-,-,-,-,-
+657,2017-02-08,mercoledì,23,7,sole,0,-,-,-,-,-
+658,2017-02-09,giovedì,22,5,sole,0,-,-,-,Spagna,Italia
+659,2017-02-10,venerdì,26,5,pioggia ,0,-,-,-,-,-
+660,2017-02-11,sabato,44,6,sole,0,-,-,-,-,-
+661,2017-02-12,domenica,27,7,sole,0,-,-,-,-,-
+662,2017-02-14,martedì,24,6,sole,San Valentino,-,-,-,-,-
+663,2017-02-15,mercoledì,23,6,sole,0,-,-,-,-,-
+664,2017-02-16,giovedì,17,7,sole,0,-,-,-,-,-
+665,2017-02-17,venerdì,25,6,sole,0,Juventus,Palermo,A,-,-
+666,2017-02-18,sabato,32,6,sole,0,Empoli,Lazio,A,-,-
+667,2017-02-19,domenica,34,3,nebbia ,0,Bologna,Inter,A,-,-
+667,2017-02-19,domenica,34,3,nebbia ,0,Chievo,Napoli,A,-,-
+667,2017-02-19,domenica,34,3,nebbia ,0,Milan,Fiorentina,A,-,-
+668,2017-02-21,martedì,17,4,nebbia ,0,-,-,-,-,-
+669,2017-02-22,mercoledì,21,7,nebbia ,0,-,-,-,-,-
+670,2017-02-23,giovedì,25,8,sole,Giovedì Grasso,-,-,-,-,-
+671,2017-02-24,venerdì,12,8,nebbia ,0,-,-,-,-,-
+672,2017-02-25,sabato,43,8,sole,0,Napoli,Atalanta,A,-,-
+672,2017-02-25,sabato,43,8,sole,0,Juventus,Empoli,A,-,-
+673,2017-02-26,domenica,39,7,sole,Carnevale,Sassuolo,Milan,A,-,-
+673,2017-02-26,domenica,39,7,sole,Carnevale,Inter,Roma,A,-,-
+673,2017-02-26,domenica,39,7,sole,Carnevale,Lazio,Udinese,A,-,-
+673,2017-02-26,domenica,39,7,sole,Carnevale,Chievo,Pescara,A,-,-
+674,2017-02-28,martedì,27,9,pioggia ,Martedì Grasso,-,-,-,-,-
+675,2017-03-01,mercoledì,24,10,sole,0,-,-,-,-,-
+676,2017-03-02,giovedì,23,8,sole,0,-,-,-,-,-
+677,2017-03-03,venerdì,23,9,sole,0,-,-,-,-,-
+678,2017-03-04,sabato,42,9,sole,0,Inter,Sampdoria,A,-,-
+679,2017-03-05,domenica,37,10,sole,0,-,-,-,-,-
+680,2017-03-07,martedì,23,11,sole,0,-,-,-,-,-
+681,2017-03-08,mercoledì,19,11,sole,0,-,-,-,-,-
+682,2017-03-09,giovedì,28,10,sole,0,-,-,-,-,-
+683,2017-03-10,venerdì,37,13,sole,0,-,-,-,-,-
+684,2017-03-11,sabato,52,9,sole,0,-,-,-,-,-
+685,2017-03-12,domenica,38,9,sole,0,Sampdoria,Lazio,A,-,-
+685,2017-03-12,domenica,38,9,sole,0,Benevento,Milan,A,-,-
+685,2017-03-12,domenica,38,9,sole,0,Inter,Chievo,A,-,-
+686,2017-03-14,martedì,30,12,sole,0,-,-,-,-,-
+687,2017-03-15,mercoledì,27,12,sole,0,-,-,-,-,-
+688,2017-03-16,giovedì,19,12,sole,0,-,-,-,-,-
+689,2017-03-17,venerdì,29,12,sole,0,-,-,-,-,-
+690,2017-03-18,sabato,37,12,sole,0,Milan,Genoa,A,-,-
+690,2017-03-18,sabato,37,12,sole,0,Torino,Inter,A,-,-
+691,2017-03-19,domenica,29,11,sole,Festa di San Giuseppe,Cagliari,Lazio,A,-,-
+691,2017-03-19,domenica,29,11,sole,Festa di San Giuseppe,Sampdoria,Juventus,A,-,-
+691,2017-03-19,domenica,29,11,sole,Festa di San Giuseppe,Empoli,Napoli,A,-,-
+691,2017-03-19,domenica,29,11,sole,Festa di San Giuseppe,Bologna,Chievo,A,-,-
+692,2017-03-21,martedì,22,13,sole,0,-,-,-,-,-
+693,2017-03-22,mercoledì,32,13,sole,0,-,-,-,-,-
+694,2017-03-23,giovedì,41,14,sole,0,-,-,-,-,-
+695,2017-03-24,venerdì,30,15,sole,0,-,-,-,Albania,Italia
+696,2017-03-25,sabato,45,14,sole,0,-,-,-,-,-
+697,2017-03-26,domenica,40,13,sole,0,-,-,-,-,-
+698,2017-03-28,martedì,12,12,sole,0,-,-,-,Olanda,Italia
+699,2017-03-29,mercoledì,20,14,sole,0,-,-,-,-,-
+700,2017-03-30,giovedì,19,16,sole,0,-,-,-,-,-
+701,2017-03-31,venerdì,30,16,sole,0,-,-,-,-,-
+702,2017-04-01,sabato,34,15,sole,0,-,-,-,-,-
+703,2017-04-02,domenica,35,16,sole,0,Bologna,Napoli,A,-,-
+704,2017-04-04,martedì,25,17,sole,0,-,-,-,-,-
+705,2017-04-05,mercoledì,26,14,sole,0,-,-,-,-,-
+706,2017-04-06,giovedì,17,14,sole,0,-,-,-,-,-
+707,2017-04-07,venerdì,18,14,sole,0,-,-,-,-,-
+708,2017-04-08,sabato,34,15,sole,0,-,-,-,-,-
+709,2017-04-09,domenica,33,16,sole,Domenica delle Palme,-,-,-,-,-
+710,2017-04-11,martedì,20,16,sole,0,-,-,-,-,-
+711,2017-04-12,mercoledì,22,17,sole,0,-,-,-,-,-
+712,2017-04-13,giovedì,24,17,sole,0,-,-,-,-,-
+713,2017-04-14,venerdì,22,18,sole,0,-,-,-,-,-
+714,2017-04-15,sabato,35,16,sole,0,Pescara,Juventus,A,-,-
+714,2017-04-15,sabato,35,16,sole,0,Genoa,Lazio,A,-,-
+714,2017-04-15,sabato,35,16,sole,0,Inter,Milan,A,-,-
+714,2017-04-15,sabato,35,16,sole,0,Napoli,Udinese,A,-,-
+714,2017-04-15,sabato,35,16,sole,0,Cagliari,Chievo,A,-,-
+715,2017-04-18,martedì,14,9,sole,0,-,-,-,-,-
+716,2017-04-19,mercoledì,23,11,sole,0,-,-,-,-,-
+717,2017-04-20,giovedì,34,11,sole,0,-,-,-,-,-
+718,2017-04-21,venerdì,24,11,sole,0,-,-,-,-,-
+719,2017-04-22,sabato,49,12,sole,0,Fiorentina,Inter,A,-,-
+720,2017-04-23,domenica,40,13,sole,0,Milan,Empoli,A,-,-
+720,2017-04-23,domenica,40,13,sole,0,Chievo,Torino,A,-,-
+720,2017-04-23,domenica,40,13,sole,0,Sassuolo,Napoli,A,-,-
+720,2017-04-23,domenica,40,13,sole,0,Juventus,Genoa,A,-,-
+720,2017-04-23,domenica,40,13,sole,0,Lazio,Palermo,A,-,-
+721,2017-04-24,lunedì,32,15,sole,0,-,-,-,-,-
+722,2017-04-25,martedì,46,15,sole,Anniversario della Liberazione,-,-,-,-,-
+723,2017-04-26,mercoledì,26,13,sole,0,-,-,-,-,-
+724,2017-04-27,giovedì,29,15,sole,0,-,-,-,-,-
+725,2017-04-28,venerdì,34,12,sole,0,Atalanta,Juventus,A,-,-
+726,2017-04-29,sabato,42,12,sole,0,-,-,-,-,-
+727,2017-04-30,domenica,40,13,sole,0,Inter,Napoli,A,-,-
+727,2017-04-30,domenica,40,13,sole,0,Roma,Lazio,A,-,-
+727,2017-04-30,domenica,40,13,sole,0,Crotone,Milan,A,-,-
+727,2017-04-30,domenica,40,13,sole,0,Genoa,Chievo,A,-,-
+728,2017-05-01,lunedì,49,12,pioggia ,Festa dei Lavoratori,-,-,-,-,-
+729,2017-05-02,martedì,19,13,pioggia ,0,Milan,Sampdoria,A,-,-
+729,2017-05-02,martedì,19,13,pioggia ,0,Chievo,Udinese,A,-,-
+729,2017-05-02,martedì,19,13,pioggia ,0,Juventus,Inter,A,-,-
+729,2017-05-02,martedì,19,13,pioggia ,0,Pescara,Lazio,A,-,-
+730,2017-05-03,mercoledì,36,13,pioggia ,0,Bologna,Lazio,A,-,-
+730,2017-05-03,mercoledì,36,13,pioggia ,0,Cagliari,Inter,A,-,-
+730,2017-05-03,mercoledì,36,13,pioggia ,0,Udinese,Juventus,A,-,-
+731,2017-05-04,giovedì,21,13,pioggia temporale ,0,-,-,-,-,-
+732,2017-05-05,venerdì,31,15,nebbia ,0,-,-,-,-,-
+733,2017-05-06,sabato,50,14,pioggia ,0,-,-,-,-,-
+734,2017-05-07,domenica,38,13,pioggia ,0,-,-,-,-,-
+735,2017-05-09,martedì,42,15,pioggia temporale ,0,-,-,-,Israele,Italia
+736,2017-05-10,mercoledì,51,15,sole,0,-,-,-,-,-
+737,2017-05-11,giovedì,44,16,sole,0,Chievo,Napoli,A,-,-
+737,2017-05-11,giovedì,44,16,sole,0,Sassuolo,Milan,A,-,-
+737,2017-05-11,giovedì,44,16,sole,0,Inter,Torino,A,-,-
+737,2017-05-11,giovedì,44,16,sole,0,Juventus,Benevento,A,-,-
+738,2017-05-12,venerdì,44,18,pioggia temporale ,0,-,-,-,-,-
+739,2017-05-13,sabato,53,19,pioggia temporale ,0,Atalanta,Milan,A,-,-
+739,2017-05-13,sabato,53,19,pioggia temporale ,0,Fiorentina,Lazio,A,-,-
+740,2017-05-14,domenica,43,20,pioggia temporale ,Festa della Mamma,Torino,Napoli,A,-,-
+740,2017-05-14,domenica,43,20,pioggia temporale ,Festa della Mamma,Inter,Sassuolo,A,-,-
+740,2017-05-14,domenica,43,20,pioggia temporale ,Festa della Mamma,Sampdoria,Chievo,A,-,-
+740,2017-05-14,domenica,43,20,pioggia temporale ,Festa della Mamma,Roma,Juventus,A,-,-
+741,2017-05-16,martedì,32,21,sole,0,-,-,-,-,-
+742,2017-05-17,mercoledì,39,23,sole,0,-,-,-,-,-
+743,2017-05-18,giovedì,34,22,sole,0,-,-,-,-,-
+744,2017-05-19,venerdì,35,19,pioggia temporale ,0,-,-,-,-,-
+745,2017-05-20,sabato,48,15,pioggia temporale ,0,Chievo,Roma,A,-,-
+745,2017-05-20,sabato,48,15,pioggia temporale ,0,Napoli,Fiorentina,A,-,-
+746,2017-05-21,domenica,34,20,sole,0,Lazio,Inter,A,-,-
+746,2017-05-21,domenica,34,20,sole,0,Milan,Bologna,A,-,-
+746,2017-05-21,domenica,34,20,sole,0,Juventus,Crotone,A,-,-
+747,2017-05-23,martedì,21,22,sole,0,-,-,-,-,-
+748,2017-05-24,mercoledì,24,22,sole,0,-,-,-,-,-
+749,2017-05-25,giovedì,29,21,sole,0,-,-,-,-,-
+750,2017-05-26,venerdì,26,21,sole,0,-,-,-,-,-
+751,2017-05-27,sabato,27,22,sole,0,Atalanta,Chievo,A,-,-
+751,2017-05-27,sabato,27,22,sole,0,Bologna,Juventus,A,-,-
+752,2017-05-28,domenica,32,27,sole,0,Cagliari,Milan,A,-,-
+752,2017-05-28,domenica,32,27,sole,0,Sampdoria,Napoli,A,-,-
+752,2017-05-28,domenica,32,27,sole,0,Crotone,Lazio,A,-,-
+752,2017-05-28,domenica,32,27,sole,0,Inter,Udinese,A,-,-
+753,2017-05-30,martedì,47,24,sole,0,-,-,-,-,-
+754,2017-05-31,mercoledì,52,25,sole,0,-,-,-,San Marino,Italia
+755,2017-06-01,giovedì,25,24,sole,0,-,-,-,-,-
+756,2017-06-02,venerdì,26,24,sole,Festa della Repubblica,-,-,-,-,-
+757,2017-06-03,sabato,31,25,sole,0,-,-,-,-,-
+758,2017-06-04,domenica,32,24,sole,Pentecoste,-,-,-,-,-
+759,2017-06-06,martedì,53,20,sole,0,-,-,-,-,-
+760,2017-06-07,mercoledì,30,21,sole,0,-,-,-,-,-
+761,2017-06-08,giovedì,26,20,sole,0,-,-,-,-,-
+762,2017-06-09,venerdì,28,21,sole,0,-,-,-,-,-
+763,2017-06-10,sabato,33,23,sole,0,-,-,-,Macedonia del Nord,Italia
+764,2017-06-11,domenica,33,25,sole,0,-,-,-,-,-
+765,2017-06-13,martedì,45,26,sole,0,-,-,-,-,-
+766,2017-06-14,mercoledì,31,25,sole,0,-,-,-,-,-
+767,2017-06-15,giovedì,27,25,sole,0,-,-,-,-,-
+768,2017-06-16,venerdì,25,27,sole,0,-,-,-,-,-
+769,2017-06-17,sabato,22,27,sole,0,-,-,-,-,-
+770,2017-06-18,domenica,33,24,sole,0,-,-,-,-,-
+771,2017-06-20,martedì,32,26,sole,0,-,-,-,-,-
+772,2017-06-21,mercoledì,17,28,sole,0,-,-,-,-,-
+773,2017-06-22,giovedì,20,29,sole,0,-,-,-,-,-
+774,2017-06-23,venerdì,18,29,sole,0,-,-,-,-,-
+775,2017-06-24,sabato,28,29,sole,0,-,-,-,-,-
+776,2017-06-25,domenica,26,25,sole,0,-,-,-,-,-
+777,2017-06-27,martedì,17,26,sole,0,-,-,-,-,-
+778,2017-06-28,mercoledì,32,23,sole,0,-,-,-,-,-
+779,2017-06-29,giovedì,28,21,sole,0,-,-,-,-,-
+780,2017-06-30,venerdì,33,21,sole,0,-,-,-,-,-
+781,2017-07-01,sabato,20,21,sole,0,Napoli,Sampdoria,A,-,-
+782,2017-07-02,domenica,29,22,sole,0,-,-,-,-,-
+783,2017-07-04,martedì,19,25,sole,0,-,-,-,-,-
+784,2017-07-05,mercoledì,16,26,sole,0,Milan,Roma,A,-,-
+784,2017-07-05,mercoledì,16,26,sole,0,Chievo,Palermo,A,-,-
+784,2017-07-05,mercoledì,16,26,sole,0,Genoa,Inter,A,-,-
+784,2017-07-05,mercoledì,16,26,sole,0,Lazio,Sampdoria,A,-,-
+785,2017-07-06,giovedì,24,28,sole,0,-,-,-,Uruguay,Italia
+786,2017-07-07,venerdì,18,28,sole,0,-,-,-,-,-
+787,2017-07-08,sabato,26,28,sole,0,-,-,-,-,-
+788,2017-07-09,domenica,25,28,sole,0,-,-,-,-,-
+789,2017-07-11,martedì,14,25,sole,0,-,-,-,-,-
+790,2017-07-12,mercoledì,17,25,sole,0,-,-,-,-,-
+791,2017-07-13,giovedì,19,26,sole,0,-,-,-,-,-
+792,2017-07-14,venerdì,19,24,sole,0,-,-,-,-,-
+793,2017-07-15,sabato,27,23,sole,0,-,-,-,-,-
+794,2017-07-16,domenica,28,23,sole,0,-,-,-,-,-
+795,2017-07-18,martedì,17,25,sole,0,-,-,-,-,-
+796,2017-07-19,mercoledì,27,27,sole,0,-,-,-,-,-
+797,2017-07-20,giovedì,25,26,sole,0,-,-,-,-,-
+798,2017-07-21,venerdì,25,26,sole,0,-,-,-,-,-
+799,2017-07-22,sabato,23,27,sole,0,-,-,-,-,-
+800,2017-07-23,domenica,29,27,sole,0,-,-,-,-,-
+801,2017-07-25,martedì,22,22,sole,0,-,-,-,-,-
+802,2017-07-26,mercoledì,15,21,sole,0,-,-,-,-,-
+803,2017-07-27,giovedì,21,23,sole,0,-,-,-,-,-
+804,2017-07-28,venerdì,17,25,sole,0,-,-,-,-,-
+805,2017-07-29,sabato,27,26,sole,0,-,-,-,-,-
+806,2017-07-30,domenica,33,25,sole,0,-,-,-,-,-
+807,2017-08-01,martedì,23,29,sole,0,Milan,Cagliari,A,-,-
+807,2017-08-01,martedì,23,29,sole,0,Chievo,Atalanta,A,-,-
+807,2017-08-01,martedì,23,29,sole,0,Lazio,Crotone,A,-,-
+807,2017-08-01,martedì,23,29,sole,0,Udinese,Inter,A,-,-
+807,2017-08-01,martedì,23,29,sole,0,Juventus,Bologna,A,-,-
+808,2017-08-02,mercoledì,19,30,sole,0,Bologna,Milan,A,-,-
+808,2017-08-02,mercoledì,19,30,sole,0,Crotone,Juventus,A,-,-
+809,2017-08-03,giovedì,25,30,sole,0,-,-,-,-,-
+810,2017-08-04,venerdì,27,30,sole,0,Juventus,Chievo,A,-,-
+811,2017-08-05,sabato,28,30,sole,0,-,-,-,-,-
+812,2017-08-06,domenica,22,28,sole,0,-,-,-,-,-
+813,2017-08-08,martedì,20,26,sole,0,-,-,-,-,-
+814,2017-08-09,mercoledì,24,27,sole,0,-,-,-,-,-
+815,2017-08-10,giovedì,26,25,sole,0,-,-,-,-,-
+816,2017-08-11,venerdì,28,22,sole,0,-,-,-,-,-
+817,2017-08-12,sabato,29,22,sole,0,-,-,-,-,-
+818,2017-08-13,domenica,25,23,sole,0,-,-,-,-,-
+819,2017-08-16,mercoledì,20,27,sole,0,-,-,-,-,-
+820,2017-08-17,giovedì,18,27,sole,0,-,-,-,-,-
+821,2017-08-18,venerdì,21,28,sole,0,-,-,-,-,-
+822,2017-08-19,sabato,28,26,sole,0,Verona,Napoli,A,-,-
+822,2017-08-19,sabato,28,26,sole,0,Juventus,Cagliari,A,-,-
+823,2017-08-20,domenica,28,22,sole,0,Crotone,Milan,A,-,-
+823,2017-08-20,domenica,28,22,sole,0,Lazio,Spal,A,-,-
+823,2017-08-20,domenica,28,22,sole,0,Udinese,Chievo,A,-,-
+823,2017-08-20,domenica,28,22,sole,0,Inter,Fiorentina,A,-,-
+824,2017-08-22,martedì,22,22,sole,0,-,-,-,-,-
+825,2017-08-23,mercoledì,26,23,sole,0,-,-,-,-,-
+826,2017-08-24,giovedì,12,25,sole,0,-,-,-,-,-
+827,2017-08-25,venerdì,19,26,sole,0,-,-,-,-,-
+828,2017-08-26,sabato,28,27,sole,0,Roma,Inter,A,-,-
+828,2017-08-26,sabato,28,27,sole,0,Genoa,Juventus,A,-,-
+829,2017-08-27,domenica,26,28,sole,0,Chievo,Lazio,A,-,-
+829,2017-08-27,domenica,26,28,sole,0,Milan,Cagliari,A,-,-
+829,2017-08-27,domenica,26,28,sole,0,Napoli,Atalanta,A,-,-
+830,2017-08-29,martedì,24,25,sole,0,-,-,-,-,-
+831,2017-08-30,mercoledì,21,26,sole,0,-,-,-,-,-
+832,2017-08-31,giovedì,30,25,sole,0,-,-,-,-,-
+833,2017-09-01,venerdì,29,23,pioggia temporale ,0,-,-,-,-,-
+834,2017-09-02,sabato,34,18,pioggia temporale ,0,-,-,-,-,-
+835,2017-09-03,domenica,34,20,pioggia ,0,-,-,-,-,-
+836,2017-09-05,martedì,33,21,sole,0,-,-,-,-,-
+837,2017-09-06,mercoledì,25,22,sole,0,-,-,-,-,-
+838,2017-09-07,giovedì,24,21,pioggia temporale ,0,-,-,-,-,-
+839,2017-09-08,venerdì,30,20,sole,0,-,-,-,-,-
+840,2017-09-09,sabato,40,20,pioggia temporale ,0,Juventus,Chievo,A,-,-
+841,2017-09-10,domenica,38,18,pioggia ,0,-,-,-,Albania,Italia
+842,2017-09-12,martedì,26,18,pioggia temporale ,0,Juventus,Inter,A,-,-
+843,2017-09-13,mercoledì,18,18,sole,0,-,-,-,-,-
+844,2017-09-14,giovedì,15,17,pioggia ,0,-,-,-,-,-
+845,2017-09-15,venerdì,27,17,pioggia ,0,-,-,-,-,-
+846,2017-09-16,sabato,28,16,pioggia ,0,Crotone,Inter,A,-,-
+847,2017-09-17,domenica,31,17,pioggia temporale ,0,Chievo,Atalanta,A,-,-
+847,2017-09-17,domenica,31,17,pioggia temporale ,0,Sassuolo,Juventus,A,-,-
+847,2017-09-17,domenica,31,17,pioggia temporale ,0,Milan,Udinese,A,-,-
+847,2017-09-17,domenica,31,17,pioggia temporale ,0,Genoa,Lazio,A,-,-
+847,2017-09-17,domenica,31,17,pioggia temporale ,0,Napoli,Benevento,A,-,-
+848,2017-09-19,martedì,16,14,pioggia ,0,Bologna,Inter,A,-,-
+849,2017-09-20,mercoledì,20,17,sole,0,Genoa,Chievo,A,-,-
+849,2017-09-20,mercoledì,20,17,sole,0,Juventus,Fiorentina,A,-,-
+849,2017-09-20,mercoledì,20,17,sole,0,Lazio,Napoli,A,-,-
+849,2017-09-20,mercoledì,20,17,sole,0,Milan,Spal,A,-,-
+850,2017-09-21,giovedì,25,18,sole,0,-,-,-,-,-
+851,2017-09-22,venerdì,17,16,sole,0,-,-,-,-,-
+852,2017-09-23,sabato,5,17,sole,0,Spal,Napoli,A,-,-
+852,2017-09-23,sabato,5,17,sole,0,Juventus,Torino,A,-,-
+853,2017-09-24,domenica,30,16,pioggia temporale ,0,Cagliari,Chievo,A,-,-
+853,2017-09-24,domenica,30,16,pioggia temporale ,0,Verona,Lazio,A,-,-
+853,2017-09-24,domenica,30,16,pioggia temporale ,0,Inter,Genoa,A,-,-
+853,2017-09-24,domenica,30,16,pioggia temporale ,0,Sampdoria,Milan,A,-,-
+854,2017-09-26,martedì,21,17,sole,0,-,-,-,-,-
+855,2017-09-27,mercoledì,16,18,sole,0,-,-,-,-,-
+856,2017-09-28,giovedì,21,18,sole,0,-,-,-,-,-
+857,2017-09-29,venerdì,31,18,sole,0,-,-,-,-,-
+858,2017-09-30,sabato,27,17,pioggia ,0,-,-,-,-,-
+859,2017-10-01,domenica,28,15,pioggia ,0,-,-,-,-,-
+860,2017-10-03,martedì,22,16,sole,0,Juventus,Milan,A,-,-
+861,2017-10-04,mercoledì,25,16,sole,0,-,-,-,-,-
+862,2017-10-05,giovedì,22,17,sole,0,-,-,-,-,-
+863,2017-10-06,venerdì,36,17,pioggia temporale ,0,-,-,-,-,-
+864,2017-10-07,sabato,23,14,sole,0,-,-,-,-,-
+865,2017-10-08,domenica,26,15,sole,0,-,-,-,-,-
+866,2017-10-10,martedì,19,15,sole,0,-,-,-,-,-
+867,2017-10-11,mercoledì,22,17,sole,0,-,-,-,Svezia,Italia
+868,2017-10-12,giovedì,24,16,sole,0,Chievo,Roma,A,-,-
+868,2017-10-12,giovedì,24,16,sole,0,Napoli,Fiorentina,A,-,-
+868,2017-10-12,giovedì,24,16,sole,0,Milan,Bologna,A,-,-
+869,2017-10-13,venerdì,33,15,sole,0,-,-,-,-,-
+870,2017-10-14,sabato,38,15,sole,0,Roma,Napoli,A,-,-
+870,2017-10-14,sabato,38,15,sole,0,Juventus,Lazio,A,-,-
+871,2017-10-15,domenica,32,16,sole,0,Sassuolo,Chievo,A,-,-
+871,2017-10-15,domenica,32,16,sole,0,Inter,Milan,A,-,-
+872,2017-10-17,martedì,31,15,sole,0,-,-,-,-,-
+873,2017-10-18,mercoledì,33,13,sole,0,-,-,-,-,-
+874,2017-10-19,giovedì,19,12,nebbia ,0,-,-,-,-,-
+875,2017-10-20,venerdì,35,13,nebbia ,0,-,-,-,-,-
+876,2017-10-21,sabato,41,14,sole,0,Napoli,Inter,A,-,-
+877,2017-10-22,domenica,38,14,pioggia temporale ,0,Milan,Genoa,A,-,-
+877,2017-10-22,domenica,38,14,pioggia temporale ,0,Udinese,Juventus,A,-,-
+877,2017-10-22,domenica,38,14,pioggia temporale ,0,Chievo,Verona,A,-,-
+877,2017-10-22,domenica,38,14,pioggia temporale ,0,Lazio,Cagliari,A,-,-
+878,2017-10-24,martedì,31,14,sole,0,Inter,Sampdoria,A,-,-
+879,2017-10-25,mercoledì,31,11,sole,0,Bologna,Lazio,A,-,-
+879,2017-10-25,mercoledì,31,11,sole,0,Chievo,Milan,A,-,-
+879,2017-10-25,mercoledì,31,11,sole,0,Genoa,Napoli,A,-,-
+879,2017-10-25,mercoledì,31,11,sole,0,Juventus,Spal,A,-,-
+880,2017-10-26,giovedì,30,13,sole,0,-,-,-,-,-
+881,2017-10-27,venerdì,22,12,sole,0,-,-,-,-,-
+882,2017-10-28,sabato,45,9,sole,0,Milan,Juventus,A,-,-
+883,2017-10-29,domenica,26,12,sole,0,Benevento,Lazio,A,-,-
+883,2017-10-29,domenica,26,12,sole,0,Napoli,Sassuolo,A,-,-
+883,2017-10-29,domenica,26,12,sole,0,Sampdoria,Chievo,A,-,-
+884,2017-10-31,martedì,24,11,sole,0,-,-,-,-,-
+885,2017-11-01,mercoledì,32,10,sole,Ognissanti,-,-,-,-,-
+886,2017-11-02,giovedì,15,9,sole,Giorno dei Morti,-,-,-,-,-
+887,2017-11-03,venerdì,30,10,sole,0,-,-,-,-,-
+888,2017-11-04,sabato,44,11,sole,0,-,-,-,-,-
+889,2017-11-05,domenica,39,14,sole,0,-,-,-,-,-
+890,2017-11-07,martedì,19,11,sole,0,-,-,-,-,-
+891,2017-11-08,mercoledì,14,10,sole,0,-,-,-,-,-
+892,2017-11-09,giovedì,20,10,sole,0,-,-,-,-,-
+893,2017-11-10,venerdì,30,10,sole,0,-,-,-,-,-
+894,2017-11-11,sabato,39,6,sole,0,-,-,-,-,-
+895,2017-11-12,domenica,28,7,sole,0,Lazio,Torino,A,-,-
+896,2017-11-14,martedì,20,7,sole,0,-,-,-,-,-
+897,2017-11-15,mercoledì,23,6,sole,0,-,-,-,-,-
+898,2017-11-16,giovedì,26,9,sole,0,-,-,-,-,-
+899,2017-11-17,venerdì,29,7,sole,0,-,-,-,-,-
+900,2017-11-18,sabato,49,7,sole,0,Roma,Lazio,A,-,-
+900,2017-11-18,sabato,49,7,sole,0,Napoli,Milan,A,-,-
+901,2017-11-19,domenica,25,5,sole,0,Torino,Chievo,A,-,-
+901,2017-11-19,domenica,25,5,sole,0,Inter,Atalanta,A,-,-
+901,2017-11-19,domenica,25,5,sole,0,Sampdoria,Juventus,A,-,-
+902,2017-11-21,martedì,28,6,sole,0,-,-,-,-,-
+903,2017-11-22,mercoledì,23,7,sole,0,-,-,-,-,-
+904,2017-11-23,giovedì,23,9,sole,0,-,-,-,-,-
+905,2017-11-24,venerdì,27,8,sole,0,-,-,-,-,-
+906,2017-11-25,sabato,44,9,sole,0,Cagliari,Inter,A,-,-
+906,2017-11-25,sabato,44,9,sole,0,Chievo,Spal,A,-,-
+907,2017-11-26,domenica,32,7,sole,0,Milan,Torino,A,-,-
+907,2017-11-26,domenica,32,7,sole,0,Udinese,Napoli,A,-,-
+907,2017-11-26,domenica,32,7,sole,0,Lazio,Fiorentina,A,-,-
+907,2017-11-26,domenica,32,7,sole,0,Juventus,Crotone,A,-,-
+908,2017-11-28,martedì,28,1,sole,0,-,-,-,-,-
+909,2017-11-29,mercoledì,27,4,sole,0,-,-,-,-,-
+910,2017-11-30,giovedì,20,4,sole,0,-,-,-,-,-
+911,2017-12-01,venerdì,28,3,nebbia ,0,-,-,-,-,-
+912,2017-12-02,sabato,49,5,sole,0,Cagliari,Juventus,A,-,-
+912,2017-12-02,sabato,49,5,sole,0,Sassuolo,Chievo,A,-,-
+912,2017-12-02,sabato,49,5,sole,0,Inter,Empoli,A,-,-
+913,2017-12-03,domenica,32,2,sole,0,Napoli,Crotone,A,-,-
+913,2017-12-03,domenica,32,2,sole,0,Chievo,Empoli,A,-,-
+913,2017-12-03,domenica,32,2,sole,0,Inter,Atalanta,A,-,-
+914,2017-12-05,martedì,16,1,sole,0,-,-,-,-,-
+915,2017-12-06,mercoledì,27,1,sole,0,-,-,-,-,-
+916,2017-12-07,giovedì,32,2,sole,0,-,-,-,-,-
+917,2017-12-08,venerdì,31,4,sole,Immacolata Concezione,-,-,-,-,-
+918,2017-12-09,sabato,39,3,sole,0,-,-,-,-,-
+919,2017-12-10,domenica,22,-1,neve ,0,-,-,-,-,-
+920,2017-12-12,martedì,16,5,pioggia nebbia ,0,-,-,-,-,-
+921,2017-12-13,mercoledì,21,3,nebbia ,0,-,-,-,-,-
+922,2017-12-14,giovedì,27,4,nebbia ,0,-,-,-,-,-
+923,2017-12-15,venerdì,21,4,nebbia ,0,-,-,-,-,-
+924,2017-12-16,sabato,42,4,nebbia ,0,Inter,Udinese,A,-,-
+924,2017-12-16,sabato,42,4,nebbia ,0,Torino,Napoli,A,-,-
+925,2017-12-17,domenica,32,1,nebbia ,0,Bologna,Juventus,A,-,-
+925,2017-12-17,domenica,32,1,nebbia ,0,Crotone,Chievo,A,-,-
+925,2017-12-17,domenica,32,1,nebbia ,0,Atalanta,Lazio,A,-,-
+925,2017-12-17,domenica,32,1,nebbia ,0,Verona,Milan,A,-,-
+926,2017-12-19,martedì,23,0,sole,0,-,-,-,-,-
+927,2017-12-20,mercoledì,24,0,sole,0,-,-,-,-,-
+928,2017-12-21,giovedì,18,-1,sole,0,-,-,-,-,-
+929,2017-12-22,venerdì,34,0,nebbia ,0,Chievo,Bologna,A,-,-
+930,2017-12-23,sabato,29,1,nebbia ,0,Milan,Atalanta,A,-,-
+930,2017-12-23,sabato,29,1,nebbia ,0,Juventus,Roma,A,-,-
+930,2017-12-23,sabato,29,1,nebbia ,0,Sassuolo,Inter,A,-,-
+930,2017-12-23,sabato,29,1,nebbia ,0,Napoli,Sampdoria,A,-,-
+930,2017-12-23,sabato,29,1,nebbia ,0,Lazio,Crotone,A,-,-
+931,2017-12-24,domenica,11,2,sole,0,-,-,-,-,-
+932,2017-12-26,martedì,25,5,pioggia ,Santo Stefano,-,-,-,-,-
+933,2017-12-27,mercoledì,23,7,pioggia nebbia ,0,-,-,-,-,-
+934,2017-12-28,giovedì,16,5,pioggia ,0,-,-,-,-,-
+935,2017-12-29,venerdì,14,3,sole,0,Crotone,Napoli,A,-,-
+936,2017-12-30,sabato,31,2,sole,0,Inter,Lazio,A,-,-
+936,2017-12-30,sabato,31,2,sole,0,Benevento,Chievo,A,-,-
+936,2017-12-30,sabato,31,2,sole,0,Fiorentina,Milan,A,-,-
+936,2017-12-30,sabato,31,2,sole,0,Verona,Juventus,A,-,-
+937,2017-12-31,domenica,10,2,sole,Ultimo dell'Anno,-,-,-,-,-
+938,2018-01-02,martedì,20,4,nebbia ,0,-,-,-,-,-
+939,2018-01-03,mercoledì,15,3,pioggia ,0,-,-,-,-,-
+940,2018-01-04,giovedì,25,5,sole,0,-,-,-,-,-
+941,2018-01-05,venerdì,27,5,sole,0,-,-,-,-,-
+942,2018-01-06,sabato,26,7,pioggia ,Epifania,-,-,-,Francia,Italia
+943,2018-01-07,domenica,38,10,sole,0,-,-,-,-,-
+944,2018-01-09,martedì,18,12,sole,0,Bologna,Inter,A,-,-
+944,2018-01-09,martedì,18,12,sole,0,Parma,Juventus,A,-,-
+945,2018-01-10,mercoledì,28,8,nebbia ,0,-,-,-,-,-
+946,2018-01-11,giovedì,26,7,nebbia ,0,-,-,-,-,-
+947,2018-01-12,venerdì,41,7,sole,0,Fiorentina,Juventus,A,-,-
+948,2018-01-13,sabato,40,5,sole,0,-,-,-,-,-
+949,2018-01-14,domenica,37,4,sole,0,-,-,-,-,-
+950,2018-01-16,martedì,20,4,pioggia ,0,-,-,-,-,-
+951,2018-01-17,mercoledì,28,6,nebbia ,0,-,-,-,-,-
+952,2018-01-18,giovedì,27,5,sole,0,-,-,-,-,-
+953,2018-01-19,venerdì,35,3,sole,0,-,-,-,-,-
+954,2018-01-20,sabato,48,3,sole,0,-,-,-,-,-
+955,2018-01-21,domenica,43,5,sole,0,Atalanta,Napoli,A,-,-
+955,2018-01-21,domenica,43,5,sole,0,Cagliari,Milan,A,-,-
+955,2018-01-21,domenica,43,5,sole,0,Inter,Roma,A,-,-
+955,2018-01-21,domenica,43,5,sole,0,Lazio,Chievo,A,-,-
+956,2018-01-23,martedì,27,4,sole,0,-,-,-,-,-
+957,2018-01-24,mercoledì,23,4,sole,0,Lazio,Udinese,A,-,-
+958,2018-01-25,giovedì,27,4,sole,0,-,-,-,-,-
+959,2018-01-26,venerdì,36,6,sole,0,-,-,-,-,-
+960,2018-01-27,sabato,38,8,sole,0,Chievo,Juventus,A,-,-
+961,2018-01-28,domenica,40,6,nebbia ,0,Spal,Inter,A,-,-
+961,2018-01-28,domenica,40,6,nebbia ,0,Milan,Lazio,A,-,-
+961,2018-01-28,domenica,40,6,nebbia ,0,Napoli,Bologna,A,-,-
+962,2018-01-30,martedì,21,5,nebbia ,0,-,-,-,-,-
+963,2018-01-31,mercoledì,22,6,pioggia nebbia ,0,-,-,-,-,-
+964,2018-02-01,giovedì,19,7,pioggia ,0,-,-,-,-,-
+965,2018-02-02,venerdì,34,6,pioggia ,0,-,-,-,-,-
+966,2018-02-03,sabato,49,4,pioggia ,0,-,-,-,-,-
+967,2018-02-04,domenica,38,4,sole,0,-,-,-,-,-
+968,2018-02-06,martedì,25,6,pioggia ,0,-,-,-,-,-
+969,2018-02-07,mercoledì,25,5,pioggia ,0,-,-,-,-,-
+970,2018-02-08,giovedì,26,6,sole,Giovedì Grasso,-,-,-,-,-
+971,2018-02-09,venerdì,31,6,pioggia nebbia ,0,Chievo,Empoli,A,-,-
+971,2018-02-09,venerdì,31,6,pioggia nebbia ,0,Lazio,Frosinone,A,-,-
+971,2018-02-09,venerdì,31,6,pioggia nebbia ,0,Sampdoria,Napoli,A,-,-
+972,2018-02-10,sabato,47,5,pioggia temporale ,0,-,-,-,-,-
+973,2018-02-11,domenica,35,4,sole,Carnevale,Napoli,Empoli,A,-,-
+974,2018-02-13,martedì,28,4,sole,Martedì Grasso,-,-,-,-,-
+975,2018-02-14,mercoledì,34,2,sole,San Valentino,-,-,-,-,-
+976,2018-02-15,giovedì,23,2,sole,0,-,-,-,-,-
+977,2018-02-16,venerdì,32,3,sole,0,-,-,-,-,-
+978,2018-02-17,sabato,43,4,pioggia ,0,Chievo,Cagliari,A,-,-
+978,2018-02-17,sabato,43,4,pioggia ,0,Genoa,Inter,A,-,-
+979,2018-02-18,domenica,39,5,pioggia nebbia ,0,Torino,Juventus,A,-,-
+979,2018-02-18,domenica,39,5,pioggia nebbia ,0,Milan,Sampdoria,A,-,-
+979,2018-02-18,domenica,39,5,pioggia nebbia ,0,Napoli,Spal,A,-,-
+980,2018-02-20,martedì,16,4,sole,0,-,-,-,-,-
+981,2018-02-21,mercoledì,21,4,sole,0,-,-,-,-,-
+982,2018-02-22,giovedì,26,4,pioggia ,0,-,-,-,-,-
+983,2018-02-23,venerdì,24,5,pioggia ,0,-,-,-,-,-
+984,2018-02-24,sabato,39,6,pioggia ,0,Inter,Benevento,A,-,-
+985,2018-02-25,domenica,38,2,sole,0,Roma,Milan,A,-,-
+985,2018-02-25,domenica,38,2,sole,0,Sassuolo,Lazio,A,-,-
+985,2018-02-25,domenica,38,2,sole,0,Fiorentina,Chievo,A,-,-
+986,2018-02-27,martedì,25,-3,sole,0,-,-,-,-,-
+987,2018-02-28,mercoledì,19,-3,sole,0,-,-,-,-,-
+988,2018-03-02,venerdì,38,-1,pioggia neve ,0,Inter,Crotone,A,-,-
+989,2018-03-03,sabato,51,1,pioggia neve nebbia ,0,Lazio,Juventus,A,-,-
+989,2018-03-03,sabato,51,1,pioggia neve nebbia ,0,Napoli,Roma,A,-,-
+990,2018-03-04,domenica,40,2,nebbia ,0,-,-,-,-,-
+991,2018-03-06,martedì,23,6,pioggia nebbia ,0,-,-,-,-,-
+992,2018-03-07,mercoledì,25,7,pioggia nebbia ,0,-,-,-,-,-
+993,2018-03-08,giovedì,32,8,sole,0,-,-,-,-,-
+994,2018-03-09,venerdì,28,9,sole,0,-,-,-,-,-
+995,2018-03-10,sabato,56,9,pioggia ,0,-,-,-,-,-
+996,2018-03-11,domenica,31,9,pioggia ,0,Juventus,Cagliari,A,-,-
+996,2018-03-11,domenica,31,9,pioggia ,0,Inter,Genoa,A,-,-
+997,2018-03-13,martedì,27,10,pioggia temporale nebbia ,0,-,-,-,-,-
+998,2018-03-14,mercoledì,21,9,nebbia ,0,Juventus,Atalanta,A,-,-
+999,2018-03-15,giovedì,24,8,pioggia nebbia ,0,-,-,-,-,-
+1000,2018-03-16,venerdì,33,10,pioggia ,0,-,-,-,-,-
+1001,2018-03-17,sabato,51,9,pioggia ,0,Spal,Juventus,A,-,-
+1002,2018-03-18,domenica,38,8,pioggia ,0,Sampdoria,Inter,A,-,-
+1002,2018-03-18,domenica,38,8,pioggia ,0,Lazio,Bologna,A,-,-
+1002,2018-03-18,domenica,38,8,pioggia ,0,Napoli,Genoa,A,-,-
+1002,2018-03-18,domenica,38,8,pioggia ,0,Milan,Chievo,A,-,-
+1003,2018-03-20,martedì,16,6,pioggia nebbia ,0,-,-,-,-,-
+1004,2018-03-21,mercoledì,25,6,sole,0,-,-,-,-,-
+1005,2018-03-22,giovedì,28,5,sole,0,-,-,-,-,-
+1006,2018-03-23,venerdì,31,6,sole,0,-,-,-,Argentina,Italia
+1007,2018-03-24,sabato,45,8,sole,0,-,-,-,-,-
+1008,2018-03-25,domenica,29,9,sole,Domenica delle Palme,-,-,-,-,-
+1009,2018-03-27,martedì,22,12,sole,0,-,-,-,Inghilterra,Italia
+1010,2018-03-28,mercoledì,21,13,sole,0,-,-,-,-,-
+1011,2018-03-29,giovedì,28,12,pioggia ,0,-,-,-,-,-
+1012,2018-03-30,venerdì,19,13,pioggia temporale ,0,-,-,-,-,-
+1013,2018-03-31,sabato,31,10,pioggia ,0,Sassuolo,Napoli,A,-,-
+1013,2018-03-31,sabato,31,10,pioggia ,0,Chievo,Sampdoria,A,-,-
+1013,2018-03-31,sabato,31,10,pioggia ,0,Inter,Verona,A,-,-
+1013,2018-03-31,sabato,31,10,pioggia ,0,Juventus,Milan,A,-,-
+1013,2018-03-31,sabato,31,10,pioggia ,0,Lazio,Benevento,A,-,-
+1014,2018-04-03,martedì,21,12,sole,0,-,-,-,-,-
+1015,2018-04-04,mercoledì,20,11,sole,0,Milan,Inter,A,-,-
+1015,2018-04-04,mercoledì,20,11,sole,0,Chievo,Sassuolo,A,-,-
+1016,2018-04-05,giovedì,13,13,sole,0,-,-,-,-,-
+1017,2018-04-06,venerdì,28,13,sole,0,-,-,-,Olanda,Italia
+1018,2018-04-07,sabato,42,14,sole,0,-,-,-,-,-
+1019,2018-04-08,domenica,39,14,sole,0,-,-,-,-,-
+1020,2018-04-10,martedì,29,13,sole,0,-,-,-,-,-
+1021,2018-04-11,mercoledì,27,11,sole,0,Chievo,Sassuolo,A,-,-
+1021,2018-04-11,mercoledì,27,11,sole,0,Udinese,Milan,A,-,-
+1021,2018-04-11,mercoledì,27,11,sole,0,Lazio,Spal,A,-,-
+1022,2018-04-12,giovedì,31,14,sole,0,-,-,-,-,-
+1023,2018-04-13,venerdì,30,13,sole,0,-,-,-,-,-
+1024,2018-04-14,sabato,30,16,sole,0,Atalanta,Inter,A,-,-
+1024,2018-04-14,sabato,30,16,sole,0,Chievo,Torino,A,-,-
+1025,2018-04-15,domenica,39,15,sole,0,Milan,Napoli,A,-,-
+1025,2018-04-15,domenica,39,15,sole,0,Lazio,Roma,A,-,-
+1025,2018-04-15,domenica,39,15,sole,0,Juventus,Sampdoria,A,-,-
+1026,2018-04-17,martedì,21,18,sole,0,Inter,Cagliari,A,-,-
+1027,2018-04-18,mercoledì,17,19,sole,0,Spal,Chievo,A,-,-
+1027,2018-04-18,mercoledì,17,19,sole,0,Crotone,Juventus,A,-,-
+1027,2018-04-18,mercoledì,17,19,sole,0,Torino,Milan,A,-,-
+1027,2018-04-18,mercoledì,17,19,sole,0,Fiorentina,Lazio,A,-,-
+1027,2018-04-18,mercoledì,17,19,sole,0,Napoli,Udinese,A,-,-
+1028,2018-04-19,giovedì,32,21,sole,0,-,-,-,-,-
+1029,2018-04-20,venerdì,28,20,sole,0,-,-,-,-,-
+1030,2018-04-21,sabato,32,20,sole,0,Milan,Benevento,A,-,-
+1031,2018-04-22,domenica,30,20,sole,0,Juventus,Napoli,A,-,-
+1031,2018-04-22,domenica,30,20,sole,0,Chievo,Inter,A,-,-
+1031,2018-04-22,domenica,30,20,sole,0,Lazio,Sampdoria,A,-,-
+1032,2018-04-24,martedì,24,19,sole,0,-,-,-,-,-
+1033,2018-04-25,mercoledì,33,20,sole,Anniversario della Liberazione,-,-,-,-,-
+1034,2018-04-26,giovedì,22,20,sole,0,-,-,-,-,-
+1035,2018-04-27,venerdì,17,19,sole,0,-,-,-,-,-
+1036,2018-04-28,sabato,34,19,sole,0,Inter,Juventus,A,-,-
+1036,2018-04-28,sabato,34,19,sole,0,Roma,Chievo,A,-,-
+1037,2018-04-29,domenica,43,20,sole,0,Torino,Lazio,A,-,-
+1037,2018-04-29,domenica,43,20,sole,0,Bologna,Milan,A,-,-
+1037,2018-04-29,domenica,43,20,sole,0,Fiorentina,Napoli,A,-,-
+1038,2018-04-30,lunedì,24,18,sole,0,-,-,-,-,-
+1039,2018-05-01,martedì,34,15,pioggia ,Festa dei Lavoratori,Chievo,Udinese,A,-,-
+1039,2018-05-01,martedì,34,15,pioggia ,Festa dei Lavoratori,Fiorentina,Inter,A,-,-
+1040,2018-05-02,mercoledì,27,14,pioggia ,0,Lazio,Genoa,A,-,-
+1041,2018-05-03,giovedì,17,17,pioggia temporale ,0,-,-,-,-,-
+1042,2018-05-04,venerdì,28,18,pioggia temporale ,0,-,-,-,-,-
+1043,2018-05-05,sabato,47,19,sole,0,Juventus,Bologna,A,-,-
+1043,2018-05-05,sabato,47,19,sole,0,Milan,Verona,A,-,-
+1044,2018-05-06,domenica,46,21,pioggia temporale ,0,-,-,-,-,-
+1045,2018-05-08,martedì,29,20,pioggia temporale ,0,-,-,-,-,-
+1046,2018-05-09,mercoledì,30,18,pioggia temporale ,0,-,-,-,-,-
+1047,2018-05-10,giovedì,32,18,pioggia ,0,-,-,-,-,-
+1048,2018-05-11,venerdì,44,18,pioggia temporale ,0,-,-,-,-,-
+1049,2018-05-12,sabato,33,21,sole,0,-,-,-,-,-
+1050,2018-05-13,domenica,40,19,pioggia temporale ,Festa della Mamma,Roma,Juventus,A,-,-
+1050,2018-05-13,domenica,40,19,pioggia temporale ,Festa della Mamma,Sampdoria,Napoli,A,-,-
+1050,2018-05-13,domenica,40,19,pioggia temporale ,Festa della Mamma,Atalanta,Milan,A,-,-
+1050,2018-05-13,domenica,40,19,pioggia temporale ,Festa della Mamma,Bologna,Chievo,A,-,-
+1050,2018-05-13,domenica,40,19,pioggia temporale ,Festa della Mamma,Crotone,Lazio,A,-,-
+1051,2018-05-15,martedì,26,13,pioggia ,0,-,-,-,-,-
+1052,2018-05-16,mercoledì,26,15,sole,0,-,-,-,-,-
+1053,2018-05-17,giovedì,36,16,pioggia temporale ,0,-,-,-,-,-
+1054,2018-05-18,venerdì,25,18,pioggia temporale ,0,-,-,-,-,-
+1055,2018-05-19,sabato,34,20,sole,0,Juventus,Verona,A,-,-
+1056,2018-05-20,domenica,40,20,sole,Pentecoste,Chievo,Benevento,A,-,-
+1056,2018-05-20,domenica,40,20,sole,Pentecoste,Lazio,Inter,A,-,-
+1056,2018-05-20,domenica,40,20,sole,Pentecoste,Napoli,Crotone,A,-,-
+1056,2018-05-20,domenica,40,20,sole,Pentecoste,Milan,Fiorentina,A,-,-
+1057,2018-05-22,martedì,30,17,pioggia ,0,-,-,-,-,-
+1058,2018-05-23,mercoledì,31,18,pioggia temporale nebbia ,0,-,-,-,-,-
+1059,2018-05-24,giovedì,20,22,sole,0,-,-,-,-,-
+1060,2018-05-25,venerdì,39,23,sole,0,-,-,-,-,-
+1061,2018-05-26,sabato,37,24,sole,0,-,-,-,-,-
+1062,2018-05-27,domenica,45,24,pioggia temporale ,0,-,-,-,-,-
+1063,2018-05-29,martedì,30,23,pioggia temporale ,0,-,-,-,-,-
+1064,2018-05-30,mercoledì,30,23,pioggia ,0,-,-,-,-,-
+1065,2018-05-31,giovedì,28,23,pioggia temporale ,0,-,-,-,-,-
+1066,2018-06-01,venerdì,23,25,sole,0,Cagliari,Juventus,A,-,-
+1066,2018-06-01,venerdì,23,25,sole,0,Milan,Crotone,A,-,-
+1066,2018-06-01,venerdì,23,25,sole,0,Napoli,Verona,A,-,-
+1066,2018-06-01,venerdì,23,25,sole,0,Spal,Lazio,A,-,-
+1067,2018-06-02,sabato,34,23,sole,Festa della Repubblica,-,-,-,-,-
+1068,2018-06-03,domenica,42,24,sole,0,-,-,-,-,-
+1069,2018-06-05,martedì,24,23,sole,0,Udinese,Inter,A,-,-
+1069,2018-06-05,martedì,24,23,sole,0,Lazio,Atalanta,A,-,-
+1069,2018-06-05,martedì,24,23,sole,0,Chievo,Crotone,A,-,-
+1069,2018-06-05,martedì,24,23,sole,0,Napoli,Torino,A,-,-
+1070,2018-06-06,mercoledì,30,23,sole,0,-,-,-,-,-
+1071,2018-06-07,giovedì,32,23,sole,0,-,-,-,-,-
+1072,2018-06-08,venerdì,22,21,sole,0,-,-,-,-,-
+1073,2018-06-09,sabato,34,23,sole,0,-,-,-,-,-
+1074,2018-06-10,domenica,33,25,sole,0,Udinese,Juventus,A,-,-
+1075,2018-06-12,martedì,33,23,sole,0,-,-,-,-,-
+1076,2018-06-13,mercoledì,18,22,sole,0,-,-,-,-,-
+1077,2018-06-14,giovedì,34,23,sole,0,-,-,-,-,-
+1078,2018-06-15,venerdì,22,22,sole,0,-,-,-,-,-
+1079,2018-06-16,sabato,29,23,sole,0,-,-,-,-,-
+1080,2018-06-17,domenica,43,25,sole,0,-,-,-,-,-
+1081,2018-06-19,martedì,25,25,sole,0,-,-,-,-,-
+1082,2018-06-20,mercoledì,25,26,sole,0,-,-,-,-,-
+1083,2018-06-21,giovedì,26,26,sole,0,-,-,-,-,-
+1084,2018-06-22,venerdì,26,22,sole,0,-,-,-,-,-
+1085,2018-06-23,sabato,32,21,sole,0,-,-,-,-,-
+1086,2018-06-24,domenica,39,21,sole,0,-,-,-,-,-
+1087,2018-06-26,martedì,29,22,sole,0,-,-,-,-,-
+1088,2018-06-27,mercoledì,24,21,sole,0,-,-,-,-,-
+1089,2018-06-28,giovedì,23,22,sole,0,-,-,-,-,-
+1090,2018-06-29,venerdì,26,25,sole,0,-,-,-,-,-
+1091,2018-06-30,sabato,22,26,sole,0,-,-,-,-,-
+1092,2018-07-01,domenica,42,25,sole,0,-,-,-,-,-
+1093,2018-07-03,martedì,30,25,sole,0,-,-,-,-,-
+1094,2018-07-04,mercoledì,25,24,sole,0,Benevento,Juventus,A,-,-
+1095,2018-07-05,giovedì,27,26,sole,0,-,-,-,-,-
+1096,2018-07-06,venerdì,34,23,sole,0,-,-,-,-,-
+1097,2018-07-07,sabato,39,25,sole,0,-,-,-,-,-
+1098,2018-07-08,domenica,31,25,sole,0,-,-,-,-,-
+1099,2018-07-10,martedì,26,26,sole,0,Lazio,Fiorentina,A,-,-
+1099,2018-07-10,martedì,26,26,sole,0,Spal,Inter,A,-,-
+1099,2018-07-10,martedì,26,26,sole,0,Napoli,Sassuolo,A,-,-
+1099,2018-07-10,martedì,26,26,sole,0,Milan,Chievo,A,-,-
+1100,2018-07-11,mercoledì,30,21,sole,0,-,-,-,-,-
+1101,2018-07-12,giovedì,24,24,sole,0,Juventus,Inter,A,-,-
+1102,2018-07-13,venerdì,26,25,sole,0,-,-,-,-,-
+1103,2018-07-14,sabato,34,27,sole,0,-,-,-,-,-
+1104,2018-07-15,domenica,47,26,sole,0,-,-,-,-,-
+1105,2018-07-17,martedì,27,24,sole,0,-,-,-,-,-
+1106,2018-07-18,mercoledì,27,26,sole,0,-,-,-,-,-
+1107,2018-07-19,giovedì,25,26,sole,0,-,-,-,-,-
+1108,2018-07-20,venerdì,24,26,sole,0,-,-,-,-,-
+1109,2018-07-21,sabato,31,23,sole,0,-,-,-,-,-
+1110,2018-07-22,domenica,35,25,sole,0,-,-,-,-,-
+1111,2018-07-24,martedì,23,26,sole,0,-,-,-,-,-
+1112,2018-07-25,mercoledì,24,27,sole,0,-,-,-,-,-
+1113,2018-07-26,giovedì,28,25,sole,0,-,-,-,-,-
+1114,2018-07-27,venerdì,25,26,sole,0,-,-,-,-,-
+1115,2018-07-28,sabato,30,27,sole,0,-,-,-,-,-
+1116,2018-07-29,domenica,40,27,sole,0,-,-,-,-,-
+1117,2018-07-31,martedì,32,29,sole,0,-,-,-,-,-
+1118,2018-08-01,mercoledì,27,30,sole,0,-,-,-,-,-
+1119,2018-08-02,giovedì,31,27,sole,0,-,-,-,-,-
+1120,2018-08-03,venerdì,27,28,sole,0,-,-,-,-,-
+1121,2018-08-04,sabato,32,28,sole,0,Milan,Sassuolo,A,-,-
+1121,2018-08-04,sabato,32,28,sole,0,Torino,Inter,A,-,-
+1121,2018-08-04,sabato,32,28,sole,0,Udinese,Lazio,A,-,-
+1121,2018-08-04,sabato,32,28,sole,0,Napoli,Chievo,A,-,-
+1122,2018-08-05,domenica,37,29,sole,0,-,-,-,-,-
+1123,2018-08-07,martedì,25,28,sole,0,-,-,-,-,-
+1124,2018-08-08,mercoledì,26,27,sole,0,-,-,-,-,-
+1125,2018-08-09,giovedì,31,27,sole,0,-,-,-,-,-
+1126,2018-08-10,venerdì,24,25,sole,0,-,-,-,-,-
+1127,2018-08-11,sabato,22,27,sole,0,-,-,-,-,-
+1128,2018-08-12,domenica,30,27,sole,0,Lazio,Sampdoria,A,-,-
+1128,2018-08-12,domenica,30,27,sole,0,Napoli,Frosinone,A,-,-
+1129,2018-08-14,martedì,26,21,sole,0,-,-,-,-,-
+1130,2018-08-16,giovedì,21,25,sole,0,-,-,-,-,-
+1131,2018-08-17,venerdì,25,25,sole,0,-,-,-,-,-
+1132,2018-08-18,sabato,17,26,sole,0,Lazio,Napoli,A,-,-
+1132,2018-08-18,sabato,17,26,sole,0,Chievo,Juventus,A,-,-
+1133,2018-08-19,domenica,27,28,sole,0,Sassuolo,Inter,A,-,-
+1134,2018-08-21,martedì,31,28,sole,0,-,-,-,-,-
+1135,2018-08-22,mercoledì,22,27,sole,0,-,-,-,-,-
+1136,2018-08-23,giovedì,22,27,sole,0,-,-,-,-,-
+1137,2018-08-24,venerdì,30,26,sole,0,-,-,-,-,-
+1138,2018-08-25,sabato,38,21,sole,0,Juventus,Lazio,A,-,-
+1138,2018-08-25,sabato,38,21,sole,0,Napoli,Milan,A,-,-
+1139,2018-08-26,domenica,39,19,sole,0,Inter,Torino,A,-,-
+1139,2018-08-26,domenica,39,19,sole,0,Fiorentina,Chievo,A,-,-
+1140,2018-08-28,martedì,27,21,sole,0,-,-,-,-,-
+1141,2018-08-29,mercoledì,29,23,sole,0,-,-,-,-,-
+1142,2018-08-30,giovedì,21,24,sole,0,-,-,-,-,-
+1143,2018-08-31,venerdì,33,22,sole,0,Milan,Roma,A,-,-
+1144,2018-09-01,sabato,41,19,pioggia temporale ,0,-,-,-,-,-
+1145,2018-09-02,domenica,42,18,pioggia ,0,Fiorentina,Juventus,A,-,-
+1146,2018-09-04,martedì,25,20,sole,0,-,-,-,-,-
+1147,2018-09-05,mercoledì,31,21,sole,0,-,-,-,-,-
+1148,2018-09-06,giovedì,29,22,pioggia temporale ,0,-,-,-,-,-
+1149,2018-09-07,venerdì,32,21,pioggia temporale ,0,-,-,-,-,-
+1150,2018-09-08,sabato,36,22,sole,0,-,-,-,-,-
+1151,2018-09-09,domenica,35,22,sole,0,-,-,-,-,-
+1152,2018-09-11,martedì,25,23,sole,0,-,-,-,-,-
+1153,2018-09-12,mercoledì,24,25,sole,0,Milan,Torino,A,-,-
+1153,2018-09-12,mercoledì,24,25,sole,0,Parma,Chievo,A,-,-
+1154,2018-09-13,giovedì,35,24,sole,0,-,-,-,-,-
+1155,2018-09-14,venerdì,27,23,sole,0,-,-,-,-,-
+1156,2018-09-15,sabato,35,23,pioggia temporale ,0,Inter,Parma,A,-,-
+1156,2018-09-15,sabato,35,23,pioggia temporale ,0,Napoli,Fiorentina,A,-,-
+1157,2018-09-16,domenica,40,22,sole,0,Empoli,Lazio,A,-,-
+1157,2018-09-16,domenica,40,22,sole,0,Cagliari,Milan,A,-,-
+1157,2018-09-16,domenica,40,22,sole,0,Roma,Chievo,A,-,-
+1157,2018-09-16,domenica,40,22,sole,0,Juventus,Sassuolo,A,-,-
+1158,2018-09-18,martedì,26,22,sole,0,-,-,-,-,-
+1159,2018-09-19,mercoledì,37,22,sole,0,-,-,-,-,-
+1160,2018-09-20,giovedì,26,23,sole,0,-,-,-,-,-
+1161,2018-09-21,venerdì,37,23,sole,0,-,-,-,-,-
+1162,2018-09-22,sabato,39,22,sole,0,Sampdoria,Inter,A,-,-
+1163,2018-09-23,domenica,40,21,sole,0,Chievo,Udinese,A,-,-
+1163,2018-09-23,domenica,40,21,sole,0,Frosinone,Juventus,A,-,-
+1163,2018-09-23,domenica,40,21,sole,0,Torino,Napoli,A,-,-
+1163,2018-09-23,domenica,40,21,sole,0,Milan,Atalanta,A,-,-
+1163,2018-09-23,domenica,40,21,sole,0,Lazio,Genoa,A,-,-
+1164,2018-09-25,martedì,31,16,sole,0,Inter,Fiorentina,A,-,-
+1165,2018-09-26,mercoledì,29,14,sole,0,Udinese,Lazio,A,-,-
+1165,2018-09-26,mercoledì,29,14,sole,0,Genoa,Chievo,A,-,-
+1165,2018-09-26,mercoledì,29,14,sole,0,Juventus,Bologna,A,-,-
+1165,2018-09-26,mercoledì,29,14,sole,0,Napoli,Parma,A,-,-
+1166,2018-09-27,giovedì,33,14,sole,0,Empoli,Milan,A,-,-
+1167,2018-09-28,venerdì,40,17,sole,0,-,-,-,-,-
+1168,2018-09-29,sabato,36,20,sole,0,Inter,Cagliari,A,-,-
+1168,2018-09-29,sabato,36,20,sole,0,Roma,Lazio,A,-,-
+1168,2018-09-29,sabato,36,20,sole,0,Juventus,Napoli,A,-,-
+1169,2018-09-30,domenica,46,17,sole,0,Chievo,Torino,A,-,-
+1169,2018-09-30,domenica,46,17,sole,0,Sassuolo,Milan,A,-,-
+1170,2018-10-02,martedì,24,14,pioggia ,0,Spal,Milan,A,-,-
+1170,2018-10-02,martedì,24,14,pioggia ,0,Napoli,Lazio,A,-,-
+1171,2018-10-03,mercoledì,27,14,sole,0,Verona,Chievo,A,-,-
+1172,2018-10-04,giovedì,27,16,sole,0,-,-,-,-,-
+1173,2018-10-05,venerdì,43,16,pioggia ,0,-,-,-,-,-
+1174,2018-10-06,sabato,51,16,pioggia ,0,-,-,-,-,-
+1175,2018-10-07,domenica,50,17,pioggia nebbia ,0,-,-,-,-,-
+1176,2018-10-09,martedì,26,18,sole,0,-,-,-,Portogallo,Italia
+1177,2018-10-10,mercoledì,26,18,sole,0,-,-,-,Ucraina,Italia
+1178,2018-10-11,giovedì,26,18,sole,0,Genoa,Napoli,A,-,-
+1179,2018-10-12,venerdì,40,18,sole,0,-,-,-,-,-
+1180,2018-10-13,sabato,37,17,sole,0,-,-,-,-,-
+1181,2018-10-14,domenica,37,17,sole,0,-,-,-,Polonia,Italia
+1182,2018-10-16,martedì,30,16,sole,0,-,-,-,-,-
+1183,2018-10-17,mercoledì,24,17,pioggia ,0,-,-,-,-,-
+1184,2018-10-18,giovedì,25,18,sole,0,-,-,-,-,-
+1185,2018-10-19,venerdì,42,17,sole,0,-,-,-,-,-
+1186,2018-10-20,sabato,37,16,sole,0,Udinese,Napoli,A,-,-
+1186,2018-10-20,sabato,37,16,sole,0,Juventus,Genoa,A,-,-
+1187,2018-10-21,domenica,47,14,pioggia ,0,Parma,Lazio,A,-,-
+1187,2018-10-21,domenica,47,14,pioggia ,0,Chievo,Atalanta,A,-,-
+1187,2018-10-21,domenica,47,14,pioggia ,0,Inter,Milan,A,-,-
+1188,2018-10-23,martedì,20,13,sole,0,-,-,-,-,-
+1189,2018-10-24,mercoledì,27,14,sole,0,-,-,-,-,-
+1190,2018-10-25,giovedì,35,15,sole,0,-,-,-,-,-
+1191,2018-10-26,venerdì,38,15,pioggia ,0,-,-,-,-,-
+1192,2018-10-27,sabato,51,15,pioggia ,0,Empoli,Juventus,A,-,-
+1193,2018-10-28,domenica,52,16,pioggia temporale nebbia ,0,Napoli,Roma,A,-,-
+1193,2018-10-28,domenica,52,16,pioggia temporale nebbia ,0,Cagliari,Chievo,A,-,-
+1193,2018-10-28,domenica,52,16,pioggia temporale nebbia ,0,Milan,Sampdoria,A,-,-
+1194,2018-10-30,martedì,24,13,pioggia ,0,-,-,-,-,-
+1195,2018-10-31,mercoledì,22,13,sole,0,Milan,Genoa,A,-,-
+1196,2018-11-01,giovedì,46,15,pioggia ,Ognissanti,-,-,-,-,-
+1197,2018-11-02,venerdì,34,13,pioggia ,Giorno dei Morti,Chievo,Genoa,A,-,-
+1197,2018-11-02,venerdì,34,13,pioggia ,Giorno dei Morti,Inter,Bologna,A,-,-
+1198,2018-11-03,sabato,51,15,sole,0,Genoa,Milan,A,-,-
+1198,2018-11-03,sabato,51,15,sole,0,Inter,Napoli,A,-,-
+1198,2018-11-03,sabato,51,15,sole,0,Cagliari,Lazio,A,-,-
+1198,2018-11-03,sabato,51,15,sole,0,Juventus,Udinese,A,-,-
+1199,2018-11-04,domenica,43,16,pioggia nebbia ,0,-,-,-,-,-
+1200,2018-11-06,martedì,31,16,pioggia ,0,-,-,-,-,-
+1201,2018-11-07,mercoledì,26,15,pioggia ,0,-,-,-,-,-
+1202,2018-11-08,giovedì,35,14,nebbia ,0,-,-,-,-,-
+1203,2018-11-09,venerdì,33,12,nebbia ,0,-,-,-,-,-
+1204,2018-11-10,sabato,51,12,pioggia nebbia ,0,-,-,-,-,-
+1205,2018-11-11,domenica,42,13,pioggia ,0,Milan,Juventus,A,-,-
+1205,2018-11-11,domenica,42,13,pioggia ,0,Sassuolo,Lazio,A,-,-
+1205,2018-11-11,domenica,42,13,pioggia ,0,Chievo,Bologna,A,-,-
+1205,2018-11-11,domenica,42,13,pioggia ,0,Atalanta,Inter,A,-,-
+1206,2018-11-13,martedì,33,14,nebbia ,0,-,-,-,-,-
+1207,2018-11-14,mercoledì,27,12,nebbia ,0,-,-,-,-,-
+1208,2018-11-15,giovedì,37,10,nebbia ,0,-,-,-,-,-
+1209,2018-11-16,venerdì,40,9,sole,0,-,-,-,-,-
+1210,2018-11-17,sabato,45,8,sole,0,-,-,-,Portogallo,Italia
+1211,2018-11-18,domenica,45,6,sole,0,-,-,-,-,-
+1212,2018-11-20,martedì,24,5,pioggia ,0,-,-,-,USA,Italia
+1213,2018-11-21,mercoledì,17,6,sole,0,-,-,-,-,-
+1214,2018-11-22,giovedì,35,8,sole,0,-,-,-,-,-
+1215,2018-11-23,venerdì,36,8,pioggia nebbia ,0,-,-,-,-,-
+1216,2018-11-24,sabato,40,10,pioggia nebbia ,0,Juventus,Spal,A,-,-
+1216,2018-11-24,sabato,40,10,pioggia nebbia ,0,Inter,Frosinone,A,-,-
+1217,2018-11-25,domenica,42,10,pioggia ,0,Napoli,Chievo,A,-,-
+1217,2018-11-25,domenica,42,10,pioggia ,0,Lazio,Milan,A,-,-
+1218,2018-11-27,martedì,33,10,pioggia ,0,-,-,-,-,-
+1219,2018-11-28,mercoledì,23,7,sole,0,-,-,-,-,-
+1220,2018-11-29,giovedì,27,4,sole,0,-,-,-,-,-
+1221,2018-11-30,venerdì,40,2,sole,0,-,-,-,-,-
+1222,2018-12-01,sabato,43,3,nebbia ,0,-,-,-,-,-
+1223,2018-12-02,domenica,38,2,nebbia ,0,-,-,-,-,-
+1224,2018-12-04,martedì,24,5,nebbia ,0,-,-,-,-,-
+1225,2018-12-05,mercoledì,22,6,nebbia ,0,Inter,Sassuolo,A,-,-
+1226,2018-12-06,giovedì,34,6,pioggia nebbia ,0,-,-,-,-,-
+1227,2018-12-07,venerdì,37,3,pioggia nebbia ,0,-,-,-,-,-
+1228,2018-12-08,sabato,43,8,pioggia nebbia ,Immacolata Concezione,-,-,-,-,-
+1229,2018-12-09,domenica,46,5,nebbia ,0,-,-,-,-,-
+1230,2018-12-11,martedì,26,5,sole,0,-,-,-,-,-
+1231,2018-12-12,mercoledì,30,0,sole,0,-,-,-,-,-
+1232,2018-12-13,giovedì,31,-1,sole,0,-,-,-,-,-
+1233,2018-12-14,venerdì,38,-2,sole,0,-,-,-,-,-
+1234,2018-12-15,sabato,52,-3,sole,0,Torino,Juventus,A,-,-
+1234,2018-12-15,sabato,52,-3,sole,0,Inter,Udinese,A,-,-
+1235,2018-12-16,domenica,42,-1,neve ,0,Cagliari,Napoli,A,-,-
+1235,2018-12-16,domenica,42,-1,neve ,0,Spal,Chievo,A,-,-
+1236,2018-12-18,martedì,27,-2,nebbia ,0,Bologna,Milan,A,-,-
+1237,2018-12-19,mercoledì,32,1,pioggia nebbia ,0,-,-,-,-,-
+1238,2018-12-20,giovedì,29,4,nebbia ,0,-,-,-,-,-
+1239,2018-12-21,venerdì,33,1,nebbia ,0,-,-,-,-,-
+1240,2018-12-22,sabato,41,3,nebbia ,0,Milan,Fiorentina,A,-,-
+1240,2018-12-22,sabato,41,3,nebbia ,0,Chievo,Inter,A,-,-
+1240,2018-12-22,sabato,41,3,nebbia ,0,Napoli,Spal,A,-,-
+1240,2018-12-22,sabato,41,3,nebbia ,0,Juventus,Roma,A,-,-
+1240,2018-12-22,sabato,41,3,nebbia ,0,Lazio,Cagliari,A,-,-
+1241,2018-12-23,domenica,42,0,nebbia ,0,-,-,-,-,-
+1242,2018-12-26,mercoledì,19,0,nebbia ,Santo Stefano,Bologna,Lazio,A,-,-
+1242,2018-12-26,mercoledì,19,0,nebbia ,Santo Stefano,Frosinone,Milan,A,-,-
+1242,2018-12-26,mercoledì,19,0,nebbia ,Santo Stefano,Inter,Napoli,A,-,-
+1242,2018-12-26,mercoledì,19,0,nebbia ,Santo Stefano,Atalanta,Juventus,A,-,-
+1242,2018-12-26,mercoledì,19,0,nebbia ,Santo Stefano,Sampdoria,Chievo,A,-,-
+1243,2018-12-27,giovedì,23,0,nebbia ,0,-,-,-,-,-
+1244,2018-12-28,venerdì,29,1,nebbia ,0,-,-,-,-,-
+1245,2018-12-29,sabato,32,2,nebbia ,0,Empoli,Inter,A,-,-
+1245,2018-12-29,sabato,32,2,nebbia ,0,Chievo,Frosinone,A,-,-
+1245,2018-12-29,sabato,32,2,nebbia ,0,Lazio,Torino,A,-,-
+1245,2018-12-29,sabato,32,2,nebbia ,0,Milan,Spal,A,-,-
+1245,2018-12-29,sabato,32,2,nebbia ,0,Juventus,Sampdoria,A,-,-
+1245,2018-12-29,sabato,32,2,nebbia ,0,Napoli,Bologna,A,-,-
+1246,2018-12-30,domenica,22,4,sole,0,-,-,-,-,-
+1247,2018-12-31,lunedì,6,2,nebbia ,Ultimo dell'Anno,-,-,-,-,-
+1248,2019-01-02,mercoledì,23,2,nebbia ,0,-,-,-,-,-
+1249,2019-01-03,giovedì,22,3,sole,0,Cagliari,Inter,A,-,-
+1250,2019-01-04,venerdì,27,-1,sole,0,-,-,-,-,-
+1251,2019-01-05,sabato,45,-1,sole,0,-,-,-,-,-
+1252,2019-01-06,domenica,34,1,sole,Epifania,-,-,-,-,-
+1253,2019-01-08,martedì,29,1,nebbia ,0,-,-,-,-,-
+1254,2019-01-09,mercoledì,25,1,nebbia ,0,Lazio,Roma,A,-,-
+1254,2019-01-09,mercoledì,25,1,nebbia ,0,Cagliari,Inter,A,-,-
+1255,2019-01-10,giovedì,32,6,sole,0,-,-,-,-,-
+1256,2019-01-11,venerdì,32,1,sole,0,Spezia,Chievo,B,-,-
+1257,2019-01-12,sabato,55,0,sole,0,Parma,Milan,A,-,-
+1257,2019-01-12,sabato,55,0,sole,0,Napoli,Bologna,A,-,-
+1257,2019-01-12,sabato,55,0,sole,0,Inter,Spal,A,-,-
+1257,2019-01-12,sabato,55,0,sole,0,Juventus,Sassuolo,A,-,-
+1257,2019-01-12,sabato,55,0,sole,0,Lazio,Udinese,A,-,-
+1257,2019-01-12,sabato,55,0,sole,0,Trapani,Chievo,B,-,-
+1258,2019-01-13,domenica,33,1,sole,0,-,-,-,-,-
+1259,2019-01-15,martedì,25,4,sole,0,-,-,-,-,-
+1260,2019-01-16,mercoledì,31,3,sole,0,-,-,-,-,-
+1261,2019-01-17,giovedì,22,5,pioggia ,0,-,-,-,-,-
+1262,2019-01-18,venerdì,48,6,pioggia ,0,-,-,-,-,-
+1263,2019-01-19,sabato,48,4,sole,0,Inter,Sassuolo,A,-,-
+1264,2019-01-20,domenica,44,1,sole,0,Napoli,Lazio,A,-,-
+1265,2019-01-22,martedì,26,2,sole,0,-,-,-,-,-
+1266,2019-01-24,giovedì,29,3,sole,0,-,-,-,-,-
+1267,2019-01-25,venerdì,21,1,sole,0,-,-,-,-,-
+1268,2019-01-26,sabato,50,-2,nebbia ,0,Milan,Napoli,A,-,-
+1269,2019-01-27,domenica,41,1,pioggia ,0,Lazio,Juventus,A,-,-
+1269,2019-01-27,domenica,41,1,pioggia ,0,Torino,Inter,A,-,-
+1269,2019-01-27,domenica,41,1,pioggia ,0,Chievo,Fiorentina,A,-,-
+1270,2019-01-29,martedì,32,2,nebbia ,0,-,-,-,-,-
+1271,2019-01-30,mercoledì,30,3,pioggia ,0,-,-,-,-,-
+1272,2019-01-31,giovedì,29,3,pioggia nebbia ,0,-,-,-,-,-
+1273,2019-02-01,venerdì,49,3,pioggia neve ,0,-,-,-,-,-
+1274,2019-02-02,sabato,61,4,pioggia nebbia ,0,Empoli,Chievo,A,-,-
+1274,2019-02-02,sabato,61,4,pioggia nebbia ,0,Juventus,Parma,A,-,-
+1274,2019-02-02,sabato,61,4,pioggia nebbia ,0,Napoli,Sampdoria,A,-,-
+1275,2019-02-03,domenica,59,5,pioggia ,0,Milan,Sassuolo,A,-,-
+1275,2019-02-03,domenica,59,5,pioggia ,0,Lazio,Roma,A,-,-
+1276,2019-02-05,martedì,27,5,sole,0,-,-,-,-,-
+1277,2019-02-06,mercoledì,29,6,sole,0,-,-,-,-,-
+1278,2019-02-07,giovedì,33,4,sole,0,-,-,-,-,-
+1279,2019-02-08,venerdì,38,6,sole,0,-,-,-,-,-
+1280,2019-02-09,sabato,45,6,sole,0,-,-,-,-,-
+1281,2019-02-10,domenica,52,7,pioggia ,0,-,-,-,-,-
+1282,2019-02-12,martedì,20,7,sole,0,-,-,-,-,-
+1283,2019-02-13,mercoledì,30,6,sole,0,-,-,-,-,-
+1284,2019-02-14,giovedì,31,6,sole,San Valentino,-,-,-,-,-
+1285,2019-02-15,venerdì,42,6,sole,0,Juventus,Frosinone,A,-,-
+1286,2019-02-16,sabato,49,7,sole,0,Atalanta,Milan,A,-,-
+1287,2019-02-17,domenica,47,7,sole,0,Napoli,Torino,A,-,-
+1287,2019-02-17,domenica,47,7,sole,0,Udinese,Chievo,A,-,-
+1287,2019-02-17,domenica,47,7,sole,0,Genoa,Lazio,A,-,-
+1287,2019-02-17,domenica,47,7,sole,0,Inter,Sampdoria,A,-,-
+1288,2019-02-19,martedì,33,6,nebbia ,0,-,-,-,-,-
+1289,2019-02-20,mercoledì,37,5,nebbia ,0,-,-,-,-,-
+1290,2019-02-21,giovedì,26,6,nebbia ,0,-,-,-,-,-
+1291,2019-02-22,venerdì,41,8,sole,0,Milan,Empoli,A,-,-
+1292,2019-02-23,sabato,42,6,sole,0,-,-,-,-,-
+1293,2019-02-24,domenica,42,3,sole,0,Bologna,Juventus,A,-,-
+1293,2019-02-24,domenica,42,3,sole,0,Chievo,Genoa,A,-,-
+1293,2019-02-24,domenica,42,3,sole,0,Parma,Napoli,A,-,-
+1293,2019-02-24,domenica,42,3,sole,0,Fiorentina,Inter,A,-,-
+1294,2019-02-26,martedì,26,9,sole,0,-,-,-,-,-
+1295,2019-02-27,mercoledì,23,11,sole,0,-,-,-,-,-
+1296,2019-02-28,giovedì,36,10,sole,Giovedì Grasso,-,-,-,-,-
+1297,2019-03-01,venerdì,27,8,sole,0,-,-,-,-,-
+1298,2019-03-02,sabato,58,9,sole,0,Inter,Bologna,A,-,-
+1298,2019-03-02,sabato,58,9,sole,0,Roma,Milan,A,-,-
+1299,2019-03-03,domenica,44,10,sole,Carnevale,Napoli,Juventus,A,-,-
+1299,2019-03-03,domenica,44,10,sole,Carnevale,Torino,Chievo,A,-,-
+1300,2019-03-05,martedì,35,8,sole,Martedì Grasso,Juventus,Torino,A,-,-
+1301,2019-03-06,mercoledì,34,9,sole,0,-,-,-,-,-
+1302,2019-03-07,giovedì,24,13,sole,0,-,-,-,-,-
+1303,2019-03-08,venerdì,24,11,sole,0,-,-,-,-,-
+1304,2019-03-09,sabato,45,10,sole,0,-,-,-,-,-
+1305,2019-03-10,domenica,45,10,sole,0,-,-,-,-,-
+1306,2019-03-12,martedì,35,9,sole,0,-,-,-,-,-
+1307,2019-03-13,mercoledì,28,5,sole,0,-,-,-,-,-
+1308,2019-03-14,giovedì,28,7,sole,0,-,-,-,-,-
+1309,2019-03-15,venerdì,25,10,sole,0,-,-,-,-,-
+1310,2019-03-16,sabato,44,11,sole,0,-,-,-,-,-
+1311,2019-03-17,domenica,47,11,sole,0,Atalanta,Chievo,A,-,-
+1311,2019-03-17,domenica,47,11,sole,0,Genoa,Juventus,A,-,-
+1311,2019-03-17,domenica,47,11,sole,0,Milan,Inter,A,-,-
+1311,2019-03-17,domenica,47,11,sole,0,Lazio,Parma,A,-,-
+1311,2019-03-17,domenica,47,11,sole,0,Napoli,Udinese,A,-,-
+1312,2019-03-19,martedì,25,7,sole,Festa di San Giuseppe,-,-,-,-,-
+1313,2019-03-20,mercoledì,27,8,sole,0,-,-,-,-,-
+1314,2019-03-21,giovedì,32,10,sole,0,-,-,-,-,-
+1315,2019-03-22,venerdì,31,11,sole,0,-,-,-,-,-
+1316,2019-03-23,sabato,47,14,sole,0,-,-,-,Finlandia,Italia
+1317,2019-03-24,domenica,39,15,sole,0,-,-,-,-,-
+1318,2019-03-26,martedì,23,10,sole,0,-,-,-,Liechtenstein,Italia
+1319,2019-03-27,mercoledì,28,10,sole,0,-,-,-,-,-
+1320,2019-03-28,giovedì,35,10,sole,0,-,-,-,-,-
+1321,2019-03-29,venerdì,33,11,sole,0,Chievo,Cagliari,A,-,-
+1322,2019-03-30,sabato,58,13,sole,0,Juventus,Empoli,A,-,-
+1322,2019-03-30,sabato,58,13,sole,0,Sampdoria,Milan,A,-,-
+1323,2019-03-31,domenica,45,14,sole,0,Inter,Lazio,A,-,-
+1323,2019-03-31,domenica,45,14,sole,0,Roma,Napoli,A,-,-
+1324,2019-04-02,martedì,26,16,sole,0,Frosinone,Lazio,A,-,-
+1325,2019-04-03,mercoledì,22,14,sole,0,-,-,-,-,-
+1326,2019-04-04,giovedì,33,12,sole,0,Sassuolo,Chievo,A,-,-
+1327,2019-04-05,venerdì,30,11,sole,0,Chievo,Spal,A,-,-
+1327,2019-04-05,venerdì,30,11,sole,0,Udinese,Inter,A,-,-
+1328,2019-04-06,sabato,49,12,sole,0,-,-,-,-,-
+1329,2019-04-07,domenica,36,11,sole,0,-,-,-,-,-
+1330,2019-04-08,lunedì,1,12,sole,0,-,-,-,-,-
+1331,2019-04-09,martedì,20,14,sole,0,-,-,-,-,-
+1332,2019-04-10,mercoledì,28,14,sole,0,-,-,-,-,-
+1333,2019-04-11,giovedì,34,12,sole,0,-,-,-,-,-
+1334,2019-04-12,venerdì,26,12,sole,0,-,-,-,-,-
+1335,2019-04-13,sabato,49,11,sole,0,Milan,Lazio,A,-,-
+1335,2019-04-13,sabato,49,11,sole,0,Spal,Juventus,A,-,-
+1336,2019-04-14,domenica,55,10,sole,Domenica delle Palme,Chievo,Napoli,A,-,-
+1336,2019-04-14,domenica,55,10,sole,Domenica delle Palme,Frosinone,Inter,A,-,-
+1337,2019-04-16,martedì,33,13,sole,0,-,-,-,-,-
+1338,2019-04-17,mercoledì,30,14,sole,0,Lazio,Udinese,A,-,-
+1339,2019-04-18,giovedì,30,15,sole,0,-,-,-,-,-
+1340,2019-04-19,venerdì,29,16,sole,0,-,-,-,-,-
+1341,2019-04-20,sabato,33,16,sole,0,Lazio,Chievo,A,-,-
+1341,2019-04-20,sabato,33,16,sole,0,Parma,Milan,A,-,-
+1341,2019-04-20,sabato,33,16,sole,0,Inter,Roma,A,-,-
+1341,2019-04-20,sabato,33,16,sole,0,Juventus,Fiorentina,A,-,-
+1342,2019-04-23,martedì,26,13,sole,0,-,-,-,-,-
+1343,2019-04-24,mercoledì,26,17,sole,0,-,-,-,-,-
+1344,2019-04-25,giovedì,36,15,sole,Anniversario della Liberazione,-,-,-,-,-
+1345,2019-04-26,venerdì,28,16,sole,0,-,-,-,-,-
+1346,2019-04-27,sabato,33,15,sole,0,Inter,Juventus,A,-,-
+1347,2019-04-28,domenica,38,12,sole,0,Frosinone,Napoli,A,-,-
+1347,2019-04-28,domenica,38,12,sole,0,Chievo,Parma,A,-,-
+1347,2019-04-28,domenica,38,12,sole,0,Sampdoria,Lazio,A,-,-
+1347,2019-04-28,domenica,38,12,sole,0,Torino,Milan,A,-,-
+1348,2019-04-30,martedì,31,15,sole,0,-,-,-,-,-
+1349,2019-05-01,mercoledì,30,17,sole,Festa dei Lavoratori,-,-,-,-,-
+1350,2019-05-02,giovedì,22,16,sole,0,-,-,-,-,-
+1351,2019-05-03,venerdì,38,15,sole,0,-,-,-,-,-
+1352,2019-05-04,sabato,34,14,sole,0,-,-,-,-,-
+1353,2019-05-05,domenica,42,9,sole,0,Lazio,Atalanta,A,-,-
+1353,2019-05-05,domenica,42,9,sole,0,Napoli,Cagliari,A,-,-
+1354,2019-05-07,martedì,33,13,sole,0,-,-,-,-,-
+1355,2019-05-08,mercoledì,31,12,sole,0,-,-,-,-,-
+1356,2019-05-09,giovedì,27,14,sole,0,-,-,-,Armenia,Italia
+1357,2019-05-10,venerdì,40,16,sole,0,Genoa,Milan,A,-,-
+1357,2019-05-10,venerdì,40,16,sole,0,Livorno,Chievo,B,-,-
+1358,2019-05-11,sabato,46,15,sole,0,-,-,-,-,-
+1359,2019-05-12,domenica,44,12,sole,Festa della Mamma,-,-,-,-,-
+1360,2019-05-14,martedì,24,13,sole,0,-,-,-,-,-
+1361,2019-05-15,mercoledì,21,9,sole,0,-,-,-,-,-
+1362,2019-05-16,giovedì,24,14,sole,0,-,-,-,-,-
+1363,2019-05-17,venerdì,34,16,sole,0,-,-,-,-,-
+1364,2019-05-18,sabato,49,14,sole,0,-,-,-,-,-
+1365,2019-05-19,domenica,34,14,sole,0,Chievo,Sampdoria,A,-,-
+1365,2019-05-19,domenica,34,14,sole,0,Juventus,Atalanta,A,-,-
+1365,2019-05-19,domenica,34,14,sole,0,Milan,Frosinone,A,-,-
+1365,2019-05-19,domenica,34,14,sole,0,Napoli,Inter,A,-,-
+1366,2019-05-21,martedì,32,16,sole,0,-,-,-,-,-
+1367,2019-05-22,mercoledì,30,18,sole,0,-,-,-,-,-
+1368,2019-05-23,giovedì,34,19,sole,0,-,-,-,-,-
+1369,2019-05-24,venerdì,39,19,sole,0,-,-,-,-,-
+1370,2019-05-25,sabato,39,18,sole,0,Frosinone,Chievo,A,-,-
+1370,2019-05-25,sabato,39,18,sole,0,Bologna,Napoli,A,-,-
+1371,2019-05-26,domenica,45,19,sole,0,Inter,Empoli,A,-,-
+1371,2019-05-26,domenica,45,19,sole,0,Sampdoria,Juventus,A,-,-
+1371,2019-05-26,domenica,45,19,sole,0,Spal,Milan,A,-,-
+1371,2019-05-26,domenica,45,19,sole,0,Torino,Lazio,A,-,-
+1372,2019-05-28,martedì,28,17,sole,0,-,-,-,-,-
+1373,2019-05-30,giovedì,33,17,sole,0,-,-,-,-,-
+1374,2019-05-31,venerdì,34,18,sole,0,-,-,-,-,-
+1375,2019-06-01,sabato,28,21,sole,0,-,-,-,-,-
+1376,2019-06-02,domenica,28,23,sole,Festa della Repubblica,-,-,-,-,-
+1377,2019-06-04,martedì,26,25,sole,0,Juventus,Milan,A,-,-
+1378,2019-06-05,mercoledì,27,24,sole,0,Milan,Bologna,A,-,-
+1379,2019-06-06,giovedì,39,21,sole,0,-,-,-,-,-
+1380,2019-06-07,venerdì,26,21,sole,0,-,-,-,-,-
+1381,2019-06-08,sabato,29,24,sole,0,-,-,-,-,-
+1382,2019-06-09,domenica,42,24,sole,Pentecoste,-,-,-,-,-
+1383,2019-06-11,martedì,28,27,sole,0,-,-,-,-,-
+1384,2019-06-12,mercoledì,23,26,sole,0,-,-,-,-,-
+1385,2019-06-13,giovedì,27,24,sole,0,-,-,-,-,-
+1386,2019-06-14,venerdì,31,24,sole,0,-,-,-,-,-
+1387,2019-06-15,sabato,24,26,sole,0,-,-,-,-,-
+1388,2019-06-16,domenica,31,26,sole,0,-,-,-,-,-
+1389,2019-06-18,martedì,33,26,sole,0,-,-,-,-,-
+1390,2019-06-19,mercoledì,23,27,sole,0,-,-,-,-,-
+1391,2019-06-20,giovedì,33,26,sole,0,-,-,-,-,-
+1392,2019-06-21,venerdì,32,26,sole,0,-,-,-,-,-
+1393,2019-06-22,sabato,41,24,sole,0,-,-,-,-,-
+1394,2019-06-23,domenica,45,24,sole,0,-,-,-,-,-
+1395,2019-06-25,martedì,20,28,sole,0,-,-,-,-,-
+1396,2019-06-26,mercoledì,16,30,sole,0,-,-,-,-,-
+1397,2019-06-27,giovedì,24,31,sole,0,-,-,-,-,-
+1398,2019-06-28,venerdì,29,31,sole,0,-,-,-,-,-
+1399,2019-06-29,sabato,29,29,sole,0,-,-,-,-,-
+1400,2019-06-30,domenica,20,29,sole,0,-,-,-,-,-
+1401,2019-07-02,martedì,22,28,sole,0,Lazio,Empoli,A,-,-
+1402,2019-07-03,mercoledì,28,27,sole,0,-,-,-,-,-
+1403,2019-07-04,giovedì,28,25,sole,0,Inter,Atalanta,A,-,-
+1403,2019-07-04,giovedì,28,25,sole,0,Napoli,Genoa,A,-,-
+1403,2019-07-04,giovedì,28,25,sole,0,Lazio,Sassuolo,A,-,-
+1404,2019-07-05,venerdì,35,27,sole,0,-,-,-,-,-
+1405,2019-07-06,sabato,43,29,sole,0,-,-,-,-,-
+1406,2019-07-07,domenica,57,26,sole,0,-,-,-,-,-
+1407,2019-07-09,martedì,39,24,sole,0,-,-,-,-,-
+1408,2019-07-10,mercoledì,32,24,sole,0,-,-,-,-,-
+1409,2019-07-11,giovedì,42,24,sole,0,-,-,-,-,-
+1410,2019-07-12,venerdì,38,24,sole,0,Lazio,Juventus,A,-,-
+1410,2019-07-12,venerdì,38,24,sole,0,Chievo,Cremonese,B,-,-
+1411,2019-07-13,sabato,48,23,sole,0,-,-,-,-,-
+1412,2019-07-14,domenica,37,23,sole,0,-,-,-,-,-
+1413,2019-07-16,martedì,33,23,sole,0,-,-,-,-,-
+1414,2019-07-17,mercoledì,24,25,sole,0,-,-,-,-,-
+1415,2019-07-18,giovedì,30,24,sole,0,-,-,-,-,-
+1416,2019-07-19,venerdì,34,25,sole,0,-,-,-,-,-
+1417,2019-07-20,sabato,36,26,sole,0,-,-,-,-,-
+1418,2019-07-21,domenica,30,27,sole,0,-,-,-,-,-
+1419,2019-07-23,martedì,26,29,sole,0,-,-,-,-,-
+1420,2019-07-24,mercoledì,23,30,sole,0,-,-,-,-,-
+1421,2019-07-25,giovedì,29,30,sole,0,-,-,-,-,-
+1422,2019-07-26,venerdì,33,30,sole,0,-,-,-,-,-
+1423,2019-07-27,sabato,29,24,sole,0,-,-,-,-,-
+1424,2019-07-28,domenica,39,21,sole,0,-,-,-,-,-
+1425,2019-07-30,martedì,31,27,sole,0,-,-,-,-,-
+1426,2019-07-31,mercoledì,22,26,sole,0,-,-,-,-,-
+1427,2019-08-01,giovedì,26,28,sole,0,-,-,-,-,-
+1428,2019-08-02,venerdì,31,24,sole,0,Chievo,Roma,A,-,-
+1429,2019-08-03,sabato,23,23,sole,0,Juventus,Udinese,A,-,-
+1430,2019-08-04,domenica,29,25,sole,0,Bologna,Chievo,A,-,-
+1431,2019-08-06,martedì,28,26,sole,0,-,-,-,Grecia,Italia
+1432,2019-08-07,mercoledì,27,24,sole,0,-,-,-,-,-
+1433,2019-08-08,giovedì,22,25,sole,0,-,-,-,-,-
+1434,2019-08-09,venerdì,26,27,sole,0,-,-,-,Finlandia,Italia
+1435,2019-08-10,sabato,12,28,sole,0,-,-,-,-,-
+1436,2019-08-11,domenica,29,28,sole,0,-,-,-,-,-
+1437,2019-08-13,martedì,21,25,sole,0,-,-,-,-,-
+1438,2019-08-14,mercoledì,23,23,sole,0,-,-,-,-,-
+1439,2019-08-16,venerdì,23,23,sole,0,-,-,-,-,-
+1440,2019-08-17,sabato,26,23,sole,0,-,-,-,-,-
+1441,2019-08-18,domenica,26,25,sole,0,-,-,-,-,-
+1442,2019-08-20,martedì,32,27,sole,0,-,-,-,-,-
+1443,2019-08-21,mercoledì,29,26,sole,0,-,-,-,-,-
+1444,2019-08-22,giovedì,23,25,sole,0,-,-,-,-,-
+1445,2019-08-23,venerdì,34,24,sole,0,-,-,-,-,-
+1446,2019-08-24,sabato,46,25,sole,0,Parma,Juventus,A,-,-
+1446,2019-08-24,sabato,46,25,sole,0,Fiorentina,Napoli,A,-,-
+1447,2019-08-25,domenica,35,25,sole,0,Sampdoria,Lazio,A,-,-
+1447,2019-08-25,domenica,35,25,sole,0,Udinese,Milan,A,-,-
+1447,2019-08-25,domenica,35,25,sole,0,Perugia,Chievo,B,-,-
+1448,2019-08-27,martedì,33,26,sole,0,-,-,-,-,-
+1449,2019-08-28,mercoledì,33,25,sole,0,-,-,-,-,-
+1450,2019-08-29,giovedì,34,25,sole,0,-,-,-,-,-
+1451,2019-08-30,venerdì,36,27,sole,0,Chievo,Empoli,B,-,-
+1452,2019-08-31,sabato,41,26,sole,0,Milan,Brescia,A,-,-
+1452,2019-08-31,sabato,41,26,sole,0,Juventus,Napoli,A,-,-
+1453,2019-09-01,domenica,39,25,sole,0,-,-,-,-,-
+1454,2019-09-03,martedì,32,23,sole,0,Chievo,Milan,A,-,-
+1455,2019-09-04,mercoledì,28,21,sole,0,-,-,-,-,-
+1456,2019-09-05,giovedì,33,22,sole,0,-,-,-,-,-
+1457,2019-09-06,venerdì,47,18,sole,0,-,-,-,-,-
+1458,2019-09-07,sabato,38,19,sole,0,-,-,-,-,-
+1459,2019-09-08,domenica,44,17,sole,0,-,-,-,-,-
+1460,2019-09-10,martedì,39,19,sole,0,-,-,-,-,-
+1461,2019-09-11,mercoledì,28,19,sole,0,Napoli,Genoa,A,-,-
+1461,2019-09-11,mercoledì,28,19,sole,0,Inter,Verona,A,-,-
+1462,2019-09-12,giovedì,38,22,sole,0,-,-,-,-,-
+1463,2019-09-13,venerdì,35,22,sole,0,-,-,-,-,-
+1464,2019-09-14,sabato,42,22,sole,0,Fiorentina,Juventus,A,-,-
+1464,2019-09-14,sabato,42,22,sole,0,Inter,Udinese,A,-,-
+1464,2019-09-14,sabato,42,22,sole,0,Napoli,Sampdoria,A,-,-
+1464,2019-09-14,sabato,42,22,sole,0,Venezia,Chievo,B,-,-
+1465,2019-09-15,domenica,50,23,sole,0,Verona,Milan,A,-,-
+1465,2019-09-15,domenica,50,23,sole,0,Spal,Lazio,A,-,-
+1466,2019-09-17,martedì,27,24,sole,0,-,-,-,-,-
+1467,2019-09-18,mercoledì,35,22,sole,0,-,-,-,-,-
+1468,2019-09-19,giovedì,34,19,sole,0,-,-,-,-,-
+1469,2019-09-20,venerdì,43,17,sole,0,-,-,-,-,-
+1470,2019-09-21,sabato,38,15,sole,0,Milan,Inter,A,-,-
+1470,2019-09-21,sabato,38,15,sole,0,Juventus,Verona,A,-,-
+1470,2019-09-21,sabato,38,15,sole,0,Chievo,Pisa,B,-,-
+1471,2019-09-22,domenica,49,16,sole,0,Lecce,Napoli,A,-,-
+1471,2019-09-22,domenica,49,16,sole,0,Lazio,Parma,A,-,-
+1472,2019-09-24,martedì,32,18,sole,0,Brescia,Juventus,A,-,-
+1473,2019-09-25,mercoledì,31,17,sole,0,Napoli,Cagliari,A,-,-
+1473,2019-09-25,mercoledì,31,17,sole,0,Inter,Lazio,A,-,-
+1473,2019-09-25,mercoledì,31,17,sole,0,Salernitana,Chievo,B,-,-
+1474,2019-09-26,giovedì,33,19,sole,0,Torino,Milan,A,-,-
+1475,2019-09-27,venerdì,27,19,sole,0,-,-,-,-,-
+1476,2019-09-28,sabato,50,20,sole,0,Sampdoria,Inter,A,-,-
+1476,2019-09-28,sabato,50,20,sole,0,Juventus,Spal,A,-,-
+1477,2019-09-29,domenica,50,19,sole,0,Milan,Fiorentina,A,-,-
+1477,2019-09-29,domenica,50,19,sole,0,Napoli,Brescia,A,-,-
+1477,2019-09-29,domenica,50,19,sole,0,Lazio,Genoa,A,-,-
+1477,2019-09-29,domenica,50,19,sole,0,Chievo,Pordenone,B,-,-
+1478,2019-10-01,martedì,36,21,sole,0,-,-,-,-,-
+1479,2019-10-02,mercoledì,35,19,sole,0,Sassuolo,Juventus,A,-,-
+1479,2019-10-02,mercoledì,35,19,sole,0,Milan,Cagliari,A,-,-
+1480,2019-10-03,giovedì,37,15,sole,0,Fiorentina,Lazio,A,-,-
+1480,2019-10-03,giovedì,37,15,sole,0,Sassuolo,Napoli,A,-,-
+1480,2019-10-03,giovedì,37,15,sole,0,Inter,Spal,A,-,-
+1481,2019-10-04,venerdì,45,14,sole,0,-,-,-,-,-
+1482,2019-10-05,sabato,48,15,sole,0,-,-,-,-,-
+1483,2019-10-06,domenica,47,15,sole,0,-,-,-,-,-
+1484,2019-10-08,martedì,24,15,sole,0,-,-,-,-,-
+1485,2019-10-09,mercoledì,30,15,sole,0,-,-,-,-,-
+1486,2019-10-10,giovedì,36,15,sole,0,-,-,-,-,-
+1487,2019-10-11,venerdì,48,15,sole,0,Juventus,Milan,A,-,-
+1487,2019-10-11,venerdì,48,15,sole,0,Lazio,Lecce,A,-,-
+1487,2019-10-11,venerdì,48,15,sole,0,Frosinone,Chievo,B,-,-
+1488,2019-10-12,sabato,53,14,sole,0,-,-,-,-,-
+1489,2019-10-13,domenica,45,14,sole,0,-,-,-,-,-
+1490,2019-10-15,martedì,34,18,sole,0,-,-,-,Liechtenstein,Italia
+1491,2019-10-16,mercoledì,42,14,sole,0,-,-,-,-,-
+1492,2019-10-17,giovedì,41,15,sole,0,-,-,-,-,-
+1493,2019-10-18,venerdì,37,16,sole,0,-,-,-,-,-
+1494,2019-10-19,sabato,53,16,sole,0,Juventus,Bologna,A,-,-
+1494,2019-10-19,sabato,53,16,sole,0,Napoli,Verona,A,-,-
+1494,2019-10-19,sabato,53,16,sole,0,Lazio,Atalanta,A,-,-
+1495,2019-10-20,domenica,59,18,sole,0,Milan,Lecce,A,-,-
+1495,2019-10-20,domenica,59,18,sole,0,Sassuolo,Inter,A,-,-
+1495,2019-10-20,domenica,59,18,sole,0,Chievo,Ascoli,B,-,-
+1496,2019-10-22,martedì,41,18,sole,0,-,-,-,-,-
+1497,2019-10-23,mercoledì,38,17,sole,0,-,-,-,-,-
+1498,2019-10-24,giovedì,44,16,sole,0,-,-,-,-,-
+1499,2019-10-25,venerdì,42,17,sole,0,-,-,-,-,-
+1500,2019-10-26,sabato,57,15,sole,0,Lecce,Juventus,A,-,-
+1500,2019-10-26,sabato,57,15,sole,0,Inter,Parma,A,-,-
+1500,2019-10-26,sabato,57,15,sole,0,Cosenza,Chievo,B,-,-
+1501,2019-10-27,domenica,48,14,sole,0,Fiorentina,Lazio,A,-,-
+1501,2019-10-27,domenica,48,14,sole,0,Spal,Napoli,A,-,-
+1501,2019-10-27,domenica,48,14,sole,0,Roma,Milan,A,-,-
+1502,2019-10-29,martedì,36,15,sole,0,Brescia,Inter,A,-,-
+1502,2019-10-29,martedì,36,15,sole,0,Chievo,Crotone,B,-,-
+1503,2019-10-30,mercoledì,37,13,sole,0,Juventus,Genoa,A,-,-
+1503,2019-10-30,mercoledì,37,13,sole,0,Napoli,Atalanta,A,-,-
+1503,2019-10-30,mercoledì,37,13,sole,0,Lazio,Torino,A,-,-
+1504,2019-10-31,giovedì,37,11,sole,0,Milan,Spal,A,-,-
+1505,2019-11-01,venerdì,49,11,sole,Ognissanti,-,-,-,-,-
+1506,2019-11-02,sabato,65,11,sole,Giorno dei Morti,-,-,-,-,-
+1507,2019-11-03,domenica,52,12,sole,0,-,-,-,-,-
+1508,2019-11-05,martedì,44,13,sole,0,Fiorentina,Milan,A,-,-
+1508,2019-11-05,martedì,44,13,sole,0,Cagliari,Lazio,A,-,-
+1509,2019-11-06,mercoledì,45,10,sole,0,-,-,-,Bosnia-Herzegovina,Italia
+1510,2019-11-07,giovedì,30,10,sole,0,-,-,-,-,-
+1511,2019-11-08,venerdì,50,11,sole,0,-,-,-,-,-
+1512,2019-11-09,sabato,60,9,sole,0,-,-,-,-,-
+1513,2019-11-10,domenica,51,8,sole,0,-,-,-,-,-
+1514,2019-11-12,martedì,27,9,sole,0,-,-,-,-,-
+1515,2019-11-13,mercoledì,32,10,sole,0,-,-,-,-,-
+1516,2019-11-14,giovedì,35,8,sole,0,-,-,-,-,-
+1517,2019-11-15,venerdì,54,10,sole,0,-,-,-,Bosnia-Herzegovina,Italia
+1518,2019-11-16,sabato,52,8,sole,0,-,-,-,-,-
+1519,2019-11-17,domenica,43,9,sole,0,-,-,-,-,-
